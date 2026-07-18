@@ -1,0 +1,15 @@
+[
+  { "id": "1", "question": "Quels sont les 3 outils appliqués dans ce cours, et sur quelles entreprises ?", "reponse": "PESTEL (Coca-Cola), SWOT (BlaBlaCar), matrice BCG (Apple)." },
+  { "id": "2", "question": "Au-delà du constat, quel est l'objectif final de ces outils d'analyse ?", "reponse": "Émettre des préconisations stratégiques concrètes pour optimiser la rentabilité de l'entreprise." },
+  { "id": "3", "question": "Dans le PESTEL de Coca-Cola, quel facteur concerne la taxe soda ?", "reponse": "Le facteur Politique." },
+  { "id": "4", "question": "Dans le PESTEL de Coca-Cola, quel facteur concerne la gestion de l'eau et des emballages ?", "reponse": "Le facteur Environnemental." },
+  { "id": "5", "question": "Quelle est la principale force de BlaBlaCar identifiée dans le SWOT ?", "reponse": "Être leader sur le marché français du covoiturage, avec un fort développement international." },
+  { "id": "6", "question": "Quelle est une faiblesse de BlaBlaCar identifiée dans le SWOT ?", "reponse": "Une faible présence sur le marché des trajets de proximité, et des frais de réservation élevés." },
+  { "id": "7", "question": "Dans un SWOT, à quelle catégorie appartiennent les forces et les faiblesses ?", "reponse": "Aux facteurs internes." },
+  { "id": "8", "question": "Dans un SWOT, à quelle catégorie appartiennent les opportunités et les menaces ?", "reponse": "Aux facteurs externes." },
+  { "id": "9", "question": "Dans la matrice BCG d'Apple, dans quelle catégorie se situe la téléphonie (iPhone) ?", "reponse": "Vedette / Star (leader sur un marché en croissance)." },
+  { "id": "10", "question": "Dans la matrice BCG d'Apple, dans quelle catégorie se situent les ordinateurs (Mac) ?", "reponse": "Poids mort (marché en récession, part de marché relative < 1)." },
+  { "id": "11", "question": "Que représente le diamètre des cercles dans une matrice BCG ?", "reponse": "Le poids du DAS (chiffre d'affaires) par rapport au CA global de l'entreprise." },
+  { "id": "12", "question": "Quels sont les 4 types d'actions possibles issues d'un SWOT ?", "reponse": "Consolider ses forces, transformer ses faiblesses, profiter des opportunités, intégrer les menaces." },
+  { "id": "13", "question": "L'analyse stratégique peut-elle concerner un simple projet, ou uniquement l'entreprise entière ?", "reponse": "Les deux : elle peut concerner l'entreprise dans sa globalité ou un projet spécifique." }
+]

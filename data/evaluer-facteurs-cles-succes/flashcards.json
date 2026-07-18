@@ -1,0 +1,14 @@
+[
+  { "id": "1", "question": "Que sont les Facteurs Clés de Succès (FCS) ?", "reponse": "Les éléments stratégiques qu'une entreprise doit maîtriser pour réussir dans un secteur donné et développer un avantage concurrentiel." },
+  { "id": "2", "question": "Quelles sont les 4 influences qui déterminent les FCS d'un secteur ?", "reponse": "Les attentes des clients, la présence de la concurrence, les influences normatives et légales, la capacité interne." },
+  { "id": "3", "question": "Les FCS sont-ils les mêmes pour tous les secteurs ?", "reponse": "Non, ils varient d'un secteur d'activité à l'autre, et évoluent dans le temps." },
+  { "id": "4", "question": "Citez 3 des 6 grandes catégories de FCS.", "reponse": "Position sur le marché, coûts, maîtrise technologique (ou aussi : image/communication, management RH, rentabilité)." },
+  { "id": "5", "question": "Quelle est la première étape de la méthode pour mesurer la maîtrise des FCS ?", "reponse": "L'identification des principaux FCS." },
+  { "id": "6", "question": "Sur quelle base se fait le scoring de la maîtrise d'un FCS ?", "reponse": "Par rapport à la position des principaux concurrents et/ou aux attentes clients." },
+  { "id": "7", "question": "Quelle technique complémentaire permet d'identifier des solutions d'amélioration d'un FCS ?", "reponse": "Le benchmark des meilleures pratiques du secteur." },
+  { "id": "8", "question": "Dans l'exemple Air France-KLM, quel est le FCS le moins bien maîtrisé ?", "reponse": "La maîtrise des coûts (endettement, accord carburant long terme défavorable)." },
+  { "id": "9", "question": "Pourquoi une compagnie low cost et Air France-KLM n'ont-elles pas les mêmes FCS prioritaires ?", "reponse": "Une low cost mise avant tout sur la maîtrise des coûts, tandis qu'un généraliste comme Air France-KLM mise sur les services et un vaste réseau de destinations." },
+  { "id": "10", "question": "Que signifie 'load factor' pour une compagnie aérienne ?", "reponse": "Le taux de remplissage des avions, un FCS central du transport aérien." },
+  { "id": "11", "question": "Un FCS doit-il forcément être maîtrisé de la même façon dans le temps ?", "reponse": "Non, les FCS évoluent avec la technologie, la concurrence, la réglementation et les comportements des consommateurs." },
+  { "id": "12", "question": "Que doit vérifier l'entreprise pour chaque FCS identifié ?", "reponse": "Si elle possède les compétences clés permettant de le maîtriser." }
+]

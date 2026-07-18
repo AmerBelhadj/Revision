@@ -1,0 +1,61 @@
+{
+  "titre": "Analyse de l'entreprise sur son marché",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "L'évolution du marketing",
+      "contenu": "Le marketing a évolué d'une logique de production (19e siècle, l'offre déterminait la demande) vers un marketing segmenté (années 70-75), puis individualisé (1995-2000, marketing one-to-one), pour devenir aujourd'hui un marketing relationnel appuyé sur le big data et les outils digitaux (réseaux sociaux, CRM, IA). Le produit se définit par ses coûts (sur lesquels l'entreprise peut jouer) et ses bénéfices perçus (valeur ajoutée).",
+      "points_cles": [
+        "Marketing de l'offre → marketing de la demande → marketing relationnel",
+        "Aujourd'hui : marketing personnalisé, à double sens avec le client",
+        "Le diagnostic marketing doit être réalisé régulièrement, associé à un suivi d'indicateurs"
+      ]
+    },
+    {
+      "titre": "Le raisonnement marketing : analyser, décider, agir",
+      "contenu": "La démarche marketing est multidisciplinaire (sociologie, économie, statistiques, créativité...) et se structure en 3 étapes : analyser sa situation interne et externe, décider des axes stratégiques de développement, puis agir via le plan opérationnel organisé autour des 4P (produit, prix, distribution, communication). Ces 3 étapes doivent être alignées, sinon les décisions restent fragiles.",
+      "points_cles": [
+        "3 verbes clés : analyser, décider, agir",
+        "Le plan d'action opérationnel s'articule autour des 4P du marketing mix",
+        "L'analyse vise à se concentrer sur les Domaines d'Activités Stratégiques (DAS)"
+      ]
+    },
+    {
+      "titre": "Les outils de recueil d'information",
+      "contenu": "La première étape du diagnostic est exploratoire : analyse documentaire (interne : rapports d'activité, statistiques de vente ; externe : études de marché, textes réglementaires, veille), études qualitatives (entretiens individuels ou de groupe, pour comprendre motivations et comportements) et études quantitatives (sondages, panels, baromètres, pour obtenir des données chiffrées).",
+      "points_cles": [
+        "Analyse documentaire : peu coûteuse mais à recouper avec des sources fiables",
+        "Études qualitatives : comprendre le comment et le pourquoi des comportements",
+        "Études quantitatives : mesurer via des méthodes statistiques (sondages, panels)"
+      ]
+    },
+    {
+      "titre": "Les outils d'aide au diagnostic externe",
+      "contenu": "Les 5 forces de Porter (+ une 6e optionnelle : l'influence de l'État) analysent l'intensité concurrentielle : menace des nouveaux entrants, produits de substitution, pouvoir de négociation des clients et des fournisseurs, intensité concurrentielle. La matrice PESTEL cartographie le macro-environnement en 6 catégories. Ces deux outils alimentent ensuite le SWOT.",
+      "points_cles": [
+        "Porter : 5 forces (+ État en option) pour mesurer l'intensité concurrentielle, visualisables en hexagone",
+        "PESTEL : Politique, Économique, Socioculturel, Technologique, Écologique, Légal",
+        "PESTEL et Porter alimentent le diagnostic externe du SWOT"
+      ]
+    },
+    {
+      "titre": "Les outils d'analyse interne : ADL, Ansoff et chaîne de valeur",
+      "contenu": "La matrice ADL croise maturité de l'activité (démarrage/croissance/maturité/déclin) et position concurrentielle pour orienter développement naturel, sélectif, réorientation ou abandon. La matrice Ansoff croise produits (actuels/nouveaux) et marchés (actuels/nouveaux). La chaîne de valeur distingue activités principales (logistique, production, vente) et activités de soutien (RH, technologie, achats) pour identifier des avantages concurrentiels.",
+      "points_cles": [
+        "ADL : maturité de l'activité × position concurrentielle",
+        "Ansoff : produits actuels/nouveaux × marchés actuels/nouveaux",
+        "Chaîne de valeur : activités principales + activités de soutien"
+      ]
+    },
+    {
+      "titre": "La matrice SWOT (ou Moff)",
+      "contenu": "Outil le plus utilisé pour le diagnostic global : le diagnostic interne (forces/faiblesses, via la matrice Ansoff notamment) et le diagnostic externe (opportunités/menaces, via PESTEL pour le macro-environnement et Porter/ADL pour le micro-environnement) sont réalisés séparément puis synthétisés pour une vision globale.",
+      "points_cles": [
+        "SWOT = Strengths, Weaknesses, Opportunities, Threats",
+        "Synthétise les analyses internes et externes des autres outils",
+        "Sert de base à la définition de la stratégie"
+      ]
+    }
+  ],
+  "essentiel": "L'analyse de l'entreprise sur son marché est une démarche indispensable qui repose sur de nombreux outils complémentaires (Porter, PESTEL, ADL, Ansoff, chaîne de valeur, SWOT). Elle garantit la cohérence entre l'offre de l'entreprise et les besoins réels des consommateurs, et permet de déceler les opportunités de développement pour assurer la pérennité de l'entreprise."
+}

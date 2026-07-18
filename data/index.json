@@ -1,0 +1,51 @@
+{
+  "groupes": [
+    {
+      "id": "a-classer",
+      "nom": "À classer",
+      "modules": [
+        {
+          "id": "module-1",
+          "nom": "Module provisoire",
+          "cours": [
+            {
+              "id": "outils-aide-analyse",
+              "titre": "Les outils d'aide à l'analyse",
+              "chemin": "data/outils-aide-analyse"
+            },
+            {
+              "id": "objectifs-diagnostics-strategiques",
+              "titre": "Les objectifs des diagnostics stratégiques",
+              "chemin": "data/objectifs-diagnostics-strategiques"
+            },
+            {
+              "id": "analyse-entreprise-marche",
+              "titre": "Analyse de l'entreprise sur son marché",
+              "chemin": "data/analyse-entreprise-marche"
+            },
+            {
+              "id": "prise-en-compte-marche",
+              "titre": "La prise en compte du marché",
+              "chemin": "data/prise-en-compte-marche"
+            },
+            {
+              "id": "outils-analyse-portefeuille-activites",
+              "titre": "Les outils d'analyse du portefeuille d'activités",
+              "chemin": "data/outils-analyse-portefeuille-activites"
+            },
+            {
+              "id": "pas-a-pas-analyse-strategique",
+              "titre": "Pas à pas - L'analyse stratégique",
+              "chemin": "data/pas-a-pas-analyse-strategique"
+            },
+            {
+              "id": "evaluer-facteurs-cles-succes",
+              "titre": "Évaluer ses facteurs clés de succès",
+              "chemin": "data/evaluer-facteurs-cles-succes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

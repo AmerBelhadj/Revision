@@ -1,0 +1,52 @@
+{
+  "titre": "La prise en compte du marché",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Le concept de marché et ses formes",
+      "contenu": "Le marché est le lieu de rencontre entre l'offre et la demande. On distingue le marché principal (activité principale, concurrents directs), le marché complémentaire (produits liés/indispensables au produit principal), le marché de substitution (produits différents répondant au même besoin), le marché support (produits différents mais consommateurs proches) et le marché générique (tous les produits liés au besoin générique).",
+      "points_cles": [
+        "Marché principal : concurrents directs, mêmes produits, mêmes besoins",
+        "Marché de substitution : technologie différente, même besoin satisfait",
+        "Marché générique : rassemble tous les produits liés à un même besoin humain"
+      ]
+    },
+    {
+      "titre": "La demande : clients et prospects",
+      "contenu": "La demande regroupe les clients (consommateurs déjà acheteurs, à fidéliser) et les prospects (clients des concurrents, à attirer ; non-consommateurs relatifs, à convertir). Les non-consommateurs absolus ne peuvent pas consommer le produit (raisons physiques, morales, religieuses) et ne sont pas des prospects intéressants.",
+      "points_cles": [
+        "2 types de prospects : clients des concurrents et non-consommateurs relatifs",
+        "Non-consommateurs absolus ≠ prospects intéressants",
+        "La fidélisation des clients repose sur des techniques variées (CRM, offres privilèges...)"
+      ]
+    },
+    {
+      "titre": "L'offre et les situations concurrentielles",
+      "contenu": "L'offre regroupe producteurs, intermédiaires et distributeurs, classés par position (leader, challenger, outsider/suiveur) en volume et en valeur. Trois situations concurrentielles existent : le monopole (un seul offreur), l'oligopole (peu d'offreurs, ex. télécoms français), et la concurrence pure et parfaite (marché atomisé, nombreux offreurs et acheteurs, ex. produits de consommation courante).",
+      "points_cles": [
+        "Leader / challenger / outsider (suiveur), à analyser en volume ET en valeur",
+        "Monopole : un seul offreur (ex. La Poste pour le courrier)",
+        "Oligopole : peu d'offreurs (ex. télécoms) ; concurrence pure et parfaite : marché atomisé"
+      ]
+    },
+    {
+      "titre": "Analyser la demande",
+      "contenu": "L'analyse quantitative mesure des variables chiffrées : volume, chiffre d'affaires (volume × prix), revenu disponible, taux d'équipement, taux de pénétration. L'analyse qualitative décrit le comportement (freins, motivations, critères d'achat) via des entretiens individuels ou des groupes de discussion/réflexion (focus groups), permettant de construire des personas.",
+      "points_cles": [
+        "Chiffre d'affaires = volume × prix",
+        "Taux de pénétration = (ménages clients réguliers / ménages résidents) × 100",
+        "Analyse qualitative : entretiens individuels ou focus groups (10-20 personnes, 1h30-2h)"
+      ]
+    },
+    {
+      "titre": "Analyser l'offre et l'intensité concurrentielle",
+      "contenu": "Les indicateurs clés : taux d'évolution du CA, part de marché en volume et en valeur, part de marché relative (part de marché de l'entreprise / part du principal concurrent × 100). Le modèle des 5 (+1) forces de Porter permet d'évaluer l'intensité concurrentielle d'un marché, représentée sur un hexagone noté de 0 à 10 par force.",
+      "points_cles": [
+        "Part de marché relative = (part de marché entreprise / part du principal concurrent) × 100",
+        "5 forces de Porter + influence de l'État (6e force optionnelle)",
+        "Représentation visuelle en hexagone pour visualiser l'intensité concurrentielle"
+      ]
+    }
+  ],
+  "essentiel": "Prendre en compte le marché nécessite de collecter rigoureusement des données sur l'offre et la demande, de façon quantitative et qualitative, avant toute étude de marché approfondie. Une méthodologie précise évite de surestimer ou sous-estimer les prévisions, et permet d'ajuster au mieux la politique commerciale de l'entreprise."
+}
