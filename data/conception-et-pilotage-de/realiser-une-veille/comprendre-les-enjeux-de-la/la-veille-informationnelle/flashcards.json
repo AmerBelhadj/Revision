@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Comment la norme AFNOR (XP X 50-53) définit-elle la veille ?",
+    "reponse": "Une activité continue et en grande partie itérative visant à une surveillance active de l'environnement pour en anticiper les évolutions."
+  },
+  {
+    "id": "2",
+    "question": "Quelle est la différence entre veille passive et veille active ?",
+    "reponse": "La veille passive récolte des informations sans objectif précis (non exhaustive). La veille active est une recherche ciblée selon un plan précis, avec des objectifs de collecte définis."
+  },
+  {
+    "id": "3",
+    "question": "Cite 3 des 5 principaux domaines de la veille informationnelle.",
+    "reponse": "Technologique, juridique/réglementaire, sociétale, concurrentielle, e-réputation (3 au choix)."
+  },
+  {
+    "id": "4",
+    "question": "Quelles sont les 5 étapes du cycle de la veille ?",
+    "reponse": "Identifier les besoins, identifier les sources, collecter/sélectionner, analyser/traiter/synthétiser, diffuser."
+  },
+  {
+    "id": "5",
+    "question": "Qu'est-ce que la boucle de rétroaction dans le cycle de veille ?",
+    "reponse": "Après diffusion, le feedback des destinataires peut amener à redéfinir les besoins et les sources si l'information ne correspond pas aux attentes."
+  },
+  {
+    "id": "6",
+    "question": "Quel est le principe de la méthode pull ?",
+    "reponse": "L'information est recherchée et extraite par l'utilisateur lui-même, comme avec un moteur de recherche."
+  },
+  {
+    "id": "7",
+    "question": "Quel est le principe de la méthode push ?",
+    "reponse": "L'information est diffusée automatiquement vers l'utilisateur, comme avec une notification, une newsletter ou un flux RSS."
+  },
+  {
+    "id": "8",
+    "question": "Qu'est-ce qu'un agrégateur de flux RSS et donne un exemple.",
+    "reponse": "Un portail qui centralise plusieurs abonnements (flux RSS, alertes, newsletters) dans un tableau de bord personnalisable. Exemples : Feeder, Netvibes."
+  },
+  {
+    "id": "9",
+    "question": "À quoi sert la cartographie des données (mind mapping) en veille ?",
+    "reponse": "À organiser des idées en partant d'un thème central : comprendre le contenu, relier spatialement des éléments, générer et structurer des idées, communiquer des informations."
+  },
+  {
+    "id": "10",
+    "question": "Pourquoi est-il recommandé de bien organiser son système d'information personnel pour la veille ?",
+    "reponse": "Pour enrichir en continu sa documentation grâce à des dossiers, codes couleurs et un système de notation centralisé (ex. Google Keep)."
+  }
+]

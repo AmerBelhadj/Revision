@@ -1,0 +1,15 @@
+[
+  { "id": "1", "question": "Quel est l'objectif principal d'une entreprise selon ce cours ?", "reponse": "La rentabilité et la pérennité." },
+  { "id": "2", "question": "Qu'est-ce qu'un diagnostic stratégique ?", "reponse": "Le regroupement d'analyses permettant d'observer et d'analyser la situation économique et commerciale de l'entreprise pour mettre en place des actions de développement." },
+  { "id": "3", "question": "Quels sont les deux types de diagnostics stratégiques ?", "reponse": "Le diagnostic interne (ressources et activité de l'entreprise) et le diagnostic externe (concurrents et marché)." },
+  { "id": "4", "question": "Quel diagnostic est réalisé en premier, interne ou externe ?", "reponse": "Le diagnostic interne, afin de connaître ses propres objectifs avant d'orienter l'analyse externe." },
+  { "id": "5", "question": "Quels sont le micro-environnement et le macro-environnement étudiés dans le diagnostic externe ?", "reponse": "Le micro-environnement (les concurrents proches) et le macro-environnement (les tendances générales du marché)." },
+  { "id": "6", "question": "Quelle partie du SWOT sert au diagnostic interne ?", "reponse": "La partie Forces / Faiblesses." },
+  { "id": "7", "question": "Quelle méthode alimente les Opportunités/Menaces du SWOT pour le diagnostic externe ?", "reponse": "La méthode PESTEL." },
+  { "id": "8", "question": "Que signifient les 6 lettres de PESTEL ?", "reponse": "Politique, Économique, Sociologique, Technologique, Environnemental, Légal." },
+  { "id": "9", "question": "Pourquoi impliquer les salariés dans le diagnostic stratégique ?", "reponse": "Cela apporte la vision terrain des équipes et facilite l'adhésion aux décisions futures." },
+  { "id": "10", "question": "Citez 2 outils de veille concurrentielle mentionnés dans le cours.", "reponse": "Google Alerts et Feedly (ou SimilarWeb, SemRush)." },
+  { "id": "11", "question": "La veille concurrentielle doit-elle être ponctuelle ou permanente ?", "reponse": "Permanente, pour s'adapter en continu aux évolutions du marché et des concurrents." },
+  { "id": "12", "question": "Quels indicateurs permettent de mesurer l'efficacité des actions issues du diagnostic ?", "reponse": "Le chiffre d'affaires, la satisfaction client, les parts de marché." },
+  { "id": "13", "question": "L'impact du diagnostic stratégique est-il temporaire, durable, ou les deux ?", "reponse": "Les deux : certaines actions sont durables, d'autres temporaires selon l'évolution de l'environnement." }
+]

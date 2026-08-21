@@ -1,0 +1,52 @@
+{
+  "titre": "Les tableaux de bord",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Définition et fonctions du tableau de bord",
+      "contenu": "Le tableau de bord est un outil de pilotage qui aide les managers à prendre des décisions à partir de données précises et objectives, en fonction des indicateurs clés propres à chaque entreprise et à chaque service. Il remplit 4 fonctions : outil de diagnostic (met en évidence les résultats réels vs objectifs), outil de mesure (repère les dysfonctionnements sous le seuil de tolérance), outil de communication (avec les équipes et le directoire) et outil d'information (partage entre services, bonnes pratiques). On distingue les indicateurs managériaux (motivation du personnel) et les indicateurs de gestion (mesure de la performance, coût, rentabilité).",
+      "points_cles": [
+        "4 fonctions : diagnostic, mesure, communication, information",
+        "Indicateurs managériaux (motivation) vs indicateurs de gestion (performance)",
+        "Chaque service peut avoir son propre tableau de bord selon ses objectifs"
+      ]
+    },
+    {
+      "titre": "Les qualités d'un bon tableau de bord",
+      "contenu": "4 qualités essentielles : simple (10 à 15 indicateurs maximum pour rester lisible), pertinent (les KPI doivent être rigoureusement sélectionnés selon les objectifs prioritaires), visuel (période, indicateurs, objectifs, réalisations et écarts visibles d'un coup d'œil, via des couleurs comme rouge/vert et des graphiques), et fiable/actualisé (sources fiables, mise à jour au moins mensuelle — un tableau de bord non fiable n'éclaire pas mieux la décision qu'aucun tableau de bord).",
+      "points_cles": [
+        "Simple : 10 à 15 indicateurs maximum pour rester lisible",
+        "Visuel : couleurs (rouge/vert) et graphiques pour une lecture immédiate",
+        "Fiable et actualisé au moins chaque mois, sinon les décisions sont faussées"
+      ]
+    },
+    {
+      "titre": "Sélectionner les indicateurs",
+      "contenu": "Le choix des KPI suit des étapes : définir les unités de gestion concernées, identifier les missions/objectifs/moyens attendus, rechercher tous les indicateurs possibles, sélectionner les plus significatifs, vérifier leur cohérence. 3 catégories : indicateurs de résultat (niveau d'atteinte des objectifs), indicateurs d'efficience (bonne utilisation des moyens/budgets), indicateurs d'action (suivi de la réalisation des actions). Les indicateurs peuvent être financiers (€) ou non financiers (quantités, %, heures), et relever de 4 domaines : économique, physique (qualité), humain, ou suivi de projet.",
+      "points_cles": [
+        "3 catégories : indicateurs de résultat, d'efficience, d'action",
+        "Indicateurs financiers (€) vs non financiers (quantités, %, heures)",
+        "4 domaines : économique, physique, humain, suivi de projet"
+      ]
+    },
+    {
+      "titre": "Exemples d'indicateurs commerciaux",
+      "contenu": "Indicateurs de marché : taux de remise, nombre de clients, taux de pénétration. Indicateurs de distribution : rotation des stocks, linéaire développé, rendement au m². Indicateurs de rentabilité : marge commerciale (CA HT - coût d'achat), taux de marque (marge commerciale/prix de vente), marge totale. Indicateurs sociaux : formation, emploi, climat social (absentéisme, turn-over), sécurité. Indicateurs financiers : résultat (VA, EBE, CAF), bilan (FRNG, BFR), rentabilité, financement.",
+      "points_cles": [
+        "Marge commerciale = CA HT - coût d'achat des marchandises vendues HT",
+        "Taux de marque = Marge commerciale / Prix de vente",
+        "Indicateurs sociaux : formation, emploi, climat social, sécurité"
+      ]
+    },
+    {
+      "titre": "Le tableau de bord de la communication",
+      "contenu": "Le service communication peut définir son propre tableau de bord en fonction des objectifs de sa stratégie, regroupés en 3 catégories : objectifs cognitifs (faire connaître une marque/produit), objectifs affectifs (convaincre, faire adhérer), et objectifs conatifs (faire agir, passer à l'achat). Le tableau de bord permet au service communication de légitimer son rôle grâce à des critères concrets d'efficacité et de contribution aux résultats de l'entreprise.",
+      "points_cles": [
+        "3 objectifs de communication : cognitifs, affectifs, conatifs",
+        "Le tableau de bord communication doit être aligné sur ces objectifs",
+        "Il sert aussi à légitimer la contribution du service communication aux résultats"
+      ]
+    }
+  ],
+  "essentiel": "Le tableau de bord est l'outil de pilotage central du manager, construit autour de quelques chiffres clés significatifs (10 à 15 indicateurs maximum), rapidement calculables et lisibles d'un coup d'œil. La notion d'écart (réel vs objectif, N-1 vs N) est plus significative que les chiffres bruts. Sa fiabilité et son actualisation régulière (au moins mensuelle) conditionnent sa valeur d'aide à la décision, que ce soit pour un service commercial ou pour piloter une stratégie de communication."
+}

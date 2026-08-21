@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Qui a créé le concept de marketing mix, et avec combien de variables ?",
+    "reponse": "Neil H. Borden en 1949, avec 12 variables initiales."
+  },
+  {
+    "id": "2",
+    "question": "Qui a simplifié le marketing mix en 4P, et que signifient-ils ?",
+    "reponse": "E. Jerome McCarthy : Price (Prix), Product (Produit), Place (Distribution), Promotion (Communication)."
+  },
+  {
+    "id": "3",
+    "question": "À qui attribue-t-on à tort la paternité des 4P ?",
+    "reponse": "À Philip Kotler, qui les a en réalité démocratisés mais ne les a pas inventés."
+  },
+  {
+    "id": "4",
+    "question": "Comment le Mercator définit-il le marketing mix ?",
+    "reponse": "Un ensemble cohérent de décisions relatives aux politiques de produit, de prix, de distribution et de communication d'un produit ou d'une marque."
+  },
+  {
+    "id": "5",
+    "question": "Quelles étapes du marketing stratégique précèdent le marketing opérationnel ?",
+    "reponse": "Le diagnostic interne/externe, puis la segmentation, le ciblage et le positionnement du marché."
+  },
+  {
+    "id": "6",
+    "question": "Quels sont les 3 temps de la démarche marketing complète ?",
+    "reponse": "Le temps de l'analyse, le temps de la recommandation, le temps de l'action."
+  },
+  {
+    "id": "7",
+    "question": "Pourquoi la politique produit est-elle particulièrement stratégique ?",
+    "reponse": "Parce qu'un produit qui ne répond pas aux besoins de la cible échoue malgré les efforts marketing, et les erreurs (investissements) sont coûteuses et difficiles à corriger."
+  },
+  {
+    "id": "8",
+    "question": "Comment se fixe le prix d'un produit selon ce cours ?",
+    "reponse": "Selon le coût de revient, l'objectif de rentabilité, les frais de transport/distribution, et le pouvoir d'achat de la cible."
+  },
+  {
+    "id": "9",
+    "question": "Que doit respecter un plan marketing par rapport aux 4P ?",
+    "reponse": "Il doit être chiffré, daté (s'inscrire dans une durée) et en parfaite cohérence avec les 4P."
+  },
+  {
+    "id": "10",
+    "question": "Donne un exemple de l'influence du produit sur le choix du plan marketing.",
+    "reponse": "Pour une montre technique haut de gamme, on choisira une publicité image dans un magazine de mode + un publi-rédactionnel technique dans une revue d'horlogerie."
+  }
+]

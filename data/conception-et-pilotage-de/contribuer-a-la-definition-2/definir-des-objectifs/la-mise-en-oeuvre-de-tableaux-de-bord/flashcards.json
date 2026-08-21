@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Comment Stephen Few définit-il un tableau de bord ?",
+    "reponse": "Une représentation visuelle des informations les plus importantes pour atteindre un objectif, regroupées sur un seul écran pour une consultation rapide."
+  },
+  {
+    "id": "2",
+    "question": "Que signifie KPI ?",
+    "reponse": "Key Performance Indicator (Indicateur Clé de Performance), aussi appelé ICP en français."
+  },
+  {
+    "id": "3",
+    "question": "Quels sont les 3 éléments principaux qu'un tableau de bord doit intégrer ?",
+    "reponse": "Les objectifs définis en amont, les indicateurs de performance (KPI), et les actions correctives à mettre en place."
+  },
+  {
+    "id": "4",
+    "question": "Pourquoi un tableau de bord surchargé de données est-il problématique ?",
+    "reponse": "Il devient illisible et inexploitable ; un bon tableau de bord doit se concentrer sur l'essentiel."
+  },
+  {
+    "id": "5",
+    "question": "Pourquoi l'implication des équipes est-elle essentielle dans la conception d'un tableau de bord ?",
+    "reponse": "Un tableau de bord non adopté par les équipes est inutile ; il doit être perçu comme une aide à la décision, pas comme un outil de contrôle."
+  },
+  {
+    "id": "6",
+    "question": "Quelles sont les 2 premières étapes de conception d'un tableau de bord marketing ?",
+    "reponse": "Identifier les objectifs (qualitatifs et quantitatifs), puis choisir les KPI les plus pertinents."
+  },
+  {
+    "id": "7",
+    "question": "Cite 3 sources de données couramment consolidées dans un tableau de bord.",
+    "reponse": "CRM, ERP, Google Analytics, outils publicitaires (3 au choix)."
+  },
+  {
+    "id": "8",
+    "question": "Pourquoi un tableau de bord obsolète est-il dangereux ?",
+    "reponse": "Il induit les décisionnaires en erreur ; les données doivent être actualisées en temps réel ou quasi-réel."
+  },
+  {
+    "id": "9",
+    "question": "Quelles sont les 3 structures possibles pour organiser un tableau de bord ?",
+    "reponse": "Par KPI (regroupés par objectif), par niveau (hiérarchie du plus large au plus détaillé), par causalité (liens entre indicateurs)."
+  },
+  {
+    "id": "10",
+    "question": "Quel type de graphique choisir pour représenter une proportion, et lequel pour une tendance dans le temps ?",
+    "reponse": "Camembert/diagramme circulaire pour une proportion ; courbes ou histogrammes pour une tendance dans le temps."
+  }
+]

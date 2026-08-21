@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Comment l'AFNOR définit-elle le tableau de bord (2000) ?",
+    "reponse": "Un outil de pilotage et d'aide à la décision regroupant une sélection d'indicateurs significatifs des résultats et des performances à atteindre."
+  },
+  {
+    "id": "2",
+    "question": "Quelle est la différence entre tableau de bord et reporting ?",
+    "reponse": "Le reporting contrôle a posteriori la réalisation des objectifs (orienté résultat) ; le tableau de bord a une démarche prospective, le reporting n'étant qu'une de ses fonctions."
+  },
+  {
+    "id": "3",
+    "question": "Quelle est la différence entre indicateur de résultat et indicateur de suivi ?",
+    "reponse": "L'indicateur de résultat mesure le résultat final a posteriori ; l'indicateur de suivi sert de jalon pour anticiper et réagir avant que le résultat ne soit consommé."
+  },
+  {
+    "id": "4",
+    "question": "Quelle est la différence entre un taux et un ratio ?",
+    "reponse": "Le taux est un rapport entre valeurs d'une même unité ; le ratio est un rapport entre valeurs d'unités différentes."
+  },
+  {
+    "id": "5",
+    "question": "Quelle est la différence entre efficacité et efficience ?",
+    "reponse": "L'efficacité mesure la capacité à atteindre les objectifs fixés ; l'efficience mesure la capacité à minimiser les moyens employés pour ce résultat."
+  },
+  {
+    "id": "6",
+    "question": "Sur quoi s'appuient généralement les indicateurs cibles d'un tableau de bord ?",
+    "reponse": "Sur des standards du marché ou des performances passées (benchmarking)."
+  },
+  {
+    "id": "7",
+    "question": "Pourquoi privilégier les écarts quantitatifs aux écarts qualitatifs dans l'analyse d'un tableau de bord ?",
+    "reponse": "Les écarts qualitatifs (mesurés par observation/enquête) comportent une part de subjectivité qui peut fausser l'analyse ; les écarts quantitatifs reposent sur des données mesurées objectivement."
+  },
+  {
+    "id": "8",
+    "question": "Quels sont les 3 niveaux de décision selon Igor Ansoff ?",
+    "reponse": "Stratégiques (direction générale, long terme, risque élevé), tactiques (encadrement, moyen terme, risque moyen), opérationnelles (portée limitée, court terme, risque mineur)."
+  },
+  {
+    "id": "9",
+    "question": "Quels sont les 4 axes du Tableau de Bord Prospectif (TBP) ?",
+    "reponse": "L'axe client, l'axe des processus internes, l'axe des finances, l'axe de l'apprentissage organisationnel."
+  },
+  {
+    "id": "10",
+    "question": "À quel niveau de l'entreprise le Tableau de Bord Prospectif est-il généralement utilisé ?",
+    "reponse": "Au niveau de la direction de l'entreprise, comme outil de synthèse et de vision stratégique globale."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Qu'est-ce que la population mère ?",
+    "reponse": "La population sur laquelle porte l'étude, c'est-à-dire l'ensemble ciblé par la recherche."
+  },
+  {
+    "id": "2",
+    "question": "À partir de quelle taille de population le recensement n'est-il plus praticable ?",
+    "reponse": "Au-delà de 300 personnes environ (et si la population n'est pas clairement identifiée), il faut recourir à un échantillon."
+  },
+  {
+    "id": "3",
+    "question": "Qu'est-ce qu'une erreur de spécification de la population ?",
+    "reponse": "Une erreur où l'enquêteur ne dispose pas d'informations précises sur la population mère, ce qui entraîne un échantillon mal construit."
+  },
+  {
+    "id": "4",
+    "question": "Donne un exemple historique d'erreur sur la base de sondage.",
+    "reponse": "Le sondage de 1936 sur la présidentielle américaine, basé sur les immatriculations de voitures et l'annuaire téléphonique, qui excluait les classes populaires et a biaisé les résultats."
+  },
+  {
+    "id": "5",
+    "question": "Quel est le principe de la méthode probabiliste ?",
+    "reponse": "Tirer au sort un échantillon dans une base de sondage, chaque individu ayant une probabilité connue et non nulle d'être sélectionné."
+  },
+  {
+    "id": "6",
+    "question": "Quel est le principe de la méthode empirique ?",
+    "reponse": "Faire un choix raisonné d'individus selon des règles fixées à l'avance, jusqu'à atteindre le nombre d'individus visé."
+  },
+  {
+    "id": "7",
+    "question": "Sur quelle loi mathématique s'appuie la méthode probabiliste ?",
+    "reponse": "La loi des grands nombres, qui garantit qu'un tirage au hasard sur une population importante donne un échantillon représentatif."
+  },
+  {
+    "id": "8",
+    "question": "Quel est le principal prérequis pour utiliser une méthode probabiliste ?",
+    "reponse": "Disposer d'une base de sondage complète et fiable, où chaque individu de la population mère peut être identifié."
+  },
+  {
+    "id": "9",
+    "question": "Quand privilégier la méthode empirique plutôt que probabiliste ?",
+    "reponse": "Quand il n'existe pas de base de sondage, ou quand le budget ne permet pas un recrutement aléatoire."
+  },
+  {
+    "id": "10",
+    "question": "Quelle est la formule budgétaire pour calculer la taille d'un échantillon ?",
+    "reponse": "Taille de l'échantillon = Budget global / Coût d'un questionnaire."
+  }
+]

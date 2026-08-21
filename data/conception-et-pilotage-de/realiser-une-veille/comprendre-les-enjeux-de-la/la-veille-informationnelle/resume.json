@@ -1,0 +1,52 @@
+{
+  "titre": "La veille informationnelle",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Principes et méthodes de la veille",
+      "contenu": "La veille est une activité continue et itérative de surveillance active de l'environnement (technologique, commercial, etc.) pour en anticiper les évolutions (norme AFNOR XP X 50-53). Elle vise à rester informé en consacrant le moins d'effort possible, notamment via des processus automatisés. On distingue la veille passive (récolte non exhaustive, sans objectif précis, ex : lire une newsletter) et la veille active (recherche ciblée selon un plan précis, avec des objectifs de collecte définis).",
+      "points_cles": [
+        "Veille = activité continue de surveillance de l'environnement pour anticiper ses évolutions",
+        "Veille passive : informelle, sans objectif précis",
+        "Veille active : ciblée, selon un plan de recherche défini"
+      ]
+    },
+    {
+      "titre": "Les raisons et les domaines de la veille",
+      "contenu": "La veille permet de déceler les signaux faibles de tendances, d'analyser l'environnement concurrentiel (forces de Porter) et de surveiller son e-réputation. Elle se décline en plusieurs domaines : technologique (anticiper les innovations), juridique/réglementaire (suivre les évolutions légales), sociétale (mœurs, comportements des consommateurs), concurrentielle (mouvements des concurrents) et e-réputation (identité numérique de l'organisation).",
+      "points_cles": [
+        "La veille aide à détecter les menaces et saisir les opportunités",
+        "5 domaines principaux : technologique, juridique, sociétale, concurrentielle, e-réputation",
+        "La veille répond à des contraintes stratégiques ou réglementaires propres à chaque contexte"
+      ]
+    },
+    {
+      "titre": "Les étapes de la veille",
+      "contenu": "La veille suit un cycle en boucle de rétroaction : 1) identifier les besoins (thématique, axes de recherche, mots-clés), 2) identifier les sources (pertinence, fiabilité), 3) collecter et sélectionner les informations (méthode push en priorité), 4) analyser, traiter et synthétiser l'information, 5) diffuser l'information sous forme de livrables. Le feedback des destinataires après diffusion peut amener à redéfinir les besoins et les sources.",
+      "points_cles": [
+        "Cycle en 5 étapes : besoins → sources → collecte → analyse → diffusion",
+        "Boucle de rétroaction : le feedback peut redéfinir les besoins",
+        "La collecte privilégie la méthode push via des agrégateurs"
+      ]
+    },
+    {
+      "titre": "Méthodes Pull et Push",
+      "contenu": "La collecte d'informations utilise deux modalités complémentaires. Le pull : l'information est recherchée et extraite par l'utilisateur lui-même (principe du moteur de recherche). Le push : l'information est diffusée automatiquement vers l'utilisateur (principe de la notification). Les outils push incluent les newsletters, les alertes (Google Alertes), les flux RSS, les agrégateurs de flux (Feeder, Netvibes) et les notifications de réseaux sociaux ou d'applications mobiles.",
+      "points_cles": [
+        "Pull : l'utilisateur va chercher l'information (moteurs de recherche, favoris)",
+        "Push : l'information vient à l'utilisateur (newsletters, alertes, flux RSS)",
+        "Les agrégateurs de flux RSS centralisent plusieurs sources push en un tableau de bord"
+      ]
+    },
+    {
+      "titre": "L'importance de la prise de notes",
+      "contenu": "Bien organiser son système d'information personnel (dossiers, codes couleurs, système de notation centralisé comme Google Keep) permet d'enrichir sa documentation en continu. La cartographie des données (mind mapping) permet de visualiser l'information en partant d'un thème central : comprendre le contenu, relier spatialement des éléments, générer et structurer des idées, proposer des explications et communiquer des informations.",
+      "points_cles": [
+        "Un système de prise de notes centralisé enrichit la documentation de veille",
+        "Le mind mapping organise visuellement l'information autour d'un thème central",
+        "Ces outils aident à comprendre, structurer et communiquer l'information collectée"
+      ]
+    }
+  ],
+  "essentiel": "La veille informationnelle est une activité continue et itérative de surveillance de l'environnement, active (ciblée) ou passive (sans objectif précis). Son cycle suit 5 étapes (besoins, sources, collecte, analyse, diffusion) avec une boucle de rétroaction. Elle combine des méthodes pull (recherche active par l'utilisateur) et push (information automatisée), et s'appuie sur une organisation rigoureuse (plan de veille, prise de notes, mind mapping) pour rester efficace."
+}

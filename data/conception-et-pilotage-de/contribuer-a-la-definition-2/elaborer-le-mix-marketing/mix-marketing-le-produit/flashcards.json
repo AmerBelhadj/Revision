@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quels sont les 4P du mix marketing et qui les a créés ?",
+    "reponse": "Produit, Prix, Promotion (communication), Place (distribution) — créés par McCarthy en 1960."
+  },
+  {
+    "id": "2",
+    "question": "Qu'est-ce que la servuction ?",
+    "reponse": "La production et la consommation simultanées d'un service, en fonction des moyens humains et matériels disponibles (ex. une expérience en chambre d'hôtes)."
+  },
+  {
+    "id": "3",
+    "question": "Que regroupe le packaging ?",
+    "reponse": "Le conditionnement (contact direct), l'emballage (protection supplémentaire) et l'étiquette (mentions obligatoires)."
+  },
+  {
+    "id": "4",
+    "question": "Quelles sont les 4 dimensions d'une gamme de produits ?",
+    "reponse": "Largeur (nombre de lignes), profondeur (modèles par ligne), longueur (largeur x profondeur), hauteur (éventail de prix)."
+  },
+  {
+    "id": "5",
+    "question": "Quel est le rôle du produit d'appel dans une gamme ?",
+    "reponse": "Attirer le consommateur avec un premier prix, dans l'espoir qu'il achète aussi d'autres produits plus rémunérateurs."
+  },
+  {
+    "id": "6",
+    "question": "Quel est le rôle du produit régulateur ?",
+    "reponse": "Absorber les frais fixes et compenser les fluctuations de chiffre d'affaires des produits leaders."
+  },
+  {
+    "id": "7",
+    "question": "Quelles sont les 4 phases du cycle de vie d'un produit ?",
+    "reponse": "Lancement, croissance, maturité, déclin."
+  },
+  {
+    "id": "8",
+    "question": "Que doit faire une entreprise pendant la phase de maturité d'un produit ?",
+    "reponse": "Continuer à promouvoir le produit et investir les profits générés dans l'innovation de nouveaux produits."
+  },
+  {
+    "id": "9",
+    "question": "Que mesure l'Analyse du Cycle de Vie (ACV) et sur combien d'étapes ?",
+    "reponse": "Les impacts environnementaux d'un produit, sur 5 étapes : matières premières, fabrication, distribution, utilisation, fin de vie."
+  },
+  {
+    "id": "10",
+    "question": "Cite 3 éléments obligatoires d'une fiche produit en ligne.",
+    "reponse": "Titre clair, prix visible, disponibilité (ou descriptif complet, mentions légales obligatoires) — 3 au choix."
+  }
+]

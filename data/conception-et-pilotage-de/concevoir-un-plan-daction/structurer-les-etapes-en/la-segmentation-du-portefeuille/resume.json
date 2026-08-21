@@ -1,0 +1,52 @@
+{
+  "titre": "La segmentation du portefeuille prospects et élaboration du PAC",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Le Plan d'Action Commerciale (PAC) : cadre général",
+      "contenu": "Le PAC établit l'ensemble des actions commerciales à mener pour réaliser les objectifs de vente à court terme (< 6 mois), moyen terme (6-24 mois) ou long terme (> 24 mois). Sa préparation comprend 4 phases : 1) analyse stratégique interne/externe (PESTEL, Porter, SWOT/EMOFF), 2) analyse quantitative/qualitative du portefeuille clients (loi de Pareto, matrice ABC croisée, matrice RFM), 3) ciblage et segmentation de la prospection, 4) élaboration du PAC. Ce cours couvre les phases 3 et 4.",
+      "points_cles": [
+        "PAC = ensemble des actions commerciales planifiées (court/moyen/long terme)",
+        "4 phases de préparation : analyse stratégique → analyse portefeuille → ciblage → PAC",
+        "Prérequis : PESTEL, Porter, SWOT, Pareto, ABC croisé, RFM"
+      ]
+    },
+    {
+      "titre": "La méthode des personas",
+      "contenu": "Elle consiste à créer des profils détaillés de clients cibles (catégorie socioprofessionnelle, comportement, problématiques, attentes) à partir de sources variées (entretiens clients, brainstorming, CRM, études) — jamais sur la seule base de l'instinct. On crée généralement 3 à 5 personas, pour construire des argumentaires personnalisés en plaçant le client au centre de la stratégie plutôt que l'offre. Les personas doivent être réactualisés régulièrement et construits collectivement.",
+      "points_cles": [
+        "Persona = profil détaillé du client cible, basé sur des données réelles (pas l'instinct)",
+        "3 à 5 personas généralement, pour ne pas diluer la pertinence",
+        "Place le client au centre de la stratégie, plutôt que l'offre de l'entreprise"
+      ]
+    },
+    {
+      "titre": "La matrice IPO / IPA",
+      "contenu": "Elle croise, pour chaque prospect, l'Indice de Potentiel de chiffre d'affaires (IPO — basé sur des critères rationnels : volume d'achats chez les concurrents, devis, projets, santé économique) et l'Indice Probable d'Accessibilité (IPA — existence de relations, connaissance d'interlocuteurs, opportunités de contact). Chaque critère est noté de 1 (faible) à 3 (élevé) ; les prospects avec les meilleurs scores combinés sont les cibles de prospection prioritaires.",
+      "points_cles": [
+        "IPO = potentiel de chiffre d'affaires du prospect (critères rationnels)",
+        "IPA = accessibilité du prospect (relations, connaissance, opportunités de contact)",
+        "Notation 1 à 3 par critère ; les meilleurs scores combinés = cibles prioritaires"
+      ]
+    },
+    {
+      "titre": "Construire et présenter le PAC",
+      "contenu": "Le PAC est un document de travail interne, réactualisé en cours d'exercice. Actions internes : organisation des forces de vente, formation, documentation. Actions externes : prospection (premier contact), conquête (premier achat), fidélisation (achats réguliers), rétention (éviter le départ d'un client), reconquête (renouer avec d'anciens clients). Il s'articule en 2 parties : stratégie/objectifs par horizon temporel, puis feuille de route détaillée (responsable, avancement, budget, CA généré). Il doit être précis, simple, concret, clair et accessible à toutes les équipes.",
+      "points_cles": [
+        "5 types d'actions externes : prospection, conquête, fidélisation, rétention, reconquête",
+        "2 parties : stratégie/objectifs par horizon, puis feuille de route détaillée",
+        "Doit rester précis, simple et accessible à toute l'équipe"
+      ]
+    },
+    {
+      "titre": "Adaptabilité et bonnes pratiques du PAC",
+      "contenu": "Le PAC doit pouvoir être mis à jour face aux imprévus (changement de loi, instabilité, départ d'un client important, lancement/arrêt d'un produit) sans reprendre toutes les analyses depuis zéro. Chaque cible du PAC a un responsable (ex. commercial) et des contributeurs (ex. Community Manager, Responsable Marketing) qui apportent leur expertise. Les objectifs fixés doivent rester réalistes et atteignables pour préserver la motivation des équipes.",
+      "points_cles": [
+        "Le PAC doit être adaptable aux imprévus, sans repartir de zéro",
+        "Chaque cible a un responsable et des contributeurs dédiés",
+        "Les objectifs doivent rester réalistes pour préserver la motivation"
+      ]
+    }
+  ],
+  "essentiel": "Après l'analyse stratégique et l'analyse du portefeuille clients, le ciblage de la prospection s'appuie sur la méthode des personas (profils détaillés du client idéal) et la matrice IPO/IPA (potentiel de CA croisé avec l'accessibilité) pour prioriser les efforts commerciaux. Ces analyses alimentent le Plan d'Action Commerciale (PAC), document de travail interne, précis et adaptable, qui planifie les actions de prospection, conquête, fidélisation, rétention et reconquête à court, moyen et long terme."
+}

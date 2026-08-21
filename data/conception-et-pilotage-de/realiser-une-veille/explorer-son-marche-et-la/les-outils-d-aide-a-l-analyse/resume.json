@@ -1,0 +1,70 @@
+{
+  "titre": "Les outils d'aide à l'analyse",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Contexte",
+      "contenu": "Pour étudier une organisation (entreprise, association, collectivité), on utilise des outils d'analyse afin de mieux comprendre son fonctionnement et son environnement. Ces outils structurent la réflexion, donnent un cadre de compréhension, aident à anticiper les difficultés, et permettent ensuite de définir une stratégie et les actions à mener.",
+      "points_cles": [
+        "Un outil d'analyse cadre la compréhension d'une organisation",
+        "La clé de réussite : rigueur (ne pas confondre les outils) et prise de recul",
+        "L'analyse sert de base à la définition de la stratégie"
+      ]
+    },
+    {
+      "titre": "Le SWOT",
+      "contenu": "Outil complet combinant diagnostic interne et externe. Forces (Strengths) et Faiblesses (Weaknesses) : diagnostic interne, propre à l'entreprise (ressources matérielles, financières, humaines, organisationnelles, technologiques). Opportunités (Opportunities) et Menaces (Threats) : diagnostic externe, lié au marché et à son environnement.",
+      "points_cles": [
+        "S/W = diagnostic interne (ressources de l'entreprise)",
+        "O/T = diagnostic externe (marché, environnement)",
+        "Objectif : transformer les menaces en opportunités grâce aux facteurs clés de succès"
+      ]
+    },
+    {
+      "titre": "Le PESTEL",
+      "contenu": "Outil de diagnostic externe qui analyse l'environnement de l'entreprise selon 6 catégories : Politique, Économique, Socioculturel, Technologique, Écologique, Légal. Il établit une check-list pour identifier et hiérarchiser les éléments susceptibles d'affecter l'activité de l'entreprise.",
+      "points_cles": [
+        "6 dimensions : Politique, Économique, Socioculturel, Technologique, Écologique, Légal",
+        "Sert à analyser le macro-environnement",
+        "Limite : seulement 6 facteurs pris en compte, à compléter avec d'autres outils (ex : Porter)"
+      ]
+    },
+    {
+      "titre": "Les forces concurrentielles de Porter",
+      "contenu": "Outil d'analyse stratégique (Michael Porter) du micro-environnement, mesurant la position concurrentielle de l'entreprise via 5 forces : intensité de la concurrence, influence des nouveaux entrants, influence des produits de substitution, pouvoir de négociation des clients, pouvoir de négociation des fournisseurs.",
+      "points_cles": [
+        "5 forces : concurrence, nouveaux entrants, produits de substitution, pouvoir des clients, pouvoir des fournisseurs",
+        "Plus les forces sont élevées, moins le potentiel de profit de l'entreprise est élevé",
+        "À compléter par le PESTEL pour une vision complète de l'environnement"
+      ]
+    },
+    {
+      "titre": "La matrice ADL (Arthur D. Little)",
+      "contenu": "Outil de décision stratégique croisant deux axes : la position concurrentielle de l'entreprise (dominante, forte, favorable, défavorable, marginale) et le degré de maturité de l'activité (démarrage, croissance, maturité, déclin). Permet de comparer les activités à fort potentiel et celles à abandonner.",
+      "points_cles": [
+        "Axe 1 : position concurrentielle (5 niveaux, de dominante à marginale)",
+        "Axe 2 : degré de maturité (démarrage, croissance, maturité, déclin)",
+        "Utile pour décider d'investir, maintenir ou abandonner une activité"
+      ]
+    },
+    {
+      "titre": "La place des outils dans la stratégie",
+      "contenu": "Le SWOT structure l'ensemble : diagnostic interne (ressources → forces/faiblesses) et diagnostic externe (macro-environnement via PESTEL, micro-environnement via Porter → opportunités/menaces). L'articulation de ces diagnostics fait émerger un avantage concurrentiel, base de la stratégie.",
+      "points_cles": [
+        "SWOT = outil englobant qui organise diagnostic interne et externe",
+        "Macro-environnement → PESTEL ; Micro-environnement → Porter",
+        "Diagnostic interne + externe → avantage concurrentiel → stratégie"
+      ]
+    },
+    {
+      "titre": "Interpréter les résultats de l'analyse",
+      "contenu": "Le processus stratégique comporte 4 phases : analyse (diagnostic interne/externe), choix (décision et objectifs stratégiques), mise en œuvre (déclinaison par fonction), contrôle (réitération du processus). Une équipe pluridisciplinaire doit être réunie pour mener l'analyse, avec un travail individuel de veille puis une mise en commun collective.",
+      "points_cles": [
+        "4 phases : analyse → choix → mise en œuvre → contrôle stratégique",
+        "Processus permanent, renouvelé selon les besoins de l'entreprise",
+        "Méthode : équipe pluridisciplinaire, veille individuelle puis brainstorming collectif"
+      ]
+    }
+  ],
+  "essentiel": "Les outils d'analyse stratégique (SWOT, PESTEL, Porter, ADL) permettent de structurer la compréhension d'une organisation et de son environnement. Bien utilisés (avec rigueur et complémentarité entre outils), ils aident à identifier les facteurs pertinents pour définir une stratégie et un plan d'action commercial efficace."
+}

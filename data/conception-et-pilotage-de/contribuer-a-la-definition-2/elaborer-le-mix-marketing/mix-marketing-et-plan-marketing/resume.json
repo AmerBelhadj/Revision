@@ -1,0 +1,52 @@
+{
+  "titre": "Mix marketing et plan marketing",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Origines du marketing mix",
+      "contenu": "Le concept est né en 1949 avec Neil H. Borden (Harvard), qui identifiait 12 variables du mix, trop complexes à mettre en œuvre. E. Jerome McCarthy les a simplifiées en 4P : Price (Prix), Product (Produit), Place (Distribution), Promotion (Communication) — un concept ensuite démocratisé par Philip Kotler, à qui on attribue à tort la paternité des 4P. Depuis les années 60, les 4P sont régulièrement critiqués (trop rigides) et complétés par des variantes (4C, 7P, 10P), mais restent la base empirique de la plupart des stratégies marketing.",
+      "points_cles": [
+        "Origine : Neil H. Borden (1949, 12 variables) → simplifié en 4P par McCarthy",
+        "4P : Price, Product, Place, Promotion (Prix, Produit, Distribution, Communication)",
+        "Kotler a démocratisé les 4P mais n'en est pas l'inventeur"
+      ]
+    },
+    {
+      "titre": "Définition et cohérence du mix",
+      "contenu": "Établir son marketing mix, c'est traduire sa stratégie marketing en actions opérationnelles : que vend-on, comment, où, et pourquoi. Selon Lendrevie et Levy (Mercator), le marketing mix est « un ensemble cohérent de décisions relatives aux politiques de produit, de prix, de distribution et de communication ». Les 4 variables ne se juxtaposent pas : elles interagissent (ex. le prix dépend de la politique de distribution). La cohérence entre elles, et avec la philosophie de l'entreprise, est essentielle.",
+      "points_cles": [
+        "Le mix traduit la stratégie en actions concrètes sur le terrain",
+        "Les 4P interagissent entre eux, ils ne sont pas indépendants",
+        "La cohérence des 4P avec l'objectif et la philosophie de l'entreprise est clé"
+      ]
+    },
+    {
+      "titre": "Marketing stratégique puis opérationnel",
+      "contenu": "Avant d'élaborer le mix, il faut poser le diagnostic interne/externe, définir la segmentation, le ciblage et le positionnement (marketing stratégique). Le marketing opérationnel (mix + plan marketing) vient ensuite. La démarche complète suit 3 temps : le temps de l'analyse, le temps de la recommandation, le temps de l'action.",
+      "points_cles": [
+        "Marketing stratégique (diagnostic, segmentation, ciblage, positionnement) précède l'opérationnel",
+        "Marketing opérationnel = mix (4P) + plan marketing",
+        "3 temps : analyse → recommandation → action"
+      ]
+    },
+    {
+      "titre": "Les 4 politiques du mix",
+      "contenu": "Politique produit : cycle de vie, caractéristiques, gamme, marque, packaging, design, services associés — stratégique car les erreurs sont coûteuses et difficiles à corriger. Politique de prix : positionne le produit face à la concurrence (prix élevé si avantage concurrentiel réel, aligné si produit « me too »), fixé selon coût de revient, rentabilité, frais de distribution et pouvoir d'achat de la cible. Politique de distribution : choix du réseau/canaux et de la force de vente, un indice du positionnement au même titre que le prix. Politique de communication : promouvoir le produit (faire connaître, susciter l'intérêt, motiver l'achat, augmenter les ventes) via le support adapté à la cible.",
+      "points_cles": [
+        "Produit : cycle de vie, gamme, marque, packaging, design, services associés",
+        "Prix : reflète le positionnement concurrentiel et la valeur perçue",
+        "Distribution et communication : cohérentes avec le positionnement produit/prix"
+      ]
+    },
+    {
+      "titre": "Le plan marketing",
+      "contenu": "Le plan marketing découle des 4 variables du mix pour faire connaître le produit auprès de la cible ; il doit être chiffré, daté et cohérent avec les 4P. Chaque P oriente le plan : le produit détermine le support (ex. presse spécialisée pour une montre technique), le prix indique les médias à privilégier, la distribution influence le message selon le circuit (direct/court/long), et la communication sélectionne le support adapté au message et à la cible.",
+      "points_cles": [
+        "Le plan marketing doit être chiffré, daté, et cohérent avec les 4P",
+        "Chaque P influence les choix du plan marketing (support, média, message)",
+        "Exemple : circuit court → communication ciblée vers le client final"
+      ]
+    }
+  ],
+  "essentiel": "Le marketing mix (les 4P : Produit, Prix, Distribution, Communication), né avec Borden et simplifié par McCarthy, reste la colonne vertébrale du marketing opérationnel malgré les évolutions technologiques et sociétales. Il se construit après le marketing stratégique (diagnostic, segmentation, ciblage, positionnement) et se traduit concrètement dans un plan marketing chiffré et cohérent. L'essentiel reste de proposer le bon produit, au bon prix, au bon endroit, avec la communication adaptée à la cible."
+}

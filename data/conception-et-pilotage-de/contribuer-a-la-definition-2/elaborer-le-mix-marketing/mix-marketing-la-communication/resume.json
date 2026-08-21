@@ -1,0 +1,43 @@
+{
+  "titre": "Mix marketing : la communication",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "La stratégie Push",
+      "contenu": "La stratégie Push met en place des actions directes vers le consommateur (échantillons gratuits, emailings) alors que celui-ci ne recherche pas activement le produit. Elle s'appuie sur la force de vente terrain, la promotion des ventes (coupons, primes, lots, jeux-concours, échantillonnage), le marketing direct (email, SMS, ISA), le plan média (presse, TV, radio, affichage, cinéma), les relations publiques et le sponsoring. Une étude CSA de 2019 montre que les médias offline pèsent 71 % de l'efficacité perçue par les Français contre 29 % pour le digital, la TV dominant toutes les étapes du parcours d'achat.",
+      "points_cles": [
+        "Push = actions directes vers un consommateur qui ne recherche pas activement le produit",
+        "Outils : force de vente, promotion des ventes, marketing direct, plan média, RP, sponsoring",
+        "La TV reste le média le plus efficace sur tout le parcours d'achat selon l'étude CSA 2019"
+      ]
+    },
+    {
+      "titre": "La stratégie Pull",
+      "contenu": "La stratégie Pull sensibilise et motive l'acheteur pour qu'il vienne de lui-même vers la marque, via des outils digitaux (site, réseaux sociaux, blog), les avis clients, les labels (commerce équitable) et le storytelling (ex. Intermarché et ses spots émotionnels). L'inbound marketing, une déclinaison du Pull, consiste à attirer le prospect en lui offrant du contenu à forte valeur ajoutée (ex. livre blanc) plutôt que de le solliciter (outbound). Le marketing d'influence, autre déclinaison, s'appuie sur des influenceurs prescripteurs : 80 % des consommateurs ont déjà acheté suite à une recommandation d'influenceur (étude Rakuten 2019).",
+      "points_cles": [
+        "Pull = attirer le client vers la marque plutôt que d'aller vers lui",
+        "Inbound marketing : contenu à forte valeur ajoutée pour attirer le prospect (ex. livre blanc)",
+        "Marketing d'influence : 80 % des consommateurs ont déjà acheté suite à une recommandation"
+      ]
+    },
+    {
+      "titre": "Élaborer une stratégie de communication commerciale",
+      "contenu": "La démarche suit plusieurs étapes : définir les objectifs (conquérir, fidéliser, changer l'image, faire connaître), cibler le client (critères BtoC : âge, CSP, lieu ; critères BtoB : taille, secteur), élaborer les axes de communication (message et ton selon l'audience), choisir les canaux (prospectus, publicité, RP, digital, événementiel) et créer un plan média (planning de toutes les actions). Des KPI sont fixés pour évaluer et ajuster chaque campagne.",
+      "points_cles": [
+        "4 objectifs types : conquérir, fidéliser, changer l'image, faire connaître",
+        "Ciblage BtoC (âge, CSP, lieu) vs BtoB (taille, secteur, marché)",
+        "Le plan média liste toutes les actions de communication planifiées dans le temps"
+      ]
+    },
+    {
+      "titre": "La communication institutionnelle (corporate)",
+      "contenu": "Elle vise à promouvoir l'image globale de l'entreprise, son histoire et ses valeurs, à destination de cibles internes (salariés, actionnaires) et externes (clients, partenaires, pouvoirs publics). Elle repose sur la diffusion d'actualités (partenariats, récompenses, engagements RSE) pour créer un lien de confiance durable. Outils internes : email/signature, magazine interne, réunions. Outils externes : newsletter, communiqué de presse, publicité, réseaux sociaux, mécénat (soutien sans contrepartie directe) et communication financière (résultats économiques).",
+      "points_cles": [
+        "Communication institutionnelle = image globale, histoire, valeurs de l'entreprise",
+        "Cibles internes (salariés, actionnaires) et externes (clients, partenaires, pouvoirs publics)",
+        "Outils : newsletter, communiqué de presse, réseaux sociaux, mécénat, communication financière"
+      ]
+    }
+  ],
+  "essentiel": "La politique de communication combine des stratégies Push (aller vers le consommateur) et Pull (attirer le consommateur), à travers des leviers commerciaux ou institutionnels. L'entreprise communique pour fidéliser ses clients, gagner des parts de marché et améliorer sa notoriété, en définissant des objectifs, un ciblage précis et un plan média cohérent, mesuré par des KPI. La communication institutionnelle complète cette approche en valorisant l'image globale et les valeurs de l'entreprise auprès de ses publics internes et externes."
+}

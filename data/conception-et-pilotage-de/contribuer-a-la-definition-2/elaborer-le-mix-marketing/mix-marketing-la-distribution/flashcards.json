@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quelle est la différence entre circuit et réseau de distribution ?",
+    "reponse": "Le circuit est le chemin parcouru par le produit via les canaux ; le réseau est la chaîne d'intermédiaires (personnes) qui permet cet acheminement."
+  },
+  {
+    "id": "2",
+    "question": "Quelle est la différence entre commission-affiliation et franchise ?",
+    "reponse": "Dans la commission-affiliation, le stock est en dépôt (pas la propriété du commissionnaire) ; dans la franchise, le franchisé est propriétaire de son stock qu'il achète."
+  },
+  {
+    "id": "3",
+    "question": "Qu'est-ce qu'une marque blanche ?",
+    "reponse": "Un produit fabriqué sans marque, vendu par un partenaire sous sa propre marque (ex. les MDD comme celles de Carrefour ou Auchan)."
+  },
+  {
+    "id": "4",
+    "question": "Quelle est la différence entre canal court et canal long ?",
+    "reponse": "Le canal court a 1 seul intermédiaire (préserve la marge) ; le canal long a 2 intermédiaires ou plus (grossistes, centrales d'achat), plus de volume mais marge dégradée."
+  },
+  {
+    "id": "5",
+    "question": "Qu'est-ce qu'un contrat de distribution exclusive ?",
+    "reponse": "Un contrat où le fournisseur accorde l'exclusivité de vente à un seul distributeur sur un territoire donné, avec une clause d'exclusivité territoriale obligatoire."
+  },
+  {
+    "id": "6",
+    "question": "Un fournisseur peut-il empêcher un distributeur sélectif de vendre en ligne ?",
+    "reponse": "Non, le contrat de distribution sélective ne peut pas contenir de clauses restreignant la liberté commerciale du revendeur, y compris la vente en ligne."
+  },
+  {
+    "id": "7",
+    "question": "Que couvrent le droit d'entrée (RIF) et les royalties dans un contrat de franchise ?",
+    "reponse": "Le droit d'entrée (Redevance Initiale Forfaitaire) est payé à l'ouverture ; les royalties sont un pourcentage du chiffre d'affaires versé en continu au franchiseur."
+  },
+  {
+    "id": "8",
+    "question": "Pour quel type de produits utilise-t-on la stratégie de distribution intensive ?",
+    "reponse": "Des produits courants à forte rotation (lessive, boissons, savons), où les ventes dépendent directement du nombre de points de vente."
+  },
+  {
+    "id": "9",
+    "question": "Quelle est la différence entre stratégie multicanale et cross-canal ?",
+    "reponse": "Le multicanal utilise des canaux indépendants et non coordonnés ; le cross-canal permet au client de combiner plusieurs canaux de façon complémentaire pour un même achat."
+  },
+  {
+    "id": "10",
+    "question": "Qu'est-ce qui caractérise une stratégie omnicanale ?",
+    "reponse": "Une expérience client unifiée et personnalisée « sans couture », où tous les canaux (magasins, click and collect, site, réseaux sociaux) sont synchronisés en temps réel."
+  }
+]

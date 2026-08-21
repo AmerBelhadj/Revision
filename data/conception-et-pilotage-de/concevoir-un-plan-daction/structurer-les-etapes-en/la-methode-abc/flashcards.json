@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Sur quelle loi la matrice ABC est-elle basée et que dit-elle ?",
+    "reponse": "La loi de Pareto (80-20) : environ 80 % des effets sont produits par 20 % des causes."
+  },
+  {
+    "id": "2",
+    "question": "Quelle est la répartition des catégories A, B, C dans la matrice ABC ?",
+    "reponse": "A : 20 % des clients = 80 % du CA. B : 30 % des clients = 15 % du CA. C : 50 % des clients = 5 % du CA."
+  },
+  {
+    "id": "3",
+    "question": "Qu'ajoute la matrice ABC croisée par rapport à la matrice ABC simple ?",
+    "reponse": "Le potentiel de développement du client (catégories A', B', C'), croisé avec le CA généré (A, B, C), plus une ligne P pour les prospects."
+  },
+  {
+    "id": "4",
+    "question": "Quelle est la différence entre la matrice ABC et la méthode ABC de comptabilité analytique ?",
+    "reponse": "La matrice ABC segmente les clients par CA ; la méthode ABC de comptabilité analytique analyse les coûts par activité de l'entreprise."
+  },
+  {
+    "id": "5",
+    "question": "Quels sont les 3 groupes révélés par l'analyse de la matrice ABC ?",
+    "reponse": "Le fonds de commerce (clients à conserver), le potentiel de développement (clients à investir), la gestion économique (clients à maintenir sans trop d'efforts)."
+  },
+  {
+    "id": "6",
+    "question": "Comment identifie-t-on le groupe A dans la courbe ABC ?",
+    "reponse": "En classant les clients par CA décroissant et en repérant le rang du client où le CA cumulé atteint 80 % du CA total."
+  },
+  {
+    "id": "7",
+    "question": "Quelle action commerciale est recommandée pour les clients B à fort potentiel ?",
+    "reponse": "Mettre en place des actions marketing et commerciales (sondages, nouvelles offres) pour les faire passer en catégorie A."
+  },
+  {
+    "id": "8",
+    "question": "Cite 3 avantages de la matrice ABC.",
+    "reponse": "Facile à automatiser sous tableur, vision claire des priorités, outil visuel pour communiquer en interne, mesure de l'efficacité du plan d'action (3 au choix)."
+  },
+  {
+    "id": "9",
+    "question": "Quelle est la principale limite liée à l'outil utilisé pour construire la matrice ABC ?",
+    "reponse": "Elle dépend d'un CRM correctement renseigné et mis à jour par les équipes commerciales pour être pertinente."
+  },
+  {
+    "id": "10",
+    "question": "Que signifie la méthode RFM, souvent citée en complément de la matrice ABC ?",
+    "reponse": "Récence, Fréquence, Montant — une méthode complémentaire qui prend en compte le comportement d'achat des clients."
+  }
+]

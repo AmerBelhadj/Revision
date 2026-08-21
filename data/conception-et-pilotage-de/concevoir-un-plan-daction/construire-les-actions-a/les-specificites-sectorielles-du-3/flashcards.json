@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "En quoi le mix marketing B to B diffère-t-il du B to C ?",
+    "reponse": "Produits accompagnés d'un support/accompagnement spécifique, prix basé sur la valeur ajoutée, communication mêlant digital et classique, distribution directe/indirecte/digitale."
+  },
+  {
+    "id": "2",
+    "question": "Pourquoi le commercial du secteur industriel n'est-il pas forcément ingénieur ?",
+    "reponse": "Il possède des compétences techniques mais s'appuie sur une équipe mixte (ingénieur avant-vente, chef de projet, marketing, R&D) pour couvrir l'aspect technique tout en se concentrant sur la négociation."
+  },
+  {
+    "id": "3",
+    "question": "Quel est le rôle de l'ingénieur avant-vente ?",
+    "reponse": "Appuyer les commerciaux par ses compétences techniques : analyse des besoins, traitement des appels d'offres, démonstration technique, analyse de faisabilité."
+  },
+  {
+    "id": "4",
+    "question": "Quelles sont les 6 phases du cycle de vente dans le secteur industriel ?",
+    "reponse": "Expression du besoin, prototypage, recherche de fournisseurs qualifiés, sélection des fournisseurs, production, maintenance."
+  },
+  {
+    "id": "5",
+    "question": "Quels sont les 3 profils principaux qui interviennent dans le parcours d'achat industriel ?",
+    "reponse": "L'ingénieur (besoins/prototypage), l'acheteur (recherche/validation des fournisseurs), le responsable de production ou maintenance."
+  },
+  {
+    "id": "6",
+    "question": "Qu'est-ce que la loi Bertrand (« anti-cadeaux ») ?",
+    "reponse": "Une loi (2011, renforcée en 2018) qui interdit les avantages commerciaux (échantillons, cadeaux) autrefois courants dans le secteur de la santé."
+  },
+  {
+    "id": "7",
+    "question": "Qu'est-ce que l'AMM et qui la délivre ?",
+    "reponse": "L'Autorisation de Mise sur le Marché, nécessaire avant de commercialiser un médicament, délivrée par l'ANSM (Agence Nationale de Sécurité du Médicament)."
+  },
+  {
+    "id": "8",
+    "question": "Pourquoi dit-on que la santé est l'un des seuls secteurs B to B sans négociation commerciale directe ?",
+    "reponse": "Les visiteurs médicaux et délégués hospitaliers transmettent l'information médicale (informer, conseiller, promouvoir) mais ne négocient pas de vente directe."
+  },
+  {
+    "id": "9",
+    "question": "Quelle est la différence entre visiteur médical et délégué hospitalier ?",
+    "reponse": "Le visiteur médical s'adresse aux médecins/pharmaciens/dentistes en ville, le délégué hospitalier s'adresse aux praticiens hospitaliers."
+  },
+  {
+    "id": "10",
+    "question": "Qu'est-ce que le B to H et pourquoi émerge-t-il dans la santé ?",
+    "reponse": "Business to Human : une évolution qui replace l'humain au centre de la relation commerciale, en réponse à la digitalisation croissante (les clients s'informent de plus en plus seuls en ligne)."
+  }
+]

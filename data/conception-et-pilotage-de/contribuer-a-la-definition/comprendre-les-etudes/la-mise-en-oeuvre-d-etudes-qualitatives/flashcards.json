@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quelle question l'étude qualitative cherche-t-elle à résoudre, par opposition à l'étude quantitative ?",
+    "reponse": "L'étude qualitative répond à « pourquoi », l'étude quantitative répond à « combien »."
+  },
+  {
+    "id": "2",
+    "question": "L'étude qualitative permet-elle l'extrapolation statistique ?",
+    "reponse": "Non, contrairement à l'étude quantitative, elle n'assure pas l'extrapolation de données ou de statistiques."
+  },
+  {
+    "id": "3",
+    "question": "Quels sont les 3 moments où l'étude qualitative peut être utilisée ?",
+    "reponse": "Avant (exploratoire), pendant (comprendre la perception), après (actions correctives et évaluation)."
+  },
+  {
+    "id": "4",
+    "question": "Quelles sont les 5 étapes de mise en œuvre d'une étude qualitative ?",
+    "reponse": "Définir la problématique, choisir la méthode, définir l'échantillon, collecter et analyser les données, présenter les résultats (rapport)."
+  },
+  {
+    "id": "5",
+    "question": "Qu'est-ce qu'une réunion de groupe (focus group) ?",
+    "reponse": "Une discussion semi-structurée réunissant environ 10 personnes, animée par un professionnel, pour recueillir rapidement de nombreuses idées."
+  },
+  {
+    "id": "6",
+    "question": "Quelles sont les 3 formes d'entretien individuel ?",
+    "reponse": "Non directif (expression libre), semi-directif (guide d'entretien), directif (questions précises)."
+  },
+  {
+    "id": "7",
+    "question": "Quelle forme d'entretien individuel est la plus exploratoire et pourquoi ?",
+    "reponse": "L'entretien non directif : le consommateur s'exprime librement, ce qui demande de fortes compétences d'analyse au chargé d'étude (posture, discours, voix)."
+  },
+  {
+    "id": "8",
+    "question": "Quelle est la différence entre observation participante et non participante ?",
+    "reponse": "Participante : le chargé d'étude s'immerge et agit comme un acteur. Non participante : il reste extérieur au cadre observé."
+  },
+  {
+    "id": "9",
+    "question": "Pourquoi l'observation se fait-elle souvent à l'insu du consommateur ?",
+    "reponse": "Pour ne pas influencer ou modifier son comportement naturel."
+  },
+  {
+    "id": "10",
+    "question": "Pourquoi couple-t-on souvent étude qualitative et étude quantitative ?",
+    "reponse": "La qualitative apporte une vision fine mais sur un échantillon restreint et non représentatif ; la quantitative permet de généraliser et vérifier les résultats à plus grande échelle."
+  }
+]

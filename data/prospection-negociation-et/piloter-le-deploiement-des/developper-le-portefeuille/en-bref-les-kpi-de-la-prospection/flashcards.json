@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quel indicateur mesure le mieux l'efficacité globale du processus de prospection ?",
+    "reponse": "Le taux de conversion : il synthétise la performance de tout l'entonnoir, de l'identification du prospect jusqu'à la signature."
+  },
+  {
+    "id": "2",
+    "question": "Comment calcule-t-on le CAC (Coût d'Acquisition Client) ?",
+    "reponse": "CAC = Dépenses totales de prospection / Nombre de clients acquis."
+  },
+  {
+    "id": "3",
+    "question": "Que signifie un ROI de 5 pour une action de prospection ?",
+    "reponse": "Que chaque euro investi rapporte 5 euros de revenu."
+  },
+  {
+    "id": "4",
+    "question": "Que mesure le taux de qualification des leads ?",
+    "reponse": "La proportion de prospects qui correspondent réellement aux critères idéaux (budget, autorité, besoin, timing), donc la pertinence du ciblage."
+  },
+  {
+    "id": "5",
+    "question": "Quelles sont les 3 catégories de KPI de prospection ?",
+    "reponse": "KPI quantitatifs (volumes, taux), KPI qualitatifs (pertinence du ciblage), KPI de productivité (efficience des investissements)."
+  },
+  {
+    "id": "6",
+    "question": "Quelle est la première étape indispensable pour construire un tableau de bord KPI ?",
+    "reponse": "Sélectionner les KPI pertinents selon ses objectifs, avant de choisir les outils de reporting ou la fréquence de suivi."
+  },
+  {
+    "id": "7",
+    "question": "À quoi sert un CRM comme Salesforce ou HubSpot dans le pilotage de la prospection ?",
+    "reponse": "À centraliser les données clients et suivre les performances commerciales."
+  },
+  {
+    "id": "8",
+    "question": "À quoi sert LinkedIn Sales Navigator ?",
+    "reponse": "Au ciblage précis de prospects selon des critères spécifiques."
+  },
+  {
+    "id": "9",
+    "question": "Cite 2 exemples de KPI quantitatifs de prospection.",
+    "reponse": "Nombre d'opportunités créées, taux de réponse aux emails (2 au choix)."
+  },
+  {
+    "id": "10",
+    "question": "Que compte le KPI « nombre d'opportunités créées » ?",
+    "reponse": "Les prospects qui ont manifesté un réel intérêt pour l'offre."
+  }
+]

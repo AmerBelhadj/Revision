@@ -1,0 +1,52 @@
+{
+  "titre": "Les KPI en e-commerce",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "L'entonnoir de conversion",
+      "contenu": "En e-commerce, les indicateurs de performance (KPI) se lisent à travers l'entonnoir de conversion, qui symbolise le parcours d'un visiteur jusqu'à un objectif défini (achat, contact qualifié, téléchargement, souscription...). Le nombre de visiteurs diminue à chaque étape, d'où le terme d'« entonnoir ». Il comporte 4 étapes principales : acquisition, engagement, conversion, rétention. Google Analytics permet de suivre ces indicateurs et de visualiser les points de déperdition.",
+      "points_cles": [
+        "L'entonnoir de conversion représente le parcours du visiteur jusqu'à l'objectif",
+        "4 étapes : acquisition → engagement → conversion → rétention",
+        "Google Analytics est l'outil de référence pour suivre ces indicateurs"
+      ]
+    },
+    {
+      "titre": "Acquisition : trafic et sources",
+      "contenu": "Les indicateurs d'acquisition mesurent le nombre de visiteurs et leurs caractéristiques : nombre de pages vues par visite, type de visiteurs (nouveaux vs récurrents), et surtout les sources de trafic : trafic direct (URL tapée directement), trafic référent (autres sites), trafic organique (référencement naturel/SEO), trafic payant (publicité), trafic des réseaux sociaux. Chaque source permet d'identifier les canaux performants et d'ajuster les actions correctives.",
+      "points_cles": [
+        "5 sources de trafic : direct, référent, organique, payant, réseaux sociaux",
+        "Le trafic organique reflète l'efficacité du référencement (mots-clés)",
+        "Le trafic payant permet de calculer le ROI et le coût d'acquisition client"
+      ]
+    },
+    {
+      "titre": "Engagement : rebond et durée de visite",
+      "contenu": "Le taux de rebond indique la proportion de visiteurs qui arrivent sur le site et repartent immédiatement sans interaction ; un taux élevé signale souvent un manque de qualité du contenu, une difficulté à trouver l'information, ou un mauvais ciblage de l'audience. La durée moyenne des visites est un autre indicateur d'engagement : plus elle est élevée, plus le contenu retient l'intérêt du visiteur.",
+      "points_cles": [
+        "Taux de rebond = visiteurs repartant sans aucune interaction",
+        "Un taux de rebond élevé révèle souvent un problème de contenu ou de ciblage",
+        "La durée moyenne des visites reflète la qualité du contenu et le bon ciblage"
+      ]
+    },
+    {
+      "titre": "Conversion : taux de conversion et abandon de panier",
+      "contenu": "Le taux de conversion indique le pourcentage de visiteurs ayant réalisé l'action souhaitée (pas seulement un achat : téléchargement, inscription newsletter, création de compte...) ; il est en moyenne de 1,5 % à 5 % en e-commerce en France. Le taux d'abandon de panier indique le pourcentage de visites où un article a été ajouté au panier sans que l'achat soit finalisé. Pour l'améliorer : simplifier le tunnel d'achat, optimiser les options de paiement, ajouter des éléments de réassurance, mettre en place du remarketing.",
+      "points_cles": [
+        "Une conversion = toute action souhaitée par l'entreprise, pas seulement un achat",
+        "Taux de conversion moyen en e-commerce France : 1,5 % à 5 %",
+        "Taux d'abandon de panier : levier d'action = simplifier le tunnel d'achat, réassurance, remarketing"
+      ]
+    },
+    {
+      "titre": "Rétention : fidéliser pour rentabiliser",
+      "contenu": "Le taux de rétention indique le pourcentage de clients qui reviennent effectuer un nouvel achat sur une période donnée. Formule : (Nombre de clients revenus / Nombre total de clients sur la période) x 100. Il a un impact direct sur la rentabilité du site. Les leviers d'action sont : respect des délais de livraison, qualité de l'expérience client, personnalisation des échanges, campagnes de remarketing et marketing automation.",
+      "points_cles": [
+        "Formule : (clients revenus / total clients sur la période) x 100",
+        "La rétention impacte directement la rentabilité du site marchand",
+        "Leviers : livraison, expérience client, personnalisation, remarketing"
+      ]
+    }
+  ],
+  "essentiel": "L'e-commerce suit l'entonnoir de conversion en 4 étapes (acquisition, engagement, conversion, rétention), chacune associée à des KPI précis suivis via Google Analytics : sources de trafic pour l'acquisition, taux de rebond et durée des visites pour l'engagement, taux de conversion et taux d'abandon de panier pour la conversion, taux de rétention pour la fidélisation. La personnalisation de la relation client est le levier clé pour transformer les visiteurs en clients fidèles, source de rentabilité durable."
+}

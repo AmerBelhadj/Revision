@@ -1,0 +1,15 @@
+[
+  { "id": "1", "question": "Qu'est-ce que le marketing one-to-one ?", "reponse": "Un marketing personnalisé et individualisé, apparu entre 1995 et 2000, orienté vers le client." },
+  { "id": "2", "question": "Quels sont les 3 verbes qui résument le raisonnement marketing ?", "reponse": "Analyser, décider, agir." },
+  { "id": "3", "question": "Que sont les 4P du marketing mix ?", "reponse": "Produit, Prix, Distribution (Place), Communication." },
+  { "id": "4", "question": "Que veut dire DAS ?", "reponse": "Domaine d'Activité Stratégique." },
+  { "id": "5", "question": "Quelle est la différence entre étude qualitative et étude quantitative ?", "reponse": "La qualitative comprend les comportements et motivations (entretiens) ; la quantitative mesure avec des données chiffrées (sondages, panels)." },
+  { "id": "6", "question": "Citez les 5 forces de Porter.", "reponse": "Nouveaux entrants, produits de substitution, pouvoir de négociation des clients, pouvoir de négociation des fournisseurs, intensité concurrentielle." },
+  { "id": "7", "question": "Quelle est la 6e force parfois ajoutée au modèle de Porter ?", "reponse": "L'influence de l'État." },
+  { "id": "8", "question": "Sur quels 2 critères se base la matrice ADL ?", "reponse": "Le degré de maturité de l'activité et la position concurrentielle de l'entreprise." },
+  { "id": "9", "question": "Sur quelles 2 dimensions se croise la matrice Ansoff ?", "reponse": "Les produits (actuels/nouveaux) et les marchés (actuels/nouveaux)." },
+  { "id": "10", "question": "Quelles sont les 2 catégories d'activités de la chaîne de valeur ?", "reponse": "Les activités principales (logistique, production, vente) et les activités de soutien (RH, technologie, achats)." },
+  { "id": "11", "question": "Que signifie SWOT (ou Moff en français) ?", "reponse": "Strengths, Weaknesses, Opportunities, Threats (Forces, Faiblesses, Opportunités, Menaces)." },
+  { "id": "12", "question": "Quel outil sert généralement à préparer l'analyse SWOT côté macro-environnement ?", "reponse": "La matrice PESTEL." },
+  { "id": "13", "question": "Quelle est la première étape du diagnostic marketing ?", "reponse": "Une phase exploratoire de recueil d'informations (analyse documentaire, études qualitatives et quantitatives)." }
+]

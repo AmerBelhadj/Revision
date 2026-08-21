@@ -1,0 +1,52 @@
+{
+  "titre": "La méthode ABC",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Définition de la matrice ABC",
+      "contenu": "La matrice ABC est un outil de segmentation client qui classe les clients selon leur volume d'achat en chiffre d'affaires, sur le principe de la loi de Pareto (80-20) : 20 % des clients génèrent 80 % du CA (catégorie A), 30 % génèrent 15 % du CA (catégorie B), 50 % génèrent les 5 % restants (catégorie C). La matrice ABC croisée ajoute le potentiel de développement du client (catégories A', B', C'), avec une ligne P pour les prospects (CA actuel à 0). À ne pas confondre avec la « méthode ABC » de comptabilité analytique (analyse des coûts par activité).",
+      "points_cles": [
+        "Basée sur la loi de Pareto : 20 % des clients = 80 % du CA (catégorie A)",
+        "Matrice ABC croisée = CA généré (A/B/C) x potentiel de développement (A'/B'/C')",
+        "Ne pas confondre avec la méthode ABC de comptabilité analytique"
+      ]
+    },
+    {
+      "titre": "Prérequis et objectifs",
+      "contenu": "La matrice s'appuie sur le compte de résultat de l'entreprise, la segmentation des clients (actuels, fidèles) et, pour la version croisée, une base de données incluant les prospects. Elle ne tient pas compte des anciens clients sans CA sur la période étudiée. Son objectif : savoir sur quelle cible concentrer sa stratégie commerciale pour maximiser la rentabilité, en distinguant 3 groupes : le fonds de commerce (clients à conserver), le potentiel de développement (clients à investir) et la gestion économique (clients à maintenir sans trop d'efforts).",
+      "points_cles": [
+        "S'appuie sur le compte de résultat + segmentation clients (+ prospects pour la version croisée)",
+        "3 groupes : fonds de commerce, potentiel de développement, gestion économique",
+        "Recommandé de refaire la matrice au moins une fois par an"
+      ]
+    },
+    {
+      "titre": "Méthodologie : construire la courbe ABC",
+      "contenu": "1) Lister les clients avec leur CA, classés par CA décroissant, et calculer le CA cumulé. 2) Quand le CA cumulé atteint 80 %, calculer le % de clients correspondant : c'est le groupe A. 3) Quand le CA cumulé atteint 95 %, calculer le % de clients cumulés pour obtenir le groupe B (par différence avec A). 4) Le groupe C se déduit par soustraction (100 % - A % - B %).",
+      "points_cles": [
+        "Classer les clients par CA décroissant et calculer le CA cumulé",
+        "Groupe A = clients cumulant jusqu'à 80 % du CA total",
+        "Groupe C = 100 % - % de A - % de B"
+      ]
+    },
+    {
+      "titre": "Analyse et prise de décision",
+      "contenu": "L'analyse vise à équilibrer le portefeuille et prioriser les actions : identifier les clients B à fort potentiel pour les faire passer en A (augmenter le panier moyen), organiser les visites en priorisant A et A', réduire le temps passé sur les clients « gestion économique », et mettre en place des actions marketing ciblées (sondages, nouvelles offres) pour développer les catégories B.",
+      "points_cles": [
+        "Prioriser les visites et efforts sur les clients A et A'",
+        "Développer les clients B à fort potentiel via de nouvelles offres",
+        "Limiter le temps consacré aux clients à faible CA et faible potentiel"
+      ]
+    },
+    {
+      "titre": "Avantages et limites",
+      "contenu": "Avantages : segmentation facile et automatisable sous tableur, vision claire des priorités, outil visuel pour communiquer en interne, mesure de l'efficacité du plan d'action dans le temps, offre commerciale plus qualifiée, communication personnalisée, meilleure organisation de l'équipe commerciale. Limites : nécessite un CRM bien renseigné et à jour, ne tient pas compte des préférences/comportements des clients (nécessite des méthodes complémentaires comme la méthode RFM : Récence, Fréquence, Montant), et doit être mise en cohérence avec les moyens réels de l'entreprise (humains, techniques, financiers).",
+      "points_cles": [
+        "Avantages : visuel, facile à automatiser, aide à prioriser et organiser l'équipe",
+        "Limite : dépend de la qualité du CRM, ne capte pas le comportement d'achat",
+        "À compléter avec d'autres méthodes comme la méthode RFM (Récence, Fréquence, Montant)"
+      ]
+    }
+  ],
+  "essentiel": "La matrice ABC segmente le portefeuille client selon le chiffre d'affaires généré (loi de Pareto 80-20), la version croisée y ajoutant le potentiel de développement de chaque client. Elle distingue 3 groupes (fonds de commerce, potentiel de développement, gestion économique) pour prioriser les efforts commerciaux et marketing. Outil visuel et facile à exploiter, elle doit être complétée par d'autres approches (comme la méthode RFM) et rester cohérente avec les moyens réels de l'entreprise."
+}

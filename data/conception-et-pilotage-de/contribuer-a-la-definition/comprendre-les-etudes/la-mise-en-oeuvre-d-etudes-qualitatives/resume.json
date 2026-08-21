@@ -1,0 +1,52 @@
+{
+  "titre": "La mise en œuvre d'études qualitatives",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Définition de l'étude qualitative",
+      "contenu": "L'étude quantitative répond à la question « combien » ; l'étude qualitative répond à la question « pourquoi ». Elle regroupe et analyse des informations décrites pour repérer des tendances sur une population souvent restreinte mais bien sélectionnée, sans permettre l'extrapolation statistique. En marketing, elle sert à trouver des idées/messages publicitaires, tester des produits ou campagnes, comprendre les comportements des clients, repérer de nouvelles attentes et valider une image de marque.",
+      "points_cles": [
+        "Quantitatif = « combien » ; Qualitatif = « pourquoi »",
+        "Étudie une population restreinte mais bien choisie, sans extrapolation statistique",
+        "Usages marketing : idées, tests produits, compréhension des comportements, image de marque"
+      ]
+    },
+    {
+      "titre": "Les 3 objectifs de l'étude qualitative",
+      "contenu": "Avant : étude préliminaire/exploratoire sur un marché nouveau, pour mettre en avant les points clés d'un sujet ou valider une hypothèse. Pendant : comprendre l'avis et la perception des consommateurs sur un produit déjà commercialisé, ou expliquer un phénomène (baisse des ventes, changement de comportement). Après : mettre en avant des actions correctives suite à une étude déjà réalisée, et évaluer l'efficacité des actions mises en place.",
+      "points_cles": [
+        "Avant : exploratoire, validation d'hypothèse sur un marché nouveau",
+        "Pendant : comprendre la perception des consommateurs, expliquer un phénomène",
+        "Après : actions correctives et évaluation de l'efficacité des actions"
+      ]
+    },
+    {
+      "titre": "Les étapes de mise en œuvre",
+      "contenu": "1) Définir la problématique (ni trop large, ni trop restreinte). 2) Choisir la méthode (réunion de groupe, entretien individuel, observation) selon la problématique. 3) Définir l'échantillon (qui et combien interroger/observer). 4) Collecter et analyser les données qualitatives. 5) Présenter les résultats et conclusions dans un rapport. Ces étapes se regroupent en 3 phases : recueil des données, traitement des données, analyse et préconisations.",
+      "points_cles": [
+        "5 étapes : problématique → méthode → échantillon → collecte/analyse → rapport",
+        "3 grandes phases : recueil, traitement, analyse",
+        "La qualité du recueil initial conditionne la crédibilité de toute l'étude"
+      ]
+    },
+    {
+      "titre": "Les 3 techniques principales",
+      "contenu": "La réunion de groupe (focus group) réunit ~10 personnes animées par un professionnel : rapide pour relever de nombreuses idées mais peu profonde, avec un risque d'influence entre participants. L'entretien individuel oppose un consommateur et un chargé d'étude, sans pression sociale ; il existe 3 formes : non directif (expression libre, très exploratoire), semi-directif (guide d'entretien, moins de liberté) et directif (questions précises, rapide mais peu spontané). L'observation étudie les comportements réels des consommateurs dans leur environnement (souvent à leur insu), participante ou non participante, incognito ou à découvert.",
+      "points_cles": [
+        "Réunion de groupe : ~10 personnes, rapide mais peu profonde, risque d'influence",
+        "Entretien individuel : non directif (libre), semi-directif (guidé), directif (questions précises)",
+        "Observation : comportements réels, souvent incognito pour ne pas influencer"
+      ]
+    },
+    {
+      "titre": "Limites de l'étude qualitative",
+      "contenu": "Risque d'erreur élevé si la mauvaise méthode est choisie (résultats faussés ou inexploitables). Les échantillons de petite taille ne permettent pas de conclusions représentatives de toute la population cible. C'est pourquoi l'étude qualitative est généralement couplée à une étude quantitative : la qualitative apporte une vision fine et la quantitative permet de vérifier/généraliser les résultats sur un plus grand nombre.",
+      "points_cles": [
+        "Risque d'erreur élevé si mauvais choix de méthode",
+        "Échantillons restreints = résultats non représentatifs de la population totale",
+        "À coupler avec une étude quantitative pour généraliser les conclusions"
+      ]
+    }
+  ],
+  "essentiel": "L'étude qualitative répond à la question « pourquoi » en analysant en profondeur les comportements et perceptions d'une population restreinte mais bien choisie, à travers 3 techniques principales (réunion de groupe, entretien individuel, observation). Elle suit un processus rigoureux (problématique, méthode, échantillon, collecte, analyse) et sert avant, pendant ou après la commercialisation d'un produit. Ses limites — risque d'erreur méthodologique et absence de représentativité statistique — imposent de la coupler à une étude quantitative pour des conclusions généralisables."
+}

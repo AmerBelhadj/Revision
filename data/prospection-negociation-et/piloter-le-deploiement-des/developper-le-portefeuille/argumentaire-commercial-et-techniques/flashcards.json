@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Que signifie la méthode CAB et à quoi sert-elle ?",
+    "reponse": "Caractéristiques-Avantages-Bénéfices : transforme des caractéristiques techniques en bénéfices concrets et mesurables pour le prospect."
+  },
+  {
+    "id": "2",
+    "question": "Quelles sont les 4 étapes d'une structure narrative de storytelling commercial ?",
+    "reponse": "Situation initiale (problématique), élément déclencheur, développement (mise en œuvre), résolution (bénéfices)."
+  },
+  {
+    "id": "3",
+    "question": "Quelles sont les 4 étapes de la méthode EPAC pour traiter une objection ?",
+    "reponse": "Écoute, Précision, Argumentation, Conclusion."
+  },
+  {
+    "id": "4",
+    "question": "Cite 3 types de preuves pour appuyer un argument face à une objection.",
+    "reponse": "Démonstration/étude de cas, témoignages clients, données chiffrées, garanties (essai gratuit, engagement contractuel) — 3 au choix."
+  },
+  {
+    "id": "5",
+    "question": "Qu'est-ce que la vente consultative ?",
+    "reponse": "Une approche où le vendeur endosse un rôle de conseiller, basée sur une compréhension approfondie des besoins du client, plutôt qu'une simple vente de produit."
+  },
+  {
+    "id": "6",
+    "question": "Que signifient les 4 lettres du SPIN Selling ?",
+    "reponse": "Situation, Problème, Implication, Nécessité de solution."
+  },
+  {
+    "id": "7",
+    "question": "À quoi servent les questions d'Implication dans le SPIN Selling ?",
+    "reponse": "À faire percevoir au prospect les conséquences négatives de ses problèmes, créant un sentiment d'urgence à les résoudre."
+  },
+  {
+    "id": "8",
+    "question": "Que signifie BANT et à quoi sert cette méthode ?",
+    "reponse": "Budget, Autorité, Need (besoin), Temporalité — une méthode pour évaluer le potentiel et la maturité d'un prospect."
+  },
+  {
+    "id": "9",
+    "question": "Cite 3 techniques de closing en prospection.",
+    "reponse": "Closing progressif, par l'urgence, par la projection, par la réassurance (3 au choix)."
+  },
+  {
+    "id": "10",
+    "question": "Pourquoi la gestion post-closing est-elle essentielle ?",
+    "reponse": "Parce qu'un accord de principe doit être transformé en collaboration durable via la formalisation des points convenus et le suivi administratif."
+  }
+]

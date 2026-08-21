@@ -1,0 +1,43 @@
+{
+  "titre": "Les objectifs des diagnostics stratégiques",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Comprendre le diagnostic stratégique",
+      "contenu": "Toute entreprise vise la rentabilité et la pérennité. Comme le marché et la demande évoluent en permanence (facteurs sociologiques, technologiques, réglementaires, économiques), l'entreprise doit régulièrement réaliser un diagnostic stratégique : un ensemble d'analyses donnant une vision globale de sa situation, pour identifier opportunités et menaces et prioriser ses actions.",
+      "points_cles": [
+        "Objectif final : prioriser les actions, optimiser les ressources, anticiper le marché",
+        "Un diagnostic régulier permet de prendre du recul et de s'adapter",
+        "Les conclusions doivent s'appuyer sur des indicateurs mesurables (part de marché, marge, satisfaction client...)"
+      ]
+    },
+    {
+      "titre": "Diagnostic interne vs externe",
+      "contenu": "Le diagnostic se compose de deux volets. Le diagnostic interne étudie les ressources et l'activité propres de l'entreprise (humaines, financières, matérielles, immatérielles) pour déceler forces et faiblesses. Le diagnostic externe étudie l'environnement : le micro-environnement (concurrents proches) et le macro-environnement (tendances générales du marché), pour repérer opportunités et menaces.",
+      "points_cles": [
+        "Diagnostic interne réalisé en premier (connaître ses propres objectifs avant d'analyser l'externe)",
+        "Diagnostic interne : ressources humaines, immatérielles, financières, matérielles",
+        "Diagnostic externe : micro-environnement (concurrents) et macro-environnement (marché global)"
+      ]
+    },
+    {
+      "titre": "Les outils mobilisés : SWOT et PESTEL",
+      "contenu": "Le diagnostic interne s'appuie sur la première partie du SWOT (Forces/Faiblesses), en impliquant les équipes pour recueillir leur vision terrain. Le diagnostic externe combine la méthode PESTEL (Politique, Économique, Sociologique, Technologique, Environnemental, Légal) et la seconde partie du SWOT (Opportunités/Menaces) : les informations issues du PESTEL alimentent directement ces deux catégories.",
+      "points_cles": [
+        "SWOT : Forces/Faiblesses (interne) + Opportunités/Menaces (externe)",
+        "PESTEL couvre 6 dimensions de l'environnement externe",
+        "Impliquer les salariés facilite l'adhésion aux décisions futures"
+      ]
+    },
+    {
+      "titre": "Consolidation et suivi des axes stratégiques",
+      "contenu": "Une fois les actions mises en place suite au diagnostic, il faut les suivre via des indicateurs de performance (CA, satisfaction client, parts de marché) et les ajuster si besoin. Une veille constante (Google Alerts, Feedly, SimilarWeb, SemRush) permet de rester informé du marché et des concurrents, avec des critères de comparaison sur l'activité, les produits, les services et les fournisseurs.",
+      "points_cles": [
+        "La veille concurrentielle doit être permanente, pas ponctuelle",
+        "Outils courants : Google Alerts, Feedly, SimilarWeb, SemRush",
+        "Le diagnostic stratégique reste pertinent seulement si un dispositif de veille continue l'accompagne"
+      ]
+    }
+  ],
+  "essentiel": "Le diagnostic stratégique regroupe les analyses permettant à une entreprise de connaître sa situation interne (forces/faiblesses) et externe (opportunités/menaces liées au marché). Réalisé en 2 temps (interne puis externe) via le SWOT et le PESTEL, il doit être suivi d'un plan d'action et d'une veille permanente pour rester pertinent dans le temps. Son impact est à la fois ponctuel et durable, et il est propre à chaque entreprise."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Qu'est-ce qu'un investissement commercial ?",
+    "reponse": "Un achat effectué dans le but de générer des revenus ou des profits (actions, immobilier, création de filiale, etc.)."
+  },
+  {
+    "id": "2",
+    "question": "Que signifient les KPI ROI, CAC et CLTV ?",
+    "reponse": "ROI : Retour sur Investissement. CAC : Coût d'Acquisition Client. CLTV : valeur de la durée de vie du client."
+  },
+  {
+    "id": "3",
+    "question": "Cite 3 outils d'analyse du marché avant d'investir.",
+    "reponse": "PESTEL, SWOT, 5 forces de Porter, analyse de la concurrence, mapping concurrentiel (3 au choix)."
+  },
+  {
+    "id": "4",
+    "question": "Quelles sont les 7 sections d'un plan d'affaires ?",
+    "reponse": "Résumé exécutif, présentation de l'entreprise, analyse de marché, produits/services, stratégie marketing et vente, structure organisationnelle, plan financier."
+  },
+  {
+    "id": "5",
+    "question": "Quel est l'avantage et l'inconvénient principal de l'autofinancement ?",
+    "reponse": "Avantage : pas de dette à rembourser ni de bénéfices à partager. Inconvénient : réduit la capacité de l'entreprise à faire face aux imprévus."
+  },
+  {
+    "id": "6",
+    "question": "Quels sont les 4 types de risques financiers liés aux investissements commerciaux ?",
+    "reponse": "Risques de marché, de liquidité, de crédit, opérationnels."
+  },
+  {
+    "id": "7",
+    "question": "Comment calcule-t-on le ROI (Retour sur Investissement) ?",
+    "reponse": "ROI = (Bénéfice net / Coût total de l'investissement) x 100."
+  },
+  {
+    "id": "8",
+    "question": "Comment calcule-t-on le taux de rentabilité d'un investissement ?",
+    "reponse": "Taux de rentabilité = Flux de trésorerie net annuel / Coût total de l'investissement."
+  },
+  {
+    "id": "9",
+    "question": "Comment calcule-t-on la rentabilité des capitaux propres ?",
+    "reponse": "Rentabilité des capitaux propres = Bénéfice net / Fonds propres investis."
+  },
+  {
+    "id": "10",
+    "question": "Cite 2 stratégies pour gérer les risques financiers d'un investissement.",
+    "reponse": "Diversification du portefeuille, contrats d'assurance, mise en place de limites de risque (2 au choix)."
+  }
+]

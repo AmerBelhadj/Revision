@@ -1,0 +1,52 @@
+{
+  "titre": "La veille en communication",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Qu'est-ce que la veille ?",
+      "contenu": "La veille est une recherche continue d'informations sur un sujet précis (marché, produit, clients, concurrents) pour se tenir au courant des actualités d'un secteur. Elle vise à améliorer la compétitivité de l'entreprise par la collecte, le traitement et la diffusion d'informations utiles à la prise de décision. Il existe 5 grands types de veille : concurrentielle, commerciale/marketing, environnementale/sociétale, technologique et juridique. La veille stratégique regroupe l'ensemble de ces axes.",
+      "points_cles": [
+        "La veille = recherche continue et organisée d'informations pour la prise de décision",
+        "5 axes : concurrentielle, commerciale, environnementale/sociétale, technologique, juridique",
+        "La veille stratégique regroupe tous ces types de veille"
+      ]
+    },
+    {
+      "titre": "La veille appliquée à la communication",
+      "contenu": "La veille en communication s'appuie sur l'écoute : des clients/prospects (veille commerciale), des concurrents (veille concurrentielle), de l'environnement et des tendances (veille sociétale), du cadre légal (veille juridique) et des outils/supports (veille technologique). Elle inclut aussi la veille publicitaire (campagnes, tendances, buzz) et la veille d'image / e-réputation, c'est-à-dire l'image d'une marque véhiculée sur internet, en grande partie par les contenus publiés par les internautes eux-mêmes.",
+      "points_cles": [
+        "Bien communiquer commence par bien écouter (clients, concurrents, environnement, cadre légal)",
+        "E-réputation : l'image d'une marque sur internet, davantage influencée par la visibilité que par la quantité des avis",
+        "Un « bad buzz » est un bouche-à-oreille négatif qui s'amplifie sur internet"
+      ]
+    },
+    {
+      "titre": "Objectifs et enjeux de la veille",
+      "contenu": "La veille permanente permet d'anticiper les menaces (nouvelle réglementation, nouveau concurrent), de capter des opportunités (tendance réseaux sociaux), d'être une source d'inspiration pour les campagnes, et de mieux connaître son marché et ses cibles pour adapter ses messages. Elle doit être continue tout au long de l'année et vient enrichir le SWOT (forces/faiblesses face aux opportunités/menaces de l'environnement).",
+      "points_cles": [
+        "Anticiper les menaces et capter les opportunités",
+        "Rester une source d'inspiration et garder un temps d'avance",
+        "La veille alimente en continu l'analyse SWOT de l'entreprise"
+      ]
+    },
+    {
+      "titre": "Mettre en place la veille : le plan de veille",
+      "contenu": "Le plan de veille (ou charte de veille) organise la démarche en 5 étapes : 1) définir les objectifs (à quoi va servir la veille), 2) délimiter le périmètre via le QQOQCCP (Qui, Quoi, Où, Quand, Comment, Combien, Pourquoi), 3) déterminer les sources à consulter, 4) traiter/analyser/stocker les données, 5) partager les résultats. Ce plan permet aussi de choisir les outils (pull ou push) et de répartir les rôles entre intervenants.",
+      "points_cles": [
+        "5 étapes : objectifs → périmètre (QQOQCCP) → sources → traitement → diffusion",
+        "Une veille mal préparée devient vite chronophage et peu pertinente",
+        "Le plan de veille fixe qui fait quoi, avec quels outils"
+      ]
+    },
+    {
+      "titre": "Sources, outils et méthodes de collecte",
+      "contenu": "Les sources sont soit formalisées (accessibles, fiables, déjà connues) soit informelles (plus stratégiques mais demandant plus d'effort). Deux méthodes de collecte s'opposent : le pull (le veilleur va chercher l'information manuellement : moteurs de recherche, signets, périodiques) et le push (l'information vient au veilleur de façon automatisée : flux RSS, alertes, newsletters). Les outils courants incluent les agrégateurs de flux RSS (Netvibes, Feedly), les alertes (Google Alertes), et les plateformes de bookmarking (Diigo, Scoop.it). Le processus complet comporte 6 étapes : définir les objectifs, identifier les sources, collecter, traiter, analyser/capitaliser, diffuser.",
+      "points_cles": [
+        "Pull = le veilleur cherche l'info manuellement ; Push = l'info arrive automatiquement",
+        "Mixer les sources (online/offline, internes/externes) pour fiabiliser l'information",
+        "Processus complet en 6 étapes, de la définition des objectifs à la diffusion des résultats"
+      ]
+    }
+  ],
+  "essentiel": "La veille en communication est une démarche continue d'écoute (clients, concurrents, environnement, cadre légal, outils) organisée autour d'un plan de veille précis : objectifs, périmètre, sources, traitement, diffusion. Elle combine des méthodes pull et push, mobilise des sources variées et fiables, et nourrit en continu l'analyse SWOT ainsi que la stratégie de communication de l'entreprise."
+}

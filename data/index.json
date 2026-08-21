@@ -1,0 +1,898 @@
+{
+  "groupes": [
+    {
+      "id": "conception-et-pilotage-de",
+      "nom": "Conception et pilotage de la stratégie de développement commercial",
+      "modules": [
+        {
+          "id": "realiser-une-veille",
+          "nom": "Réaliser une veille commerciale",
+          "sousmodules": [
+            {
+              "id": "explorer-son-marche-et-la",
+              "nom": "Explorer son marché et la concurrence",
+              "cours": [
+                {
+                  "id": "les-fondements-analyses-et-diagnostics",
+                  "titre": "Les fondements : analyses et diagnostics",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/les-fondements-analyses-et-diagnostics",
+                  "disponible": false
+                },
+                {
+                  "id": "les-fondements-analyses-et-diagnostics-2",
+                  "titre": "Les fondements : analyses et diagnostics: le swot",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/les-fondements-analyses-et-diagnostics-2",
+                  "disponible": false
+                },
+                {
+                  "id": "les-fondements-analyses-et-diagnostics-3",
+                  "titre": "Les fondements : analyses et diagnostics: Analyse de marché",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/les-fondements-analyses-et-diagnostics-3",
+                  "disponible": false
+                },
+                {
+                  "id": "les-fondements-analyses-et-diagnostics-4",
+                  "titre": "Les fondements : analyses et diagnostics: Produits et besoins",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/les-fondements-analyses-et-diagnostics-4",
+                  "disponible": false
+                },
+                {
+                  "id": "les-outils-d-aide-a-l-analyse",
+                  "titre": "Les outils d'aide à l'analyse",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/les-outils-d-aide-a-l-analyse",
+                  "disponible": true
+                },
+                {
+                  "id": "les-outils-d-analyse-du-portefeuille",
+                  "titre": "Les outils d'analyse du portefeuille d’activités",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/les-outils-d-analyse-du-portefeuille",
+                  "disponible": true
+                },
+                {
+                  "id": "les-objectifs-des-diagnostics",
+                  "titre": "Les objectifs des diagnostics stratégiques",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/les-objectifs-des-diagnostics",
+                  "disponible": true
+                },
+                {
+                  "id": "analyse-de-l-entreprise-sur-son-marche",
+                  "titre": "Analyse de l'entreprise sur son marché",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/analyse-de-l-entreprise-sur-son-marche",
+                  "disponible": true
+                },
+                {
+                  "id": "la-place-de-la-strategie-digitale-dans",
+                  "titre": "La place de la stratégie digitale dans la stratégie globale d'entreprise",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/la-place-de-la-strategie-digitale-dans",
+                  "disponible": false
+                },
+                {
+                  "id": "evaluer-les-facteurs-cles-de-succes",
+                  "titre": "Evaluer les facteurs clés de succès",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/evaluer-les-facteurs-cles-de-succes",
+                  "disponible": true
+                },
+                {
+                  "id": "la-prise-en-compte-du-marche",
+                  "titre": "La prise en compte du marché",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/la-prise-en-compte-du-marche",
+                  "disponible": true
+                },
+                {
+                  "id": "pas-a-pas-l-analyse-strategique",
+                  "titre": "Pas à pas - L'analyse stratégique",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/explorer-son-marche-et-la/pas-a-pas-l-analyse-strategique",
+                  "disponible": true
+                }
+              ]
+            },
+            {
+              "id": "comprendre-les-enjeux-de-la",
+              "nom": "Comprendre les enjeux de la veille enentreprise",
+              "cours": [
+                {
+                  "id": "le-concept-de-veille-et-sa-methodologie",
+                  "titre": "Le concept de veille et sa méthodologie",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/le-concept-de-veille-et-sa-methodologie",
+                  "disponible": false
+                },
+                {
+                  "id": "la-veille-informationnelle",
+                  "titre": "La veille informationnelle/",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/la-veille-informationnelle",
+                  "disponible": true
+                },
+                {
+                  "id": "la-veille-concurrentielle-et-sectorielle",
+                  "titre": "La veille concurrentielle et sectorielle",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/la-veille-concurrentielle-et-sectorielle",
+                  "disponible": false
+                },
+                {
+                  "id": "la-veille-en-communication",
+                  "titre": "La veille en communication",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/la-veille-en-communication",
+                  "disponible": true
+                },
+                {
+                  "id": "la-veille-commerciale",
+                  "titre": "La veille commerciale",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/la-veille-commerciale",
+                  "disponible": false
+                },
+                {
+                  "id": "la-veille-societale-comportementale",
+                  "titre": "La veille sociétale/comportementale",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/la-veille-societale-comportementale",
+                  "disponible": false
+                },
+                {
+                  "id": "la-veille-et-l-innovation",
+                  "titre": "La veille et l'innovation",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/la-veille-et-l-innovation",
+                  "disponible": false
+                },
+                {
+                  "id": "le-benchmark",
+                  "titre": "Le benchmark",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/le-benchmark",
+                  "disponible": false
+                },
+                {
+                  "id": "l-exploitation-des-outils-de-business",
+                  "titre": "L'exploitation des outils de business intelligence",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/comprendre-les-enjeux-de-la/l-exploitation-des-outils-de-business",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "mettre-en-oeuvre-une",
+              "nom": "Mettre en oeuvre une méthodologie de veille",
+              "cours": [
+                {
+                  "id": "organiser-un-dispositif-de-veille",
+                  "titre": "Organiser un dispositif de veille efficace",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/mettre-en-oeuvre-une/organiser-un-dispositif-de-veille",
+                  "disponible": false
+                },
+                {
+                  "id": "le-panorama-des-sources-dinformation",
+                  "titre": "Le panorama des sources dʼinformation off-line et on-line",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/mettre-en-oeuvre-une/le-panorama-des-sources-dinformation",
+                  "disponible": false
+                },
+                {
+                  "id": "les-outils-de-surveillance-et-de",
+                  "titre": "Les outils de surveillance et de recherche",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/mettre-en-oeuvre-une/les-outils-de-surveillance-et-de",
+                  "disponible": false
+                },
+                {
+                  "id": "presenter-le-resultat-de-sa-veille",
+                  "titre": "Présenter le résultat de sa veille",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/mettre-en-oeuvre-une/presenter-le-resultat-de-sa-veille",
+                  "disponible": false
+                },
+                {
+                  "id": "diffuser-l-information",
+                  "titre": "Diffuser l'information",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/mettre-en-oeuvre-une/diffuser-l-information",
+                  "disponible": false
+                },
+                {
+                  "id": "exercice-application-realiser-une",
+                  "titre": "EXERCICE: Application : réaliser une veille commerciale",
+                  "chemin": "data/conception-et-pilotage-de/realiser-une-veille/mettre-en-oeuvre-une/exercice-application-realiser-une",
+                  "disponible": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "contribuer-a-la-definition",
+          "nom": "Contribuer à la définition des profils client type (buyer personas)",
+          "sousmodules": [
+            {
+              "id": "comprendre-les-etudes",
+              "nom": "Comprendre les études marketing",
+              "cours": [
+                {
+                  "id": "les-fondamentaux-des-etudes-marketing",
+                  "titre": "Les fondamentaux des études marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/les-fondamentaux-des-etudes-marketing",
+                  "disponible": false
+                },
+                {
+                  "id": "la-traduction-d-une-problematique",
+                  "titre": "La traduction d'une problématique marketing en objectif d'étude",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/la-traduction-d-une-problematique",
+                  "disponible": false
+                },
+                {
+                  "id": "le-choix-d-une-methodologie-selon-ses",
+                  "titre": "Le choix d'une méthodologie selon ses besoins",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/le-choix-d-une-methodologie-selon-ses",
+                  "disponible": false
+                },
+                {
+                  "id": "les-etudes-qualitatives",
+                  "titre": "Les études qualitatives",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/les-etudes-qualitatives",
+                  "disponible": false
+                },
+                {
+                  "id": "la-mise-en-oeuvre-d-etudes-qualitatives",
+                  "titre": "La mise en oeuvre d'études qualitatives",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/la-mise-en-oeuvre-d-etudes-qualitatives",
+                  "disponible": true
+                },
+                {
+                  "id": "la-creation-d-un-echantillon-pour-etude",
+                  "titre": "La création d'un échantillon pour étude qualitative",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/la-creation-d-un-echantillon-pour-etude",
+                  "disponible": false
+                },
+                {
+                  "id": "les-types-d-etudes-quantitatives",
+                  "titre": "Les types d'études quantitatives",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/les-types-d-etudes-quantitatives",
+                  "disponible": false
+                },
+                {
+                  "id": "la-realisation-d-une-enquete",
+                  "titre": "La réalisation d'une enquête",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/la-realisation-d-une-enquete",
+                  "disponible": false
+                },
+                {
+                  "id": "les-methodes-d-echantillonnage",
+                  "titre": "Les méthodes d'échantillonnage",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/les-methodes-d-echantillonnage",
+                  "disponible": true
+                },
+                {
+                  "id": "les-instituts-d-etude",
+                  "titre": "Les instituts d'étude",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/les-instituts-d-etude",
+                  "disponible": true
+                },
+                {
+                  "id": "la-realisation-des-etudes-en-interne",
+                  "titre": "La réalisation des études en interne",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/comprendre-les-etudes/la-realisation-des-etudes-en-interne",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "identifier-les-liens-entre",
+              "nom": "Identifier les liens entre stratégie marketing et études",
+              "cours": [
+                {
+                  "id": "de-la-demarche-strategique-a-l-objectif",
+                  "titre": "De la démarche stratégique à l'objectif",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/identifier-les-liens-entre/de-la-demarche-strategique-a-l-objectif",
+                  "disponible": false
+                },
+                {
+                  "id": "la-segmentation-strategique",
+                  "titre": "La segmentation stratégique",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/identifier-les-liens-entre/la-segmentation-strategique",
+                  "disponible": false
+                },
+                {
+                  "id": "le-ciblage",
+                  "titre": "Le ciblage",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/identifier-les-liens-entre/le-ciblage",
+                  "disponible": false
+                },
+                {
+                  "id": "le-ciblage-segmentation-et-ciblage",
+                  "titre": "Le Ciblage: Segmentation et Ciblage",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/identifier-les-liens-entre/le-ciblage-segmentation-et-ciblage",
+                  "disponible": false
+                },
+                {
+                  "id": "le-comportement-individuel-et-social-du",
+                  "titre": "Le comportement individuel et social du consommateur",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/identifier-les-liens-entre/le-comportement-individuel-et-social-du",
+                  "disponible": false
+                },
+                {
+                  "id": "les-insights-consommateurs",
+                  "titre": "Les insights consommateurs",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/identifier-les-liens-entre/les-insights-consommateurs",
+                  "disponible": false
+                },
+                {
+                  "id": "l-historique-la-typologie-et-la",
+                  "titre": "L'historique, la typologie et la création de personas",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/identifier-les-liens-entre/l-historique-la-typologie-et-la",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "exploiter-les-etudes",
+              "nom": "Exploiter les études données dans la démarche marketing",
+              "cours": [
+                {
+                  "id": "de-l-etude-de-marche-au-produit",
+                  "titre": "De l'étude de marché au produit",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/exploiter-les-etudes/de-l-etude-de-marche-au-produit",
+                  "disponible": false
+                },
+                {
+                  "id": "de-l-etude-de-marche-au-positionnement",
+                  "titre": "De l'étude de marché au positionnement",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/exploiter-les-etudes/de-l-etude-de-marche-au-positionnement",
+                  "disponible": false
+                },
+                {
+                  "id": "de-l-etude-de-marche-au-mix-marketing",
+                  "titre": "De l'étude de marché au mix marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/exploiter-les-etudes/de-l-etude-de-marche-au-mix-marketing",
+                  "disponible": false
+                },
+                {
+                  "id": "exercie-apprendre-a-exploiter-les",
+                  "titre": "Exercie : Apprendre à exploiter les études de données dans la démarche marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition/exploiter-les-etudes/exercie-apprendre-a-exploiter-les",
+                  "disponible": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "contribuer-a-la-definition-2",
+          "nom": "Contribuer à la définition de la stratégie marketing et commerciale dʼune activité en collaboration avec la direction marketing",
+          "sousmodules": [
+            {
+              "id": "elaborer-le-mix-marketing",
+              "nom": "Elaborer le mix marketing en fonction de la stratégie",
+              "cours": [
+                {
+                  "id": "mix-marketing-et-plan-marketing",
+                  "titre": "Mix marketing et plan marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/elaborer-le-mix-marketing/mix-marketing-et-plan-marketing",
+                  "disponible": true
+                },
+                {
+                  "id": "mix-marketing-le-produit",
+                  "titre": "Mix marketing : le produit",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/elaborer-le-mix-marketing/mix-marketing-le-produit",
+                  "disponible": true
+                },
+                {
+                  "id": "mix-marketing-le-prix",
+                  "titre": "Mix marketing : le prix",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/elaborer-le-mix-marketing/mix-marketing-le-prix",
+                  "disponible": true
+                },
+                {
+                  "id": "mix-marketing-la-communication",
+                  "titre": "Mix marketing : la communication",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/elaborer-le-mix-marketing/mix-marketing-la-communication",
+                  "disponible": true
+                },
+                {
+                  "id": "mix-marketing-la-distribution",
+                  "titre": "Mix marketing : la distribution",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/elaborer-le-mix-marketing/mix-marketing-la-distribution",
+                  "disponible": true
+                },
+                {
+                  "id": "pas-a-pas-le-mix-marketing",
+                  "titre": "Pas à pas - Le mix marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/elaborer-le-mix-marketing/pas-a-pas-le-mix-marketing",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "concevoir-un-plan-marketing",
+              "nom": "Concevoir un plan marketing stratégique",
+              "cours": [
+                {
+                  "id": "le-plan-d-action-commercial-et-marketing",
+                  "titre": "Le plan d'action commercial et marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/concevoir-un-plan-marketing/le-plan-d-action-commercial-et-marketing",
+                  "disponible": false
+                },
+                {
+                  "id": "la-structure-d-un-plan-marketing",
+                  "titre": "La structure d'un plan marketing stratégique",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/concevoir-un-plan-marketing/la-structure-d-un-plan-marketing",
+                  "disponible": false
+                },
+                {
+                  "id": "animation-du-plan-daction-marketing",
+                  "titre": "Animation du plan dʼaction marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/concevoir-un-plan-marketing/animation-du-plan-daction-marketing",
+                  "disponible": false
+                },
+                {
+                  "id": "la-formulation-du-positionnement",
+                  "titre": "La formulation du positionnement",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/concevoir-un-plan-marketing/la-formulation-du-positionnement",
+                  "disponible": false
+                },
+                {
+                  "id": "la-gestion-du-portefeuille-de-marques",
+                  "titre": "La gestion du portefeuille de marques",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/concevoir-un-plan-marketing/la-gestion-du-portefeuille-de-marques",
+                  "disponible": false
+                },
+                {
+                  "id": "positionnement-et-image",
+                  "titre": "Positionnement et image",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/concevoir-un-plan-marketing/positionnement-et-image",
+                  "disponible": false
+                },
+                {
+                  "id": "la-strategie-de-responsabilite",
+                  "titre": "La stratégie de Responsabilité Sociétale de l'entreprise",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/concevoir-un-plan-marketing/la-strategie-de-responsabilite",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "definir-des-objectifs",
+              "nom": "Définir des objectifs marketing et commerciaux pertinents",
+              "cours": [
+                {
+                  "id": "le-choix-des-objectifs-strategiques",
+                  "titre": "Le choix des objectifs stratégiques",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/le-choix-des-objectifs-strategiques",
+                  "disponible": false
+                },
+                {
+                  "id": "la-notion-d-objectifs",
+                  "titre": "La notion d'objectifs",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/la-notion-d-objectifs",
+                  "disponible": false
+                },
+                {
+                  "id": "la-fixation-d-objectifs",
+                  "titre": "La fixation d'objectifs",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/la-fixation-d-objectifs",
+                  "disponible": false
+                },
+                {
+                  "id": "la-mise-en-oeuvre-de-tableaux-de-bord",
+                  "titre": "La mise en oeuvre de tableaux de bord marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/la-mise-en-oeuvre-de-tableaux-de-bord",
+                  "disponible": true
+                },
+                {
+                  "id": "de-la-demarche-strategique-a-l-objectif",
+                  "titre": "De la démarche stratégique à l'objectif",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/de-la-demarche-strategique-a-l-objectif",
+                  "disponible": false
+                },
+                {
+                  "id": "l-importance-de-la-formulation-des",
+                  "titre": "L'importance de la formulation des objectifs",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/l-importance-de-la-formulation-des",
+                  "disponible": false
+                },
+                {
+                  "id": "objectifs-et-moyens-d-action",
+                  "titre": "Objectifs et moyens d'action",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/objectifs-et-moyens-d-action",
+                  "disponible": false
+                },
+                {
+                  "id": "pas-a-pas-le-plan-marketing",
+                  "titre": "Pas à pas - Le plan marketing",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/pas-a-pas-le-plan-marketing",
+                  "disponible": false
+                },
+                {
+                  "id": "exercice-application-definir",
+                  "titre": "Exercice Application :Définir desobjectifsmarketing etcommerciaux v2 Tous",
+                  "chemin": "data/conception-et-pilotage-de/contribuer-a-la-definition-2/definir-des-objectifs/exercice-application-definir",
+                  "disponible": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "concevoir-un-plan-daction",
+          "nom": "Concevoir un plan dʼaction commercial",
+          "sousmodules": [
+            {
+              "id": "structurer-les-etapes-en",
+              "nom": "Structurer les étapes en fonction de la stratégie de l'entreprise",
+              "cours": [
+                {
+                  "id": "les-generalites-sur-le-plan-d-actions",
+                  "titre": "Les généralités sur le plan d'actions commerciales",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/structurer-les-etapes-en/les-generalites-sur-le-plan-d-actions",
+                  "disponible": false
+                },
+                {
+                  "id": "la-segmentation-du-portefeuille",
+                  "titre": "La segmentation du portefeuille prospects et élaboration du PAC",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/structurer-les-etapes-en/la-segmentation-du-portefeuille",
+                  "disponible": true
+                },
+                {
+                  "id": "la-methode-abc",
+                  "titre": "La méthode ABC",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/structurer-les-etapes-en/la-methode-abc",
+                  "disponible": true
+                },
+                {
+                  "id": "construction-d-un-plan-d-action",
+                  "titre": "Construction d'un plan d'action commercial : les éléments indispensables",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/structurer-les-etapes-en/construction-d-un-plan-d-action",
+                  "disponible": false
+                },
+                {
+                  "id": "construction-d-un-plan-d-action-2",
+                  "titre": "Construction d'un plan d'action commercial : les actions",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/structurer-les-etapes-en/construction-d-un-plan-d-action-2",
+                  "disponible": false
+                },
+                {
+                  "id": "construction-d-un-plan-d-action-3",
+                  "titre": "Construction d'un plan d'action commercial : les acteurs",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/structurer-les-etapes-en/construction-d-un-plan-d-action-3",
+                  "disponible": false
+                },
+                {
+                  "id": "construction-d-un-plan-d-action-4",
+                  "titre": "Construction d'un plan d'action commercial : les objectifs et les résultats attendus",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/structurer-les-etapes-en/construction-d-un-plan-d-action-4",
+                  "disponible": false
+                },
+                {
+                  "id": "construction-d-un-plan-d-action-5",
+                  "titre": "Construction d'un plan d'action commercial : le calendrier",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/structurer-les-etapes-en/construction-d-un-plan-d-action-5",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "construire-les-actions-a",
+              "nom": "Construire les actions à mettre en œuvre",
+              "cours": [
+                {
+                  "id": "les-specificites-sectorielles-du",
+                  "titre": "Les spécificités sectorielles du développement commercial en BtoB",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/construire-les-actions-a/les-specificites-sectorielles-du",
+                  "disponible": true
+                },
+                {
+                  "id": "les-specificites-sectorielles-du-2",
+                  "titre": "Les spécificités sectorielles du développement commercial en BtoC",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/construire-les-actions-a/les-specificites-sectorielles-du-2",
+                  "disponible": false
+                },
+                {
+                  "id": "les-specificites-sectorielles-du-3",
+                  "titre": "Les spécificités sectorielles du développement commercial en Retail",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/construire-les-actions-a/les-specificites-sectorielles-du-3",
+                  "disponible": false
+                },
+                {
+                  "id": "les-specificites-du-pac-en-e-business",
+                  "titre": "Les spécificités du PAC en e-business",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/construire-les-actions-a/les-specificites-du-pac-en-e-business",
+                  "disponible": false
+                },
+                {
+                  "id": "pas-a-pas-le-plan-d-action-commercial",
+                  "titre": "Pas à pas : le plan d'action commercial",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/construire-les-actions-a/pas-a-pas-le-plan-d-action-commercial",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "piloter-le-plan-d-action",
+              "nom": "Piloter le plan d'action commercial",
+              "cours": [
+                {
+                  "id": "pilotage-de-l-action-commerciale",
+                  "titre": "Pilotage de l'action commerciale",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/piloter-le-plan-d-action/pilotage-de-l-action-commerciale",
+                  "disponible": false
+                },
+                {
+                  "id": "l-evaluation-des-consequences-sur-la",
+                  "titre": "L'évaluation des conséquences sur la stratégie commerciale et le résultat",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/piloter-le-plan-d-action/l-evaluation-des-consequences-sur-la",
+                  "disponible": false
+                },
+                {
+                  "id": "l-importance-des-kpi",
+                  "titre": "L'importance des KPI",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/piloter-le-plan-d-action/l-importance-des-kpi",
+                  "disponible": false
+                },
+                {
+                  "id": "la-mise-en-place-d-un-tableau-de-bord",
+                  "titre": "La mise en place d'un tableau de bord et le suivi des KPI",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/piloter-le-plan-d-action/la-mise-en-place-d-un-tableau-de-bord",
+                  "disponible": true
+                },
+                {
+                  "id": "la-definition-des-kpi-dans-un-pac",
+                  "titre": "La définition des KPI dans un PAC",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/piloter-le-plan-d-action/la-definition-des-kpi-dans-un-pac",
+                  "disponible": false
+                },
+                {
+                  "id": "les-kpi-en-e-commerce",
+                  "titre": "Les KPI en e-commerce",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/piloter-le-plan-d-action/les-kpi-en-e-commerce",
+                  "disponible": true
+                },
+                {
+                  "id": "exercice-application-aligner-le-pac-sur",
+                  "titre": "EXERCICE:Application - Aligner le PAC sur le plan stratégique de l'entreprise",
+                  "chemin": "data/conception-et-pilotage-de/concevoir-un-plan-daction/piloter-le-plan-d-action/exercice-application-aligner-le-pac-sur",
+                  "disponible": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "presenter-et-defendre-une",
+          "nom": "Présenter et défendre une proposition de plan dʼaction commerciale ainsi que le budget associé",
+          "sousmodules": [
+            {
+              "id": "budgeter-un-plan-d-action",
+              "nom": "Budgéter un plan d'action commercial",
+              "cours": [
+                {
+                  "id": "les-tableaux-de-bord",
+                  "titre": "Les tableaux de bord",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/budgeter-un-plan-d-action/les-tableaux-de-bord",
+                  "disponible": true
+                },
+                {
+                  "id": "cas-pratique-tb-du-coin",
+                  "titre": "Cas Pratique: TB  Du Coin",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/budgeter-un-plan-d-action/cas-pratique-tb-du-coin",
+                  "disponible": false
+                },
+                {
+                  "id": "corrige-cas-du-coin",
+                  "titre": "Corrigé - Cas Du Coin",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/budgeter-un-plan-d-action/corrige-cas-du-coin",
+                  "disponible": false
+                },
+                {
+                  "id": "les-investissements-commerciaux-et-leur",
+                  "titre": "Les investissements commerciaux et leur rentabilité",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/budgeter-un-plan-d-action/les-investissements-commerciaux-et-leur",
+                  "disponible": true
+                },
+                {
+                  "id": "l-elaboration-du-budget-commercial",
+                  "titre": "L'élaboration du budget commercial",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/budgeter-un-plan-d-action/l-elaboration-du-budget-commercial",
+                  "disponible": false
+                },
+                {
+                  "id": "l-effet-des-offres-commerciales",
+                  "titre": "L'effet des offres commerciales",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/budgeter-un-plan-d-action/l-effet-des-offres-commerciales",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "utiliser-le-plan-d-action",
+              "nom": "Utiliser le plan d'action commerciale comme outil fédérateur",
+              "cours": [
+                {
+                  "id": "la-recolte-et-compilation-des",
+                  "titre": "La récolte et compilation des informations et enjeux nécessaires",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/utiliser-le-plan-d-action/la-recolte-et-compilation-des",
+                  "disponible": false
+                },
+                {
+                  "id": "la-communication-avec-les-differents",
+                  "titre": "La communication avec les différents acteurs pertinents",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/utiliser-le-plan-d-action/la-communication-avec-les-differents",
+                  "disponible": false
+                },
+                {
+                  "id": "la-division-de-collaborateurs-internes",
+                  "titre": "La division de collaborateurs internes et externes",
+                  "chemin": "data/conception-et-pilotage-de/presenter-et-defendre-une/utiliser-le-plan-d-action/la-division-de-collaborateurs-internes",
+                  "disponible": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prospection-negociation-et",
+      "nom": "Prospection, négociation et développement du portefeuille client",
+      "modules": [
+        {
+          "id": "piloter-le-deploiement-des",
+          "nom": "Piloter le déploiement des actions de prospection commerciale",
+          "sousmodules": [
+            {
+              "id": "mettre-en-place-un-plan-de",
+              "nom": "Mettre en place un plan de prospection",
+              "cours": [
+                {
+                  "id": "le-plan-de-prospection",
+                  "titre": "Le plan de prospection",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/mettre-en-place-un-plan-de/le-plan-de-prospection",
+                  "disponible": false
+                },
+                {
+                  "id": "la-base-de-donnees",
+                  "titre": "La base de données",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/mettre-en-place-un-plan-de/la-base-de-donnees",
+                  "disponible": false
+                },
+                {
+                  "id": "le-fichier-de-prospect",
+                  "titre": "Le fichier de prospect",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/mettre-en-place-un-plan-de/le-fichier-de-prospect",
+                  "disponible": false
+                },
+                {
+                  "id": "trouver-des-prospects",
+                  "titre": "Trouver des prospects",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/mettre-en-place-un-plan-de/trouver-des-prospects",
+                  "disponible": false
+                },
+                {
+                  "id": "la-typologie-de-prospects",
+                  "titre": "La typologie de prospects",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/mettre-en-place-un-plan-de/la-typologie-de-prospects",
+                  "disponible": false
+                },
+                {
+                  "id": "l-organisation-de-la-prospection",
+                  "titre": "L'organisation de la prospection clientèle",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/mettre-en-place-un-plan-de/l-organisation-de-la-prospection",
+                  "disponible": false
+                }
+              ]
+            },
+            {
+              "id": "developper-le-portefeuille",
+              "nom": "Développer le portefeuille client",
+              "cours": [
+                {
+                  "id": "le-marketing-international",
+                  "titre": "Le marketing international",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/le-marketing-international",
+                  "disponible": false
+                },
+                {
+                  "id": "strategie-et-plan-de-prospection",
+                  "titre": "Stratégie et plan de prospection",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/strategie-et-plan-de-prospection",
+                  "disponible": false
+                },
+                {
+                  "id": "outils-et-techniques-de-prospection",
+                  "titre": "Outils et techniques de prospection digitale",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/outils-et-techniques-de-prospection",
+                  "disponible": false
+                },
+                {
+                  "id": "en-bref-les-kpi-de-la-prospection",
+                  "titre": "En bref : les KPI de la prospection",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/en-bref-les-kpi-de-la-prospection",
+                  "disponible": true
+                },
+                {
+                  "id": "argumentaire-commercial-et-techniques",
+                  "titre": "Argumentaire commercial et techniques de vente",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/argumentaire-commercial-et-techniques",
+                  "disponible": true
+                },
+                {
+                  "id": "en-bref-l-elevator-pitch-commercial",
+                  "titre": "En bref : l'elevator pitch commercial",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/en-bref-l-elevator-pitch-commercial",
+                  "disponible": false
+                },
+                {
+                  "id": "collaboration-entre-equipe-marketing-et",
+                  "titre": "Collaboration entre équipe marketing et équipe commerciale",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/collaboration-entre-equipe-marketing-et",
+                  "disponible": false
+                },
+                {
+                  "id": "qualification-et-suivi-des-prospects",
+                  "titre": "Qualification et suivi des prospects",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/qualification-et-suivi-des-prospects",
+                  "disponible": false
+                },
+                {
+                  "id": "analyse-et-optimisation-de-la",
+                  "titre": "Analyse et optimisation de la performance commerciale",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/analyse-et-optimisation-de-la",
+                  "disponible": false
+                },
+                {
+                  "id": "auto-evaluation-developper-le",
+                  "titre": "Auto évaluation - Développer le portefeuille client",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/auto-evaluation-developper-le",
+                  "disponible": false
+                },
+                {
+                  "id": "auto-evaluation-developper-le-2",
+                  "titre": "Auto évaluation - Développer le portefeuille client 2",
+                  "chemin": "data/prospection-negociation-et/piloter-le-deploiement-des/developper-le-portefeuille/auto-evaluation-developper-le-2",
+                  "disponible": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "participer-a-la-conception",
+          "nom": "Participer à la conception dʼune action de communication",
+          "sousmodules": [
+            {
+              "id": "exploiter-les-outils-et",
+              "nom": "Exploiter les outils et canaux de prospection",
+              "cours": [
+                {
+                  "id": "le-choix-des-methodes-d-approche",
+                  "titre": "Le choix des méthodes d'approche",
+                  "chemin": "data/prospection-negociation-et/participer-a-la-conception/exploiter-les-outils-et/le-choix-des-methodes-d-approche",
+                  "disponible": false
+                },
+                {
+                  "id": "la-prospection-telephonique",
+                  "titre": "La prospection téléphonique",
+                  "chemin": "data/prospection-negociation-et/participer-a-la-conception/exploiter-les-outils-et/la-prospection-telephonique",
+                  "disponible": false
+                },
+                {
+                  "id": "les-techniques-de-prospection-phoning",
+                  "titre": "Les techniques de prospection Phoning",
+                  "chemin": "data/prospection-negociation-et/participer-a-la-conception/exploiter-les-outils-et/les-techniques-de-prospection-phoning",
+                  "disponible": false
+                },
+                {
+                  "id": "application-l-utilisation-du-social",
+                  "titre": "Application - L'utilisation du social selling comme moteur de prospection",
+                  "chemin": "data/prospection-negociation-et/participer-a-la-conception/exploiter-les-outils-et/application-l-utilisation-du-social",
+                  "disponible": false
+                },
+                {
+                  "id": "la-prospection-terrain",
+                  "titre": "La prospection terrain",
+                  "chemin": "data/prospection-negociation-et/participer-a-la-conception/exploiter-les-outils-et/la-prospection-terrain",
+                  "disponible": false
+                },
+                {
+                  "id": "maitriser-la-prospection-la",
+                  "titre": "Maîtriser la prospection, la fidélisation et l'expérience client",
+                  "chemin": "data/prospection-negociation-et/participer-a-la-conception/exploiter-les-outils-et/maitriser-la-prospection-la",
+                  "disponible": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

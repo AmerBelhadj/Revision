@@ -1,0 +1,52 @@
+{
+  "titre": "Les instituts d'étude",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Définition et rôle des instituts d'études",
+      "contenu": "Un institut d'études est une organisation qui réalise des études (sondages, enquêtes d'opinion) auprès d'un échantillon de population pour le compte d'un commanditaire (entreprise, institution, annonceur, média). L'objectif est de déterminer opinions et comportements de l'échantillon et de prévoir ceux de la majorité de la population par la probabilité. Les études peuvent être qualitatives (comportements, opinions) ou quantitatives (mesure de la quantité). Un cahier des charges précisant les objectifs doit être rédigé en amont par le commanditaire.",
+      "points_cles": [
+        "Institut d'études = organisation qui réalise études/sondages pour un commanditaire",
+        "Étudie un échantillon pour prévoir le comportement de toute la population",
+        "Le cahier des charges des objectifs est rédigé en amont par le commanditaire"
+      ]
+    },
+    {
+      "titre": "Panorama des instituts en France",
+      "contenu": "La première étude d'opinion française date de 1938 (IFOP). Principaux acteurs : TNS SOFRES (n°1 France, études marketing et d'opinion), IPSOS (n°2 France, n°3 mondial), BVA (sciences comportementales, expérience client), CESP (audience des médias), IHS, Harris Interactive, INSEE (statistiques officielles), Médiamétrie (audience médias), ELABE, VIAVOICE, OpinionWay, YouGov, ADEME. Certains sont spécialisés : Médiamétrie/CESP (médias), BVA/IPSOS/IFOP (marché/opinion), INSEE (statistiques économiques), OpinionWay (opinions politiques).",
+      "points_cles": [
+        "IFOP (1938) est le pionnier français des études d'opinion",
+        "TNS SOFRES et IPSOS sont les leaders français des études marketing/opinion",
+        "Chaque institut peut avoir une spécialisation (médias, marché, statistiques, politique)"
+      ]
+    },
+    {
+      "titre": "Les offres et tarifs des instituts",
+      "contenu": "Les instituts proposent des études variées : étude de marché, positionnement/image de marque, comportement d'achat, test produit/packaging, pré/post-lancement de campagne, expérience utilisateur, client mystère, satisfaction, mesure d'audience, etc., pour des cibles variées (marques, administrations, entreprises, médias). Les tarifs varient selon la durée, la taille de l'échantillon, la méthodologie (ex. : focus group 4000-5000€ pour 15 participants, entretien qualitatif 500-800€, étude de concurrence 12000-15000€). L'étude Omnibus permet de mutualiser les coûts entre plusieurs commanditaires sur un même sondage.",
+      "points_cles": [
+        "Large éventail d'études : marché, image, comportement, test produit, satisfaction, audience",
+        "Tarifs très variables selon méthodologie et échantillon (ex. focus group ~4000-5000€)",
+        "L'étude Omnibus mutualise les coûts entre plusieurs commanditaires"
+      ]
+    },
+    {
+      "titre": "Choisir et évaluer son institut d'études",
+      "contenu": "Critères de choix à prioriser selon les objectifs : notoriété, expérience/spécialisation sectorielle, connaissance du marché, compréhension des objectifs, offre de services, modalités d'exécution, méthodologies et outils, qualité des panels, format des livrables, tarifs, disponibilité, force de proposition, restitution des résultats. Il est recommandé de comparer plusieurs instituts avant de choisir.",
+      "points_cles": [
+        "Critères clés : notoriété, expérience, connaissance du marché, qualité des panels",
+        "Les critères à prioriser dépendent des objectifs (ex. réactivité si étude urgente)",
+        "Toujours comparer plusieurs instituts avant de choisir"
+      ]
+    },
+    {
+      "titre": "Avantages et limites",
+      "contenu": "Avantages : veille concurrentielle, détection d'opportunités, optimisation de l'offre et de l'expérience client, fidélisation, segmentation, aide à la décision stratégique — les instituts apportent aussi une assistance à la maîtrise d'ouvrage et des panels déjà constitués. Limites : les études restent des représentations partielles de la réalité (biais de représentativité de l'échantillon), des limites opérationnelles (impossible de tout vérifier sur le terrain), et des coûts élevés (mais réductibles via l'Omnibus). Les sondages politiques, très contestés, sont encadrés par la loi du 19 juillet 1977 et la Commission des sondages.",
+      "points_cles": [
+        "Avantages : veille, détection d'opportunités, aide à la décision, panels déjà constitués",
+        "Limite majeure : représentativité partielle de l'échantillon, biais possibles",
+        "Sondages politiques encadrés par la loi de 1977 et la Commission des sondages"
+      ]
+    }
+  ],
+  "essentiel": "Les instituts d'études jouent un rôle clé dans le pilotage de la stratégie marketing et commerciale, en proposant des études qualitatives et quantitatives variées à des commanditaires de tous types (marques, administrations, médias). Le choix d'un institut doit se faire selon des critères hiérarchisés (expérience, méthodologie, qualité des panels, tarifs) adaptés aux objectifs. Si leur expertise et leurs panels constitués sont un atout majeur, les biais de représentativité, les limites opérationnelles et les coûts restent des points de vigilance, notamment atténuables via les études Omnibus mutualisées."
+}

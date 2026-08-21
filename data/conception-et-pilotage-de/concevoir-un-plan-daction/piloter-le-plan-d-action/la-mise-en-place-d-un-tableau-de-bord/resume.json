@@ -1,0 +1,52 @@
+{
+  "titre": "La mise en place d'un tableau de bord et le suivi des KPI",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Définition et rôle du tableau de bord",
+      "contenu": "Selon l'AFNOR (2000), le tableau de bord est « un outil de pilotage et d'aide à la décision regroupant une sélection d'indicateurs significatifs des résultats et des performances à atteindre ». Il contient des KPI (Key Performance Indicator), valeurs mesurables démontrant l'efficacité et l'efficience avec laquelle une entreprise atteint ses objectifs. Il permet de qualifier la performance, comprendre ses causes (inducteurs), mettre en place des actions correctives, rendre des comptes (reporting) et prendre de nouvelles orientations.",
+      "points_cles": [
+        "AFNOR : outil de pilotage et d'aide à la décision basé sur des indicateurs significatifs",
+        "KPI = valeur mesurable de l'efficacité/efficience de l'atteinte des objectifs",
+        "Fonctions : qualifier la performance, comprendre les causes, corriger, rendre compte, décider"
+      ]
+    },
+    {
+      "titre": "Avantages, limites et types de tableaux de bord",
+      "contenu": "Avantages : centralisation des informations, export simple, instantanéité, remplace le papier, actualisation facile. Limites : lourdeur de gestion, implémentation difficile, données difficiles à s'approprier sans avoir participé à leur traitement, enjeux de confidentialité, difficulté d'adaptation selon les services. Il existe 2 grands types : le Balanced Scorecard (tableau de bord prospectif, suit performance financière, relation client, processus internes, capacité d'apprentissage) et le Tableau de Bord classique (satisfaction client, conformité qualité, efficacité des processus, performance produits). Le tableau de bord se distingue du reporting : le reporting contrôle a posteriori la réalisation des objectifs, le tableau de bord est une démarche prospective (le reporting n'étant qu'une de ses fonctions).",
+      "points_cles": [
+        "Avantages : centralisation, instantanéité, actualisation facile",
+        "Limites : lourdeur de gestion, appropriation difficile, confidentialité",
+        "Tableau de bord = démarche prospective ; reporting = contrôle a posteriori"
+      ]
+    },
+    {
+      "titre": "Nature et pertinence des indicateurs",
+      "contenu": "2 catégories : les indicateurs de résultat (mesurent le résultat final a posteriori) et les indicateurs de suivi (jalons qui permettent d'anticiper et de réagir avant le résultat final). Les indicateurs peuvent prendre différentes formes : simple nombre (comptage), valeur simple (mesure dans une unité), valeur statistique (moyenne), note (évaluation), taux (rapport entre valeurs de même unité) ou ratio (rapport entre valeurs d'unités différentes) — taux et ratio permettent de visualiser une évolution relative.",
+      "points_cles": [
+        "Indicateurs de résultat (a posteriori) vs indicateurs de suivi (jalons, anticipation)",
+        "6 formes : nombre, valeur simple, valeur statistique, note, taux, ratio",
+        "Taux et ratio permettent de visualiser une évolution relative"
+      ]
+    },
+    {
+      "titre": "Interpréter les KPI",
+      "contenu": "Les KPI peuvent être analysés selon 6 paramètres : le niveau/volume d'activité, l'efficacité (capacité à atteindre les objectifs), l'efficience (capacité à minimiser les moyens employés), la qualité (réponse à un besoin), les coûts (charges mises en balance avec les gains) et les délais (temps mobilisé, indicateur indirect de qualité). Les indicateurs cibles sont fixés par rapport à des standards du marché ou des performances passées (benchmarking).",
+      "points_cles": [
+        "6 paramètres d'interprétation : niveau, efficacité, efficience, qualité, coûts, délais",
+        "Efficacité = atteindre les objectifs ; Efficience = minimiser les moyens",
+        "Les indicateurs cibles s'appuient souvent sur le benchmarking"
+      ]
+    },
+    {
+      "titre": "Mesure de la performance et prise de décision",
+      "contenu": "L'analyse mesure les écarts entre réalisé et objectifs (quantitatifs, plus fiables, ou qualitatifs, mesurés par observation/enquête avec une part de subjectivité à minimiser). Un écart positif = surperformance ; négatif = sous-performance nécessitant un diagnostic et des actions correctives. Igor Ansoff classe les décisions en 3 niveaux : stratégiques (direction générale, long terme, risque élevé), tactiques (encadrement, moyen terme, risque moyen), opérationnelles (portée limitée, court terme, risque mineur). Le Tableau de Bord Prospectif (TBP), outil de management stratégique de la direction, s'articule autour de 4 axes : client, processus internes, finances, apprentissage organisationnel.",
+      "points_cles": [
+        "Écarts quantitatifs (fiables) vs qualitatifs (subjectifs, via enquêtes)",
+        "3 niveaux de décision (Ansoff) : stratégique, tactique, opérationnelle",
+        "TBP (Tableau de Bord Prospectif) : 4 axes — client, processus internes, finances, apprentissage"
+      ]
+    }
+  ],
+  "essentiel": "Le tableau de bord est l'outil indispensable de pilotage et de prise de décision, construit à partir d'indicateurs pertinents (de résultat ou de suivi) sélectionnés selon les objectifs stratégiques. Son analyse mesure des écarts (quantitatifs de préférence) qui orientent la prise de décision à 3 niveaux (stratégique, tactique, opérationnelle selon Ansoff). Le Tableau de Bord Prospectif, sur 4 axes (client, processus, finances, apprentissage), en représente la forme la plus aboutie au niveau de la direction générale."
+}

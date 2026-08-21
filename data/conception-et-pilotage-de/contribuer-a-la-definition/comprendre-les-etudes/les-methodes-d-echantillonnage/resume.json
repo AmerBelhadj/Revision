@@ -1,0 +1,43 @@
+{
+  "titre": "Les méthodes d'échantillonnage",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Population mère et échantillon",
+      "contenu": "La population mère est la population sur laquelle porte l'étude. Le recensement (interroger toute la population mère) n'est possible que si elle est clairement identifiée et compte moins de 300 personnes. Sinon, on recourt à un échantillon (une partie représentative). La taille de l'échantillon ne doit être ni trop grande (gaspillage de ressources) ni trop petite (résultats non concluants), et dépend aussi du nombre de questions posées par personne (un sondage trop long fait baisser la qualité des réponses).",
+      "points_cles": [
+        "Population mère = population ciblée par l'étude",
+        "Recensement possible seulement si population < 300 personnes et bien identifiée",
+        "La taille de l'échantillon doit être équilibrée : ni trop grande, ni trop petite"
+      ]
+    },
+    {
+      "titre": "Les erreurs classiques d'échantillonnage",
+      "contenu": "Plusieurs biais peuvent fausser un sondage : l'erreur de spécification de la population (population mère mal définie), l'erreur sur la base de sondage (sous-population non représentative, ex. le sondage de 1936 sur la présidentielle US basé sur les propriétaires de voiture/téléphone, biaisé vers les classes aisées), l'erreur de sélection par volontariat (seules les personnes déjà motivées répondent), et la non-réponse si elle concerne un profil homogène de personnes.",
+      "points_cles": [
+        "Erreur de spécification : population mère mal définie",
+        "Erreur de base de sondage : sous-population non représentative (ex. sondage 1936 USA)",
+        "Volontariat et non-réponse peuvent aussi biaiser la représentativité"
+      ]
+    },
+    {
+      "titre": "Méthode probabiliste vs méthode empirique",
+      "contenu": "La méthode probabiliste (ou aléatoire) tire au sort l'échantillon dans une base de sondage, chaque individu ayant une probabilité connue et non nulle d'être sélectionné (image du loto) ; elle s'appuie sur la loi des grands nombres pour garantir la représentativité. La méthode empirique (ou non probabiliste) fait un choix raisonné d'individus selon des règles fixées à l'avance (ex. interroger 350 personnes selon certains critères), jusqu'à atteindre le nombre visé.",
+      "points_cles": [
+        "Méthode probabiliste : tirage au sort, chaque individu a une chance connue d'être choisi",
+        "Méthode empirique : choix raisonné selon des règles fixées à l'avance",
+        "La probabiliste s'appuie sur la loi des grands nombres pour la représentativité"
+      ]
+    },
+    {
+      "titre": "Choisir la bonne méthode",
+      "contenu": "Le critère clé est de savoir si l'on dispose d'une base de sondage complète et fiable. Si oui et que les moyens (budget, temps) le permettent, la méthode probabiliste est privilégiée. Si non, ou si le budget ne permet pas un recrutement aléatoire, on opte pour la méthode empirique. La base de sondage doit aussi respecter les règles de la CNIL (consentement des individus). La taille de l'échantillon peut aussi se calculer simplement selon le budget : Taille = Budget global / Coût d'un questionnaire.",
+      "points_cles": [
+        "Sans base de sondage fiable et complète → méthode empirique",
+        "Avec base de sondage + budget suffisant → méthode probabiliste possible",
+        "Formule budgétaire : Taille échantillon = Budget global / Coût d'un questionnaire"
+      ]
+    }
+  ],
+  "essentiel": "Constituer un échantillon pertinent est un pilier essentiel de toute étude quantitative. Il faut définir la taille de l'échantillon (ni trop grande ni trop petite) puis choisir entre méthode probabiliste (tirage au sort, base de sondage nécessaire, résultats plus fiables) et méthode empirique (choix raisonné, plus rapide et moins coûteuse). Le choix dépend des objectifs, de la disponibilité d'une base de sondage fiable, du budget et du temps disponibles."
+}

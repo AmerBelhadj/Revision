@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quelles sont les 4 fonctions d'un tableau de bord ?",
+    "reponse": "Outil de diagnostic, outil de mesure, outil de communication, outil d'information."
+  },
+  {
+    "id": "2",
+    "question": "Quelle est la différence entre indicateurs managériaux et indicateurs de gestion ?",
+    "reponse": "Managériaux : motivation du personnel, récompense des résultats. Gestion : mesure de la performance (coût, rentabilité, finances)."
+  },
+  {
+    "id": "3",
+    "question": "Combien d'indicateurs maximum un tableau de bord doit-il contenir pour rester lisible ?",
+    "reponse": "Entre 10 et 15 indicateurs maximum."
+  },
+  {
+    "id": "4",
+    "question": "Quelles sont les 4 qualités d'un bon tableau de bord ?",
+    "reponse": "Simple, pertinent, visuel, fiable et actualisé."
+  },
+  {
+    "id": "5",
+    "question": "À quelle fréquence minimale un tableau de bord doit-il être actualisé ?",
+    "reponse": "Au moins chaque mois."
+  },
+  {
+    "id": "6",
+    "question": "Quelles sont les 3 catégories d'indicateurs dans la sélection des KPI ?",
+    "reponse": "Indicateurs de résultat, indicateurs d'efficience, indicateurs d'action."
+  },
+  {
+    "id": "7",
+    "question": "Comment calcule-t-on la marge commerciale ?",
+    "reponse": "Marge commerciale = CA HT - Coût d'achat des marchandises vendues HT."
+  },
+  {
+    "id": "8",
+    "question": "Comment calcule-t-on le taux de marque ?",
+    "reponse": "Taux de marque = Marge commerciale / Prix de vente."
+  },
+  {
+    "id": "9",
+    "question": "Quels sont les 4 grands domaines d'application des indicateurs ?",
+    "reponse": "Économique, physique (qualité), humain, suivi de projet."
+  },
+  {
+    "id": "10",
+    "question": "Quels sont les 3 objectifs types d'une stratégie de communication mesurés par un tableau de bord ?",
+    "reponse": "Objectifs cognitifs (faire connaître), affectifs (convaincre, faire adhérer), conatifs (faire agir)."
+  }
+]

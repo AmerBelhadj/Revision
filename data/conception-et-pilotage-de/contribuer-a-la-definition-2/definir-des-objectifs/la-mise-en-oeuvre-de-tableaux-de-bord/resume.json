@@ -1,0 +1,52 @@
+{
+  "titre": "La mise en œuvre de tableaux de bord marketing",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Qu'est-ce qu'un tableau de bord ?",
+      "contenu": "Un tableau de bord est un outil de pilotage qui permet de visualiser, suivre, exploiter et contrôler l'activité d'une organisation par rapport à ses objectifs. Selon Stephen Few (2006), c'est « une représentation visuelle des informations les plus importantes... regroupées dans un seul écran pour une consultation rapide », à l'image du tableau de bord d'une voiture. Il reprend les principaux KPI (Key Performance Indicator ou Indicateurs Clés de Performance) qui mesurent l'efficacité des actions marketing et commerciales, de manière globale/permanente ou pour une action ponctuelle.",
+      "points_cles": [
+        "Tableau de bord = outil de pilotage visuel synthétique, comme celui d'une voiture",
+        "KPI = Key Performance Indicator, mesure l'efficacité des actions",
+        "Peut être suivi en continu ou pour une action marketing ponctuelle"
+      ]
+    },
+    {
+      "titre": "Principes de conception",
+      "contenu": "Un tableau de bord doit intégrer 3 éléments : les objectifs définis en amont, les indicateurs de performance (KPI), et les actions correctives à mettre en place. Pour être efficace, il doit être lisible, compris et accepté par l'équipe, contenir l'essentiel (sans surcharge d'indicateurs), et être actualisé régulièrement — sinon il perd toute utilité. Il permet aux entreprises de prendre des décisions rapides et fondées sur des données, plutôt que sur l'intuition, et de se démarquer de la concurrence en réagissant vite aux aléas.",
+      "points_cles": [
+        "3 éléments clés : objectifs, KPI, actions correctives",
+        "Doit rester lisible : essentiel plutôt que surcharge d'indicateurs",
+        "Doit être actualisé régulièrement, sinon il devient inutile voire trompeur"
+      ]
+    },
+    {
+      "titre": "Concevoir le tableau de bord",
+      "contenu": "L'implication des équipes est essentielle : un tableau de bord non adopté est inutile ; il doit être perçu comme une aide à la décision, pas un contrôle. Les étapes : identifier les objectifs (qualitatifs et quantitatifs), choisir les KPI les plus pertinents, puis récupérer et fusionner les données de sources multiples (CRM, ERP, Google Analytics, outils publicitaires) pour une vue consolidée — l'automatisation (Zapier, Make, Fivetran, HubSpot Reporting) permet une mise à jour sans saisie manuelle. Les bases de données diffèrent en B to B et B to C.",
+      "points_cles": [
+        "Le tableau de bord doit être adopté par l'équipe pour être utile",
+        "Étapes : objectifs (quali + quanti) → choix des KPI → consolidation des données",
+        "L'automatisation permet une mise à jour des données sans saisie manuelle"
+      ]
+    },
+    {
+      "titre": "Exploitation : mise à jour, forme et structure",
+      "contenu": "Un tableau de bord obsolète est dangereux car il induit les décideurs en erreur : les données doivent être actualisées en temps réel ou quasi-réel. Outils : Excel (encore utilisé mais limité) ou outils modernes (Power BI, Tableau, Looker Studio, Qlik Sense, Klipfolio, HubSpot Reporting), avec une tendance à l'IA générative pour résumer les insights. 3 structures possibles : par KPI (regroupés par objectif), par niveau (du plus large au plus détaillé), ou par causalité (KPI liés entre eux, ex. chiffre d'affaires ← nombre de commandes × panier moyen).",
+      "points_cles": [
+        "Données obsolètes = décisions faussées : actualisation en temps réel indispensable",
+        "Outils modernes : Power BI, Tableau, Looker Studio, Qlik Sense...",
+        "3 structures : par KPI, par niveau (hiérarchie), par causalité (liens entre KPI)"
+      ]
+    },
+    {
+      "titre": "Les graphiques",
+      "contenu": "Le choix du graphique dépend de ce que l'on veut visualiser : camembert/diagramme circulaire pour une proportion, courbes ou histogrammes pour des tendances/progressions dans le temps, cumul courbes + histogrammes pour associer plusieurs informations.",
+      "points_cles": [
+        "Camembert : proportions",
+        "Courbes/histogrammes : tendances et évolutions dans le temps",
+        "Combinaison courbes + histogrammes : plusieurs informations croisées"
+      ]
+    }
+  ],
+  "essentiel": "Le tableau de bord marketing est un outil de pilotage indispensable pour mesurer, analyser et corriger les actions marketing, construit autour de 3 piliers : objectifs, KPI et actions correctives. Sa conception nécessite l'implication des équipes, une sélection rigoureuse des indicateurs et une consolidation de données de sources multiples. Pour rester utile, il doit être mis à jour régulièrement, structuré de façon lisible (par KPI, par niveau ou par causalité) et accompagné de graphiques adaptés à chaque type de donnée."
+}

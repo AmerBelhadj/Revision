@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quels sont les 4 composants du coût de revient ?",
+    "reponse": "Coûts d'achat/approvisionnement, coûts de production, coûts de distribution, coûts administratifs."
+  },
+  {
+    "id": "2",
+    "question": "Quelle est la différence entre coûts fixes et coûts variables ?",
+    "reponse": "Les coûts fixes ne dépendent pas du niveau d'activité (loyer, salaires) ; les coûts variables évoluent proportionnellement au chiffre d'affaires (matières premières, commissions)."
+  },
+  {
+    "id": "3",
+    "question": "Comment calcule-t-on l'élasticité-prix de la demande ?",
+    "reponse": "Élasticité = taux de variation de la demande / taux de variation du prix."
+  },
+  {
+    "id": "4",
+    "question": "Qu'est-ce que le prix psychologique ?",
+    "reponse": "Un prix basé sur la valeur perçue par le client (émotionnelle) plutôt que sur les coûts ou la rationalité, ex. prix ronds ou juste sous un seuil (9,99 €)."
+  },
+  {
+    "id": "5",
+    "question": "Comment calcule-t-on le seuil de rentabilité ?",
+    "reponse": "Seuil de rentabilité = Charges fixes / Taux de marge sur coûts variables."
+  },
+  {
+    "id": "6",
+    "question": "Quelle est la différence entre taux de marge et taux de marque ?",
+    "reponse": "Taux de marge = Marge brute / coût d'achat x 100. Taux de marque = Marge brute / prix de vente HT x 100."
+  },
+  {
+    "id": "7",
+    "question": "Qu'est-ce que la stratégie de pénétration ?",
+    "reponse": "Fixer un prix bas, inférieur à la concurrence, pour gagner rapidement des parts de marché, en privilégiant le volume à la marge (ex. Free)."
+  },
+  {
+    "id": "8",
+    "question": "Cite 3 critères possibles de discrimination tarifaire.",
+    "reponse": "Âge, catégorie socioprofessionnelle, volume acheté, zone géographique, moment de l'achat (3 au choix)."
+  },
+  {
+    "id": "9",
+    "question": "Quelle est la différence entre remise, rabais, ristourne et escompte ?",
+    "reponse": "Remise : grosse commande. Rabais : problème qualité/livraison. Ristourne : volume cumulé sur une période (souvent en fin d'année). Escompte : paiement comptant rapide."
+  },
+  {
+    "id": "10",
+    "question": "Combien de fois par an les soldes sont-elles autorisées et quelle particularité légale offrent-elles ?",
+    "reponse": "Deux périodes de 4 semaines par an ; c'est le seul moment où la vente à perte est légalement autorisée."
+  }
+]

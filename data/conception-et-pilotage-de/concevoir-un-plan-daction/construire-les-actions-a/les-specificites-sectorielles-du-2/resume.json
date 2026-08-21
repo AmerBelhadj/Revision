@@ -1,0 +1,52 @@
+{
+  "titre": "Les spécificités sectorielles du développement commercial en B to B",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Le B to B en général",
+      "contenu": "En B to B, l'équipe commerciale ne vend pas des produits mais des solutions sur-mesure, sur des cycles souvent longs, avec de multiples interlocuteurs et une fréquence élevée d'appels d'offres. Les clients sont moins nombreux qu'en B to C, mais influents, hétérogènes, rationnels et organisés en filières. Le mix marketing B to B se distingue : produits accompagnés d'un support spécifique, prix basé sur la valeur ajoutée, communication mêlant digital et supports classiques, distribution directe, indirecte ou digitale.",
+      "points_cles": [
+        "En B to B, on vend des solutions sur-mesure, pas de simples produits",
+        "Clients moins nombreux, plus influents, rationnels, organisés en filières",
+        "Un mix marketing propre au B to B (produit/prix/communication/distribution)"
+      ]
+    },
+    {
+      "titre": "Secteur de l'industrie : des clients experts",
+      "contenu": "Dans l'industrie, les clients (ingénieurs, techniciens) ont des compétences techniques importantes et une démarche rationnelle, jamais un achat d'impulsion ; leur besoin est décrit dans un cahier des charges complet. L'équipe commerciale doit donc allier bagage technique et orientation résultats/chiffre d'affaires, en s'appuyant sur des équipes mixtes (commerciaux, ingénieurs avant-vente, chefs de projet, marketing, R&D) travaillant en synergie.",
+      "points_cles": [
+        "Clients industriels très techniques, achat toujours réfléchi (cahier des charges)",
+        "Équipes mixtes : commerciaux + support technique (ingénieur avant-vente, chef de projet)",
+        "L'ingénieur avant-vente libère le commercial pour se concentrer sur la négociation"
+      ]
+    },
+    {
+      "titre": "Secteur de l'industrie : un parcours d'achat long",
+      "contenu": "Le cycle de vente industriel est long (mois, voire années) et se déroule en 6 phases : expression du besoin, prototypage, recherche de fournisseurs qualifiés, sélection des fournisseurs, production, maintenance. Trois profils principaux interviennent selon les phases : l'ingénieur (besoins/prototypage), l'acheteur (recherche/validation/qualification des fournisseurs), et le responsable de production ou maintenance. Le marketing doit décrire ces personas à l'équipe commerciale.",
+      "points_cles": [
+        "6 phases : besoin → prototypage → recherche fournisseurs → sélection → production → maintenance",
+        "3 profils clés : ingénieur, acheteur, responsable de production/maintenance",
+        "Chaque profil influence le parcours d'achat sans décider seul"
+      ]
+    },
+    {
+      "titre": "Secteur de la santé : un cadre très réglementé",
+      "contenu": "La loi Bertrand (2011, renforcée en 2018, dite « loi anti-cadeaux ») interdit les avantages commerciaux (échantillons, cadeaux) autrefois courants. Le médicament est un produit strictement réglementé : sa commercialisation nécessite une Autorisation de Mise sur le Marché (AMM) délivrée par l'ANSM. Une tension existe entre les objectifs sanitaires du corps médical et les objectifs commerciaux des laboratoires.",
+      "points_cles": [
+        "Loi Bertrand (« anti-cadeaux ») : interdiction des avantages commerciaux depuis 2018",
+        "Le médicament nécessite une AMM délivrée par l'ANSM avant commercialisation",
+        "Tension entre logique sanitaire (médecins) et logique commerciale (laboratoires)"
+      ]
+    },
+    {
+      "titre": "Secteur de la santé : métiers et évolution vers le B to H",
+      "contenu": "Les visiteurs médicaux et délégués hospitaliers transmettent l'information médicale (respectivement aux médecins/pharmaciens et aux praticiens hospitaliers) mais n'ont pas de rôle de négociation commerciale directe — c'est un des seuls secteurs sans vente directe pour ces métiers. Le secteur évolue vers le B to H (Business to Human) : les professionnels de santé s'informent de plus en plus via internet, poussant les commerciaux à recréer un lien humain fort malgré la digitalisation croissante.",
+      "points_cles": [
+        "Visiteurs médicaux / délégués hospitaliers : information, pas de négociation directe",
+        "B to H = Business to Human, réponse à la digitalisation croissante du secteur santé",
+        "L'humain reste central même quand les clients s'informent de plus en plus en ligne"
+      ]
+    }
+  ],
+  "essentiel": "Le développement commercial en B to B partage des finalités communes mais varie fortement selon les secteurs. Dans l'industrie, des clients très techniques et un cycle d'achat long (6 phases, 3 profils clés) imposent des équipes commerciales mixtes alliant expertise technique et compétences commerciales. Dans la santé, une réglementation stricte (loi anti-cadeaux, AMM) et des métiers spécifiques sans négociation directe évoluent aujourd'hui vers le B to H, qui replace l'humain au centre de la relation commerciale face à la digitalisation."
+}

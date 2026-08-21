@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quelle est la différence fondamentale entre Push et Pull ?",
+    "reponse": "Push = l'entreprise va vers le consommateur (échantillons, emailings) sans qu'il le recherche activement. Pull = l'entreprise attire le consommateur vers elle (contenu, réseaux sociaux, storytelling)."
+  },
+  {
+    "id": "2",
+    "question": "Cite 3 techniques de promotion des ventes (stratégie Push).",
+    "reponse": "Coupons/bons de réduction, primes, vente par lot, jeux-concours, échantillonnage produit (3 au choix)."
+  },
+  {
+    "id": "3",
+    "question": "Quel média domine le parcours d'achat selon l'étude CSA 2019, et quelle est la part offline vs digital ?",
+    "reponse": "La TV domine toutes les étapes ; les médias offline pèsent 71 % de l'efficacité perçue contre 29 % pour le digital."
+  },
+  {
+    "id": "4",
+    "question": "Qu'est-ce que l'inbound marketing ?",
+    "reponse": "Une approche Pull qui consiste à faire venir le prospect en lui offrant du contenu utile à forte valeur ajoutée (ex. livre blanc), plutôt que de le solliciter directement (outbound)."
+  },
+  {
+    "id": "5",
+    "question": "Quel est le principe du marketing d'influence et quel chiffre clé le justifie ?",
+    "reponse": "S'appuyer sur des influenceurs prescripteurs sur les réseaux sociaux ; 80 % des consommateurs ont déjà acheté suite à une recommandation d'influenceur (étude Rakuten 2019)."
+  },
+  {
+    "id": "6",
+    "question": "Quels sont les 4 objectifs types d'une communication commerciale ?",
+    "reponse": "Conquérir de nouveaux prospects, fidéliser les clients actuels, modifier l'image de l'entreprise, faire connaître de nouveaux produits/services."
+  },
+  {
+    "id": "7",
+    "question": "Quels critères de ciblage utilise-t-on en BtoC et en BtoB ?",
+    "reponse": "BtoC : sexe, âge, catégorie socioprofessionnelle, lieu de résidence, centres d'intérêt. BtoB : taille de l'entreprise, secteur d'activité, nature des marchés visés."
+  },
+  {
+    "id": "8",
+    "question": "Qu'est-ce qu'un plan média ?",
+    "reponse": "Un document (souvent un tableau) qui liste tous les moyens de communication et campagnes publicitaires prévues, avec leur planning de mise en action."
+  },
+  {
+    "id": "9",
+    "question": "Quel est l'objectif de la communication institutionnelle (corporate) ?",
+    "reponse": "Promouvoir l'image globale de l'entreprise, son histoire et ses valeurs, auprès de cibles internes (salariés, actionnaires) et externes (clients, partenaires, pouvoirs publics)."
+  },
+  {
+    "id": "10",
+    "question": "Qu'est-ce que le mécénat en communication institutionnelle ?",
+    "reponse": "Un soutien financier ou matériel apporté sans contrepartie directe à une activité d'intérêt général (culture, sport, environnement, recherche, aide humanitaire)."
+  }
+]

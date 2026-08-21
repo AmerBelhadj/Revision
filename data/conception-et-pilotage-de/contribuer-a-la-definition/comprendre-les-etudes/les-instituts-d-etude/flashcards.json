@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Qu'est-ce qu'un institut d'études ?",
+    "reponse": "Une organisation qui réalise des études (sondages, enquêtes d'opinion) auprès d'un échantillon de population pour le compte d'un commanditaire."
+  },
+  {
+    "id": "2",
+    "question": "Quel institut a réalisé la première étude d'opinion en France, et en quelle année ?",
+    "reponse": "L'IFOP, en 1938."
+  },
+  {
+    "id": "3",
+    "question": "Quels sont les instituts n°1 et n°2 en France pour les études marketing et d'opinion ?",
+    "reponse": "TNS SOFRES (n°1) et IPSOS (n°2, n°3 mondial)."
+  },
+  {
+    "id": "4",
+    "question": "Quel est le rôle de l'INSEE ?",
+    "reponse": "L'Institut National de la Statistique et des Études Économiques produit, analyse et publie les statistiques officielles en France (recensement, indicateurs économiques)."
+  },
+  {
+    "id": "5",
+    "question": "Qu'est-ce qu'une étude Omnibus ?",
+    "reponse": "Une étude menée pour le compte de plusieurs entreprises, où les questions de différents commanditaires sont posées au même sondé, pour mutualiser et réduire les coûts."
+  },
+  {
+    "id": "6",
+    "question": "Cite 4 critères de choix d'un institut d'études.",
+    "reponse": "Notoriété, expérience/spécialisation, connaissance du marché, qualité des panels, tarifs, disponibilité (4 au choix)."
+  },
+  {
+    "id": "7",
+    "question": "Quel document le commanditaire doit-il préparer avant de consulter des instituts d'études ?",
+    "reponse": "Un cahier des charges mentionnant les objectifs de l'étude."
+  },
+  {
+    "id": "8",
+    "question": "Cite 3 avantages de faire appel à un institut d'études.",
+    "reponse": "Veille concurrentielle, détection d'opportunités, optimisation de l'offre/expérience client, aide à la décision stratégique (3 au choix)."
+  },
+  {
+    "id": "9",
+    "question": "Quelle est la principale limite liée à l'échantillon dans une étude d'institut ?",
+    "reponse": "L'étude reste une représentation partielle de la réalité ; la représentativité et la qualité de l'échantillon peuvent biaiser les résultats."
+  },
+  {
+    "id": "10",
+    "question": "Quel cadre légal encadre les sondages politiques en France ?",
+    "reponse": "La loi du 19 juillet 1977, avec une déclaration préalable obligatoire auprès de la Commission des sondages."
+  }
+]

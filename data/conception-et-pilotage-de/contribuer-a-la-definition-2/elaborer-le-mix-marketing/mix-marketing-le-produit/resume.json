@@ -1,0 +1,52 @@
+{
+  "titre": "Mix marketing : le produit",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Le produit dans les 4P",
+      "contenu": "Le mix marketing (4P de McCarthy, 1960) regroupe Produit, Prix, Promotion (communication), Place (distribution) : chaque P doit être cohérent avec les autres pour atteindre la cible. Le produit ne se réduit pas à ses caractéristiques physiques : il inclut les services rendus. Un service peut relever de la servuction (produit et consommé simultanément, ex. une nuit en chambre d'hôtes) ou être associé à un bien matériel (ex. leasing d'un véhicule).",
+      "points_cles": [
+        "4P : Produit, Prix, Promotion, Place — cohérents entre eux",
+        "Le produit inclut aussi les services qui l'accompagnent",
+        "Servuction = production et consommation simultanée d'un service"
+      ]
+    },
+    {
+      "titre": "Packaging, design et marque",
+      "contenu": "Le packaging regroupe conditionnement (contact direct avec le produit), emballage (protection supplémentaire) et étiquette (mentions obligatoires : dénomination, composition, origine, DLC, prix). Il séduit le client, différencie de la concurrence et fidélise. Le design est l'apparence visuelle et fonctionnelle du produit (ergonomie, stockage, usage). La marque est un signe distinctif (nom, logo, slogan, identité visuelle) qui permet au client de reconnaître le produit ; une stratégie de marque fidélise l'audience via une identité et des valeurs propres.",
+      "points_cles": [
+        "Packaging = conditionnement + emballage + étiquette",
+        "Design = séduction + fonctionnalité (ergonomie)",
+        "Marque = signe distinctif (nom, logo, slogan) qui fidélise"
+      ]
+    },
+    {
+      "titre": "Gamme : dimensions et rôles des produits",
+      "contenu": "Une gamme est un ensemble de produits proches répondant au même besoin, sous une même marque. Elle se caractérise par sa largeur (nombre de lignes), sa profondeur (nombre de modèles par ligne), sa longueur (largeur x profondeur) et sa hauteur (éventail de prix). Dans une gamme, chaque produit joue un rôle : produit d'appel (attire à bas prix), produit leader (assure le CA principal), produit de prestige (valorise l'image), produit tactique (gêne la concurrence), produit d'avenir (remplace le leader) et produit régulateur (absorbe les frais fixes, compense les fluctuations).",
+      "points_cles": [
+        "4 dimensions : largeur, profondeur, longueur, hauteur",
+        "Produit d'appel (attire), produit leader (fait le CA), produit de prestige (image)",
+        "Produit d'avenir (relève le leader), produit régulateur (stabilise le CA)"
+      ]
+    },
+    {
+      "titre": "Le cycle de vie du produit",
+      "contenu": "4 phases : lancement (rentabilité faible, coûts R&D et communication élevés), croissance (ventes en forte hausse, apparition de la concurrence, économies d'échelle), maturité (ventes stables, forte rentabilité, il faut continuer à promouvoir et investir les profits dans l'innovation), déclin (baisse des ventes et de la rentabilité, perte d'intérêt ou produit de substitution). Certains produits (Nutella, Coca-Cola) restent en maturité indéfiniment. L'Analyse du Cycle de Vie (ACV) mesure les impacts environnementaux d'un produit sur 5 étapes : matières premières, fabrication, distribution, utilisation, fin de vie.",
+      "points_cles": [
+        "4 phases : lancement → croissance → maturité → déclin",
+        "En maturité : investir les profits dans l'innovation pour préparer la suite",
+        "ACV = analyse environnementale sur 5 étapes, de la matière première à la fin de vie"
+      ]
+    },
+    {
+      "titre": "Nouvelles attentes des clients",
+      "contenu": "En ligne, la fiche produit doit rassurer et informer : titre clair, prix visible, disponibilité, descriptif complet, conseils d'utilisation, mentions légales obligatoires, bouton d'ajout au panier. Les consommateurs attendent aujourd'hui davantage de transparence, une réduction de l'impact écologique (éco-conception, loi anti-gaspillage AGEC) et le développement de la seconde main (biens d'occasion).",
+      "points_cles": [
+        "La fiche produit doit rassurer : titre, prix, disponibilité, descriptif, mentions légales",
+        "Attentes croissantes : éco-conception, réduction des emballages (loi AGEC)",
+        "Développement de la seconde main comme nouvelle attente des consommateurs"
+      ]
+    }
+  ],
+  "essentiel": "La politique produit dépasse les caractéristiques physiques pour englober packaging, design et marque, éléments clés de séduction et de différenciation. Chaque produit occupe un rôle précis au sein d'une gamme (appel, leader, prestige, régulateur...) et suit un cycle de vie en 4 phases nécessitant des stratégies marketing adaptées. Les attentes actuelles des clients — fiche produit rassurante en ligne, éco-responsabilité, seconde main — obligent les entreprises à faire évoluer en permanence leur politique produit."
+}

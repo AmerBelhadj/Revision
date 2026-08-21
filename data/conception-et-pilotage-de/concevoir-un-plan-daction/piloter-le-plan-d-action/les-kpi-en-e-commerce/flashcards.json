@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quelles sont les 4 étapes de l'entonnoir de conversion en e-commerce ?",
+    "reponse": "Acquisition, engagement, conversion, rétention."
+  },
+  {
+    "id": "2",
+    "question": "Quelles sont les 5 principales sources de trafic On Site ?",
+    "reponse": "Trafic direct, trafic référent, trafic organique, trafic payant, trafic des réseaux sociaux."
+  },
+  {
+    "id": "3",
+    "question": "Qu'est-ce que le taux de rebond ?",
+    "reponse": "La proportion de visiteurs qui arrivent sur le site et repartent immédiatement sans aucune interaction."
+  },
+  {
+    "id": "4",
+    "question": "Un taux de rebond élevé révèle généralement quoi ?",
+    "reponse": "Un manque de qualité du contenu, une difficulté à trouver l'information recherchée, ou un mauvais ciblage de l'audience."
+  },
+  {
+    "id": "5",
+    "question": "Une conversion désigne-t-elle uniquement un achat finalisé ?",
+    "reponse": "Non : c'est toute action souhaitée par l'entreprise (téléchargement, inscription newsletter, création de compte, achat...)."
+  },
+  {
+    "id": "6",
+    "question": "Quel est le taux de conversion moyen en e-commerce en France ?",
+    "reponse": "Entre 1,5 % et 5 %."
+  },
+  {
+    "id": "7",
+    "question": "Que mesure le taux d'abandon de panier ?",
+    "reponse": "Le pourcentage de visites durant lesquelles un visiteur a ajouté un article au panier sans finaliser son achat."
+  },
+  {
+    "id": "8",
+    "question": "Cite 3 actions pour réduire le taux d'abandon de panier.",
+    "reponse": "Simplifier le tunnel d'achat, optimiser les options de paiement, ajouter des éléments de réassurance/sécurité (ou mettre en place du remarketing)."
+  },
+  {
+    "id": "9",
+    "question": "Quelle est la formule du taux de rétention ?",
+    "reponse": "(Nombre de clients revenus / Nombre total de clients sur la période) x 100."
+  },
+  {
+    "id": "10",
+    "question": "Cite 3 leviers d'action pour améliorer le taux de rétention.",
+    "reponse": "Respect des délais de livraison, qualité de l'expérience client, personnalisation des échanges (ou remarketing/marketing automation)."
+  }
+]

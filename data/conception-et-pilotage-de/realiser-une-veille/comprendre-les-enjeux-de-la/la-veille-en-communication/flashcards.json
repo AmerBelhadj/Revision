@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quels sont les 5 grands axes de la veille ?",
+    "reponse": "Veille concurrentielle, commerciale/marketing, environnementale/sociétale, technologique et juridique."
+  },
+  {
+    "id": "2",
+    "question": "Qu'est-ce que la veille stratégique ?",
+    "reponse": "Elle regroupe toutes les formes de veille ; l'entreprise est à l'écoute et prospecte dans un but de prise de décision."
+  },
+  {
+    "id": "3",
+    "question": "Qu'est-ce que l'e-réputation ?",
+    "reponse": "L'image véhiculée et/ou subie par une entreprise ou une marque sur internet, davantage influencée par la visibilité des contenus que par leur quantité."
+  },
+  {
+    "id": "4",
+    "question": "Qu'est-ce qu'un « bad buzz » ?",
+    "reponse": "Un phénomène de bouche-à-oreille négatif qui se déroule et s'amplifie sur internet, souvent suite à une campagne marketing critiquée."
+  },
+  {
+    "id": "5",
+    "question": "Que signifie QQOQCCP et à quoi sert-il ?",
+    "reponse": "Qui, Quoi, Où, Quand, Comment, Combien, Pourquoi — une méthode pour délimiter le périmètre du plan de veille."
+  },
+  {
+    "id": "6",
+    "question": "Quelle est la différence entre la méthode pull et la méthode push ?",
+    "reponse": "Pull : le veilleur va chercher l'information manuellement. Push : l'information est automatiquement poussée vers le veilleur (flux RSS, alertes, newsletters)."
+  },
+  {
+    "id": "7",
+    "question": "Cite deux exemples d'outils pull et deux exemples d'outils push.",
+    "reponse": "Pull : moteurs de recherche, signets/favoris. Push : flux RSS, alertes automatisées (ex. Google Alertes)."
+  },
+  {
+    "id": "8",
+    "question": "Quelles sont les 5 étapes du plan de veille ?",
+    "reponse": "Définir les objectifs, délimiter le périmètre (QQOQCCP), déterminer les sources, traiter/analyser/stocker les données, partager les résultats."
+  },
+  {
+    "id": "9",
+    "question": "Pourquoi faut-il mixer les sources d'information en veille ?",
+    "reponse": "Pour obtenir des informations variées, larges et exhaustives, et s'assurer de leur fiabilité en recoupant plusieurs sources (online/offline, internes/externes)."
+  },
+  {
+    "id": "10",
+    "question": "Comment la veille en communication nourrit-elle le SWOT ?",
+    "reponse": "En apportant en continu des informations sur les opportunités et menaces de l'environnement, qui viennent enrichir l'analyse forces/faiblesses face à ces opportunités/menaces."
+  }
+]

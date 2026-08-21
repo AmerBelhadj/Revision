@@ -1,0 +1,52 @@
+{
+  "titre": "Mix marketing : la distribution",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Circuit et réseau de distribution",
+      "contenu": "La politique de distribution définit comment l'entreprise achemine ses produits/services jusqu'au consommateur final, en cohérence avec le reste du mix marketing (prix, produit, communication). Le circuit de distribution est le chemin parcouru par le produit via un ou plusieurs canaux ; le réseau de distribution est la chaîne d'intermédiaires (personnes) qui permet cet acheminement, stockage et livraison. On distingue la distribution directe (sans intermédiaire, ex. e-commerce) et indirecte (via des revendeurs qui perçoivent une commission).",
+      "points_cles": [
+        "Circuit = chemin du produit ; Réseau = chaîne d'intermédiaires qui l'achemine",
+        "Distribution directe : pas d'intermédiaire, prix plus bas, relation directe producteur-client",
+        "Distribution indirecte : via revendeurs, plus de volume mais prix plus élevé (commissions)"
+      ]
+    },
+    {
+      "titre": "Les intermédiaires et canaux de distribution",
+      "contenu": "3 grands types d'intermédiaires indirects : les revendeurs (achètent puis revendent, gèrent tout le processus de vente), la commission-affiliation (le commissionnaire-affilié vend des produits qui ne lui appartiennent pas, en dépôt, contre commission — à la différence du franchisé qui est propriétaire de son stock), et la marque blanche (produits sans marque revendus sous la marque du distributeur, ex. MDD comme Carrefour). Un canal est le chemin suivi par un produit : canal direct (aucun intermédiaire), canal court (1 intermédiaire, préserve la marge), canal long (2+ intermédiaires : grossistes, centrales d'achat — plus de volume mais marge dégradée).",
+      "points_cles": [
+        "3 intermédiaires indirects : revendeurs, commission-affiliation, marque blanche",
+        "Commission-affiliation ≠ franchise : le stock est en dépôt, pas la propriété de l'affilié",
+        "Canal direct (0 intermédiaire), court (1), long (2+) — plus de marge vs plus de volume"
+      ]
+    },
+    {
+      "titre": "Les contrats de distribution",
+      "contenu": "3 formes principales : le contrat de distribution exclusive (concession) où le fournisseur accorde l'exclusivité à un distributeur sur un territoire donné (clause d'exclusivité territoriale obligatoire) ; le contrat de distribution sélective où le fournisseur choisit ses distributeurs selon des critères précis (savoir-faire, capacité d'accueil) sans pouvoir empêcher la vente en ligne ; le contrat de franchise où le franchiseur concède au franchisé le droit d'utiliser sa marque/nom/licences contre des redevances (droit d'entrée + royalties en % du CA), valable 5 à 15 ans.",
+      "points_cles": [
+        "Distribution exclusive : 1 seul distributeur par territoire (clause d'exclusivité obligatoire)",
+        "Distribution sélective : distributeurs choisis selon critères, ne peut pas interdire la vente en ligne",
+        "Franchise : droit d'entrée (RIF) + royalties (% du CA), contrat de 5 à 15 ans"
+      ]
+    },
+    {
+      "titre": "La stratégie intensive",
+      "contenu": "La distribution intensive vise à rendre le produit accessible dans un maximum de points de vente (physiques et digitaux), utilisée pour les produits courants à forte rotation (lessive, boissons). Elle maximise les ventes mais fait perdre au fabricant la maîtrise de la commercialisation (prix, emplacement), sauf s'il investit dans le contrôle de toute la chaîne.",
+      "points_cles": [
+        "Distribution intensive : maximum de points de vente pour des produits à forte rotation",
+        "Ventes totales liées directement au nombre de points de vente",
+        "Inconvénient : perte de maîtrise sur la commercialisation (prix, emplacement)"
+      ]
+    },
+    {
+      "titre": "Multicanal, cross-canal et omnicanal",
+      "contenu": "Le multicanal utilise plusieurs canaux de distribution de manière indépendante et non coordonnée (le client choisit un canal, les infos peuvent différer d'un canal à l'autre). Le cross-canal offre plus de confort : le client combine plusieurs canaux pour un même achat (ex. sélection sur mobile, achat en ligne, retrait en magasin). L'omnicanal va plus loin : une expérience client unifiée « sans couture » où tous les canaux (magasins, click and collect, sites, réseaux sociaux) sont synchronisés en temps réel autour du parcours personnalisé du client.",
+      "points_cles": [
+        "Multicanal : canaux indépendants, non coordonnés entre eux",
+        "Cross-canal : canaux complémentaires, parcours client fluidifié",
+        "Omnicanal : expérience unifiée et personnalisée, tous les canaux synchronisés en temps réel"
+      ]
+    }
+  ],
+  "essentiel": "La politique de distribution détermine comment acheminer les produits au client final tout en optimisant chiffre d'affaires et rentabilité. Le choix du circuit (direct/indirect), du canal (direct/court/long) et du contrat (exclusif/sélectif/franchise) dépend du produit, de la concurrence, des attentes clients et des moyens de l'entreprise. Face à un parcours client multi-écrans, les stratégies évoluent du multicanal (canaux indépendants) au cross-canal (canaux complémentaires) jusqu'à l'omnicanal (expérience unifiée et personnalisée)."
+}

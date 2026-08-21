@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "Quelles sont les 4 phases de préparation du PAC ?",
+    "reponse": "Analyse stratégique interne/externe, analyse du portefeuille clients, ciblage et segmentation de la prospection, élaboration du PAC."
+  },
+  {
+    "id": "2",
+    "question": "Sur quoi la méthode des personas doit-elle se baser ?",
+    "reponse": "Des sources variées et réelles (entretiens clients, CRM, études, brainstorming) — jamais uniquement sur l'instinct ou le point de vue du professionnel."
+  },
+  {
+    "id": "3",
+    "question": "Combien de personas crée-t-on généralement, et pourquoi pas plus ?",
+    "reponse": "Entre 3 et 5, pour ne pas diluer la précision et la pertinence des profils."
+  },
+  {
+    "id": "4",
+    "question": "Que mesure l'IPO dans la matrice IPO/IPA ?",
+    "reponse": "L'Indice de Potentiel de chiffre d'affaires du prospect (volume d'achats chez les concurrents, devis, projets, santé économique)."
+  },
+  {
+    "id": "5",
+    "question": "Que mesure l'IPA dans la matrice IPO/IPA ?",
+    "reponse": "L'Indice Probable d'Accessibilité : existence de relations, connaissance d'interlocuteurs, opportunités de prise de contact."
+  },
+  {
+    "id": "6",
+    "question": "Quels sont les 5 types d'actions externes que peut planifier un PAC ?",
+    "reponse": "Prospection, conquête, fidélisation, rétention, reconquête."
+  },
+  {
+    "id": "7",
+    "question": "Quelle est la différence entre une action de fidélisation et une action de rétention ?",
+    "reponse": "La fidélisation maintient des achats réguliers ; la rétention intervient quand un client veut mettre fin à la relation, pour le retenir."
+  },
+  {
+    "id": "8",
+    "question": "Quelles sont les 2 grandes parties d'un PAC ?",
+    "reponse": "La stratégie et les objectifs par horizon temporel, puis la feuille de route détaillée (responsable, avancement, budget, CA)."
+  },
+  {
+    "id": "9",
+    "question": "Le PAC peut-il être modifié après sa création ?",
+    "reponse": "Oui, il doit être réactualisé en cours d'exercice pour s'adapter aux imprévus, sans repartir de zéro sur toutes les analyses."
+  },
+  {
+    "id": "10",
+    "question": "Pourquoi les objectifs d'un PAC doivent-ils rester réalistes ?",
+    "reponse": "Pour préserver la motivation des commerciaux et construire une équipe résiliente face aux aléas du marché."
+  }
+]

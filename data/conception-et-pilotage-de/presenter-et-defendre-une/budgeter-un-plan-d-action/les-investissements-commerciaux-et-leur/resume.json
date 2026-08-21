@@ -1,0 +1,52 @@
+{
+  "titre": "Les investissements commerciaux et leur rentabilité",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Qu'est-ce qu'un investissement commercial ?",
+      "contenu": "Un investissement commercial est un achat effectué dans le but de générer des revenus ou des profits (achat d'actions, immobilier, création de filiales...). Il peut augmenter la production, le chiffre d'affaires et la part de marché de l'entreprise, mais aussi entraîner des pertes importantes. Pour mesurer son efficacité, les entreprises utilisent des KPI comme le ROI (Retour sur Investissement), le CAC (Coût d'Acquisition Client) et la CLTV (valeur de la durée de vie du client).",
+      "points_cles": [
+        "Investissement commercial = achat visant à générer des revenus/profits",
+        "Peut accroître le CA et la part de marché, mais comporte un risque de perte",
+        "KPI clés : ROI, CAC (Coût d'Acquisition Client), CLTV (valeur vie client)"
+      ]
+    },
+    {
+      "titre": "Analyser le marché et évaluer coûts/bénéfices",
+      "contenu": "Avant d'investir, il faut analyser le marché via des outils comme le PESTEL, le SWOT, l'analyse de la concurrence, l'étude de marché, les 5 forces de Porter ou le mapping concurrentiel, pour identifier les opportunités (besoins non satisfaits, innovation, niche, tendance). Puis évaluer les coûts (acquisition, travaux, opérations, financement) et les bénéfices attendus (revenus, économies) pour déterminer la viabilité de l'investissement.",
+      "points_cles": [
+        "Outils d'analyse marché : PESTEL, SWOT, 5 forces de Porter, mapping concurrentiel",
+        "Identifier les opportunités : besoin non satisfait, innovation, niche, tendance",
+        "Évaluer coûts (acquisition, travaux, exploitation, financement) vs bénéfices attendus"
+      ]
+    },
+    {
+      "titre": "Plan d'affaires et sources de financement",
+      "contenu": "Un plan d'affaires efficace comprend 7 sections : résumé exécutif, présentation de l'entreprise, analyse de marché, produits/services, stratégie marketing et vente, structure organisationnelle, plan financier. Il sert aussi d'outil de communication pour convaincre investisseurs et prêteurs. Sources de financement : autofinancement (pas de dette mais réduit la capacité de réaction), emprunt bancaire (accès rapide mais intérêts et garanties), crédit-bail (paiements réduits mais coûteux à long terme, pas de propriété).",
+      "points_cles": [
+        "Plan d'affaires en 7 sections, du résumé exécutif au plan financier",
+        "Autofinancement : pas de dette, mais réduit la capacité à faire face aux imprévus",
+        "Emprunt bancaire et crédit-bail : accès rapide aux fonds, mais coûts et garanties"
+      ]
+    },
+    {
+      "titre": "Gestion des risques financiers",
+      "contenu": "4 types de risques : de marché (fluctuations affectant la valeur), de liquidité (difficulté à récupérer rapidement les fonds investis), de crédit (défaut de l'emprunteur) et opérationnels (erreurs ou événements imprévus). Pour les gérer : diversification du portefeuille, contrats d'assurance, mise en place de limites de risque (ex. options de vente pour se protéger d'une baisse du marché).",
+      "points_cles": [
+        "4 risques : marché, liquidité, crédit, opérationnel",
+        "Stratégies de gestion : diversification, assurance, limites de risque",
+        "Diversifier son portefeuille réduit l'exposition à un seul secteur/entreprise"
+      ]
+    },
+    {
+      "titre": "Suivi et optimisation : les indicateurs clés",
+      "contenu": "Le ROI = (Bénéfice net / Coût total de l'investissement) x 100 (ex. 20 000€/100 000€ = 20 %). Le taux de rentabilité = Flux de trésorerie net annuel / Coût total de l'investissement (ex. 10 000€/100 000€ = 10 %). Le bénéfice net = revenus - dépenses liées à l'investissement. La rentabilité des capitaux propres = Bénéfice net / Fonds propres investis (ex. 100 000€/500 000€ = 20 %). Ces indicateurs permettent d'ajuster la stratégie (réduire les coûts, augmenter les revenus) si la rentabilité est faible.",
+      "points_cles": [
+        "ROI = (Bénéfice net / Coût total) x 100",
+        "Taux de rentabilité = Flux de trésorerie net annuel / Coût total",
+        "Rentabilité des capitaux propres = Bénéfice net / Fonds propres investis"
+      ]
+    }
+  ],
+  "essentiel": "Un investissement commercial réussi suit un processus rigoureux : analyse du marché et des opportunités, évaluation des coûts et bénéfices, préparation d'un plan d'affaires solide, choix de la source de financement adaptée et gestion active des risques financiers (marché, liquidité, crédit, opérationnel). Le suivi s'appuie sur des indicateurs clés — ROI, taux de rentabilité, bénéfice net, rentabilité des capitaux propres — pour ajuster la stratégie et maximiser la rentabilité dans la durée."
+}

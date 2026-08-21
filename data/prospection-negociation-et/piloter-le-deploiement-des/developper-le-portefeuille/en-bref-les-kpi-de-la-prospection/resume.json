@@ -1,0 +1,52 @@
+{
+  "titre": "En bref : les KPI de la prospection",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Le taux de conversion, indicateur central",
+      "contenu": "Le taux de conversion est l'indicateur qui mesure le mieux l'efficacité globale du processus de prospection : il indique le pourcentage de prospects effectivement devenus clients, synthétisant la performance de tout l'entonnoir commercial, de l'identification initiale jusqu'à la signature du contrat.",
+      "points_cles": [
+        "Taux de conversion = % de prospects devenus clients",
+        "C'est l'indicateur qui synthétise l'ensemble de l'entonnoir de prospection",
+        "Il permet d'évaluer si les efforts de prospection produisent des résultats concrets"
+      ]
+    },
+    {
+      "titre": "Le ROI et le CAC de la prospection",
+      "contenu": "Le ROI (Retour sur Investissement) se calcule en rapportant le revenu généré aux ressources investies dans la prospection ; un ROI de 5 signifie que chaque euro investi rapporte 5 euros. Le CAC (Coût d'Acquisition Client) se calcule en divisant les dépenses totales de prospection par le nombre de clients acquis ; il permet d'évaluer l'efficience des différents canaux commerciaux et d'ajuster le budget vers ceux qui génèrent le meilleur rendement.",
+      "points_cles": [
+        "ROI mesure la rentabilité des investissements de prospection",
+        "CAC = Dépenses totales de prospection / Nombre de clients acquis",
+        "Le CAC permet de comparer et d'arbitrer entre canaux commerciaux"
+      ]
+    },
+    {
+      "titre": "Le taux de qualification des leads",
+      "contenu": "Le taux de qualification mesure la proportion de prospects qui correspondent réellement aux critères idéaux (budget, autorité, besoin, timing - critères BANT). Il révèle si le temps est investi sur les bonnes personnes et aide à affiner la stratégie de ciblage pour concentrer les efforts sur les prospects les plus prometteurs.",
+      "points_cles": [
+        "Taux de qualification = pertinence du ciblage des prospects",
+        "S'appuie sur les critères BANT (budget, autorité, besoin, timing)",
+        "Aide à concentrer les efforts sur les prospects les plus prometteurs"
+      ]
+    },
+    {
+      "titre": "3 catégories de KPI",
+      "contenu": "Les KPI de prospection se répartissent en 3 catégories : les KPI quantitatifs (mesurent des volumes et taux de transformation, ex. nombre d'opportunités créées, taux de réponse aux emails), les KPI qualitatifs (évaluent la pertinence du ciblage, ex. qualité des leads, taux de qualification) et les KPI de productivité (analysent l'efficience des investissements, ex. ROI, temps moyen de conversion, coût d'acquisition client).",
+      "points_cles": [
+        "KPI quantitatifs : volumes et taux de transformation",
+        "KPI qualitatifs : pertinence du ciblage (qualité des leads, taux de qualification)",
+        "KPI de productivité : efficience des investissements (ROI, CAC, temps de conversion)"
+      ]
+    },
+    {
+      "titre": "Construire son tableau de bord et outils de pilotage",
+      "contenu": "La première étape indispensable pour construire un tableau de bord KPI est de sélectionner les KPI pertinents selon ses objectifs (avant de choisir les outils de reporting ou la fréquence de suivi) : des KPI mal choisis conduisent à des décisions inadaptées. Outils courants : les CRM (Salesforce, HubSpot) centralisent les données clients et le suivi des performances ; LinkedIn Sales Navigator permet un ciblage précis des prospects ; Mailchimp analyse les taux d'ouverture/clics des campagnes email ; Google Data Studio crée des tableaux de bord visuels ; les solutions de Business Intelligence permettent des analyses avancées et prédictives.",
+      "points_cles": [
+        "1ère étape : sélectionner les KPI pertinents selon ses objectifs, avant les outils",
+        "CRM = centralisation des données et suivi des performances",
+        "Outils spécialisés : LinkedIn Sales Navigator (ciblage), Mailchimp (email), Data Studio (visualisation)"
+      ]
+    }
+  ],
+  "essentiel": "Le pilotage de la prospection repose sur des KPI complémentaires : le taux de conversion (indicateur central de l'efficacité globale), le ROI et le CAC (rentabilité et coût d'acquisition), et le taux de qualification (pertinence du ciblage). Ces indicateurs se classent en 3 catégories — quantitatifs, qualitatifs, de productivité — et doivent être sélectionnés selon les objectifs stratégiques avant tout déploiement d'outils de reporting (CRM, LinkedIn Sales Navigator, Mailchimp, Data Studio)."
+}

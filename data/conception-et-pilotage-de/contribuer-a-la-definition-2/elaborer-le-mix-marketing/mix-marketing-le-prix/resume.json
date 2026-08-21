@@ -1,0 +1,52 @@
+{
+  "titre": "Mix marketing : le prix",
+  "source_pdf": "source.pdf",
+  "sections": [
+    {
+      "titre": "Fixation du prix à partir du coût de revient",
+      "contenu": "Méthode la plus simple : fixer le prix à partir du coût de revient (coûts d'achat/approvisionnement, de production, de distribution, administratifs) + une marge. Vendre en dessous du coût de revient est interdit par la loi française (sauf soldes). On distingue coûts directs (attribuables à un produit) et indirects (nécessitent une clé de répartition), ainsi que coûts fixes (loyer, salaires) et coûts variables (proportionnels à l'activité).",
+      "points_cles": [
+        "Coût de revient = coûts d'achat + production + distribution + administratifs",
+        "Vendre sous le coût de revient est interdit par la loi (sauf soldes)",
+        "Coûts directs vs indirects, coûts fixes vs variables"
+      ]
+    },
+    {
+      "titre": "Fixation du prix à partir de la demande",
+      "contenu": "L'élasticité-prix mesure la sensibilité de la demande aux variations de prix (Élasticité = taux de variation de la demande / taux de variation du prix). Plus l'élasticité est forte, plus la demande dépend du prix ; les biens de première nécessité sont peu élastiques. Le prix psychologique se base sur la valeur perçue par le client (prix ronds, prix juste en dessous d'un seuil comme 9,99 €) plutôt que sur le rationnel — mais ne garantit ni la rentabilité ni la cohérence avec la concurrence. Les stratégies de fidélisation (ex. freemium) font évoluer le prix selon l'engagement du client.",
+      "points_cles": [
+        "Élasticité = variation de la demande / variation du prix",
+        "Prix psychologique = basé sur la valeur perçue, pas sur les coûts ou la concurrence",
+        "Freemium : produit gratuit puis migration vers une offre payante"
+      ]
+    },
+    {
+      "titre": "Rentabilité et calculs de marge",
+      "contenu": "Le seuil de rentabilité est le chiffre d'affaires minimum pour couvrir toutes les charges : Seuil de rentabilité = Charges fixes / Taux de marge sur coûts variables (avec Taux de marge sur coûts variables = Marge sur coûts variables / CA x 100). Marge brute = Prix de vente - Coût de revient. Taux de marge = Marge brute / Coût d'achat x 100. Taux de marque = Marge brute / Prix de vente HT x 100. Coefficient multiplicateur = Prix de vente TTC / Prix d'achat HT.",
+      "points_cles": [
+        "Seuil de rentabilité = Charges fixes / Taux de marge sur coûts variables",
+        "Taux de marge = Marge brute / coût d'achat x 100 ; Taux de marque = Marge brute / PVHT x 100",
+        "Le seuil de rentabilité indique le CA minimum avant de dégager du bénéfice"
+      ]
+    },
+    {
+      "titre": "Modulation du prix selon la segmentation",
+      "contenu": "La stratégie de pénétration fixe un prix bas pour gagner rapidement des parts de marché (volume plutôt que marge), risquée car elle nécessite des économies d'échelle (ex. Free). Les discriminations tarifaires proposent des prix différents selon l'âge, la catégorie socioprofessionnelle, le volume acheté, la zone géographique, ou le moment (compagnies aériennes). Le versioning propose différentes versions/qualités d'un même bien à des prix différents (livre broché/poche/ebook).",
+      "points_cles": [
+        "Stratégie de pénétration : prix bas, volume prioritaire sur la marge",
+        "Discrimination tarifaire : par âge, catégorie, volume, zone géographique ou moment",
+        "Versioning : plusieurs versions d'un même produit à des prix différents"
+      ]
+    },
+    {
+      "titre": "Politique de promotions",
+      "contenu": "Remise (réduction sur grosse commande), rabais (réduction exceptionnelle liée à un problème qualité/livraison), ristourne (réduction sur volume d'achat cumulé, souvent en fin d'année) et escompte (réduction pour paiement comptant rapide) sont des réductions distinctes. Les prix par lot ou par forfait encouragent des achats groupés. Les soldes sont réglementées : deux périodes de 4 semaines par an, seul moment où la vente à perte est autorisée (article 442 du code de commerce).",
+      "points_cles": [
+        "4 types de réductions : remise, rabais, ristourne, escompte",
+        "Les soldes autorisent la vente à perte, 2 fois 4 semaines par an",
+        "Prix par lot/forfait : encourage les achats groupés et écoule le stock"
+      ]
+    }
+  ],
+  "essentiel": "Le prix est un levier d'activation de la demande et un outil de différenciation concurrentielle. Sa fixation repose sur trois approches complémentaires : le coût de revient (méthode la plus simple), la demande (élasticité, prix psychologique) et la rentabilité attendue (seuil de rentabilité, marges). La modulation du prix (pénétration, discrimination tarifaire, versioning, promotions) permet ensuite d'ajuster l'offre au marché cible, à condition de bien le connaître et de respecter le cadre légal (interdiction de vente à perte hors soldes)."
+}
